@@ -36,7 +36,7 @@ Strategy as structured chaos.
   * All developers can work on all products
   * Strict development priorities
 
-Read Intro + Chapter 1
+#### Read Intro + Chapter 1
 
 #### Simple Rules
 
@@ -44,6 +44,10 @@ Read Intro + Chapter 1
 * Unique to the person and situation
 * Relate to a specific activity, not generalities
 
-Coldplay
+#### Coldplay Rules
 
 Always keep working, record everything lest it be forgotten, limit interviews.
+
+Seems to work for them, though perhaps not sustainably. Allows focus on the music instead of things that might be distracting.
+
+#### Read Chapter 2 & 3
