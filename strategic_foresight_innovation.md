@@ -151,3 +151,72 @@ You should look back at least twice as far as you want to look ahead. Similarly,
 
 # Opportunity
 
+See growth opportunities that exist today and could extend into the future. Critical because today's opportunities become tomorrow's innovations. Moves from a focus on the past to a focus on the future, and a focus on the problem to a focus on the people. Understand the people from macro, micro, and narrative views. By understanding users better, you increase the chances your opportunity will truly meet their needs.
+
+Questions that drive this phase:
+
+* Which behaviours are emerging that will shape or influence new opportunities in the future?
+* Which major changes about people over time, such as population movements and generational shifts, can we identify and understand that affect future changes?
+* What might we expect from future users and customers?
+
+## Generational Arcs
+
+Identifies and tracks population changes in terms of life stages and other generational variables. Work to identify who your future users are today and who they will become in the future.
+
+Instructions:
+
+1. Select a country, region, or particular group as your population to study.
+2. Find a credible source for your group's population records, such as the World Bank, U.S. Census Bureau, or Eurostat. See appendix for list of data sources.
+3. Plot the number of people living at each age (or age range) from birth to 100 years old. Population numbers will be on the y-axis, and age ranges will be along the x-axis.
+4. Note the dominant generational groups living under the population curve.
+5. Describe each generation's dominant beliefs, values, and attitudes.
+6. Reflect on what you learned in the process, here are some potential discussion questions:
+  * Looking at your potential market, is the overall trend growing, shrinking, or spiky?
+  * If your chosen market has a demographic dividend, what are the implications?
+  * If your chosen market is becoming a gerontocracy, what are the implications?
+  * Looking at the generational changes, which one factor or aspect would you target in each generation in 10 years? 20 years? 30 years?
+
+## Future User
+
+Creates a future profile of a user within a targeted demographic by comparing similar groups over time. Develop multiple profiles over time for two different targets, compare over time and at similar points.
+
+Instructions:
+
+1. Draw a box that represents your primary customer today. Name your customer and note his/her age today. You may find it helpful to develop a detailed profile (persona) using data from interviews, generational studies, surveys, market reports, etc.
+2. Draw a second box to show this person back in time and use an arrow to connect the two boxes. Not the customer's starting age. (How far you look back will depend on your groups' R&D lifecycle, launch plans, and related strategy--if you don't know a good timeframe, use 10 years). Discuss this person's views, behaviors, and choices in the past and how they have changed over time.
+3. Under the first box, draw a third box that represents your future customer as he/she exists today. Name this future user, and his/her age will be the same starting age as your first customer. You may find it helpful to develop a detailed profile (persona) using data from interviews, generational studies, surveys, market reports, etc.
+4. Draw an arrow forward from the third box that connects to a fourth box for your future user. This box represents the target future user. His/her age will be the same as today's customer.
+5. Compare the two people at their starting ages and also at their target ages. You may find it helpful to develop a profile of the future user, which will include a mix of dominant generational values, similarities with todays, customer, and new differences extending from the young future user today.
+6. Reflect on what you learned in the process, here are some potential discussion questions:
+  * Where can you find additional data about how people live today? How they lived in the past?
+  * Do you want to grow the same market or pursue a new market for your future user.?
+  * How representative is your future user of his or her generation?
+  * How many additional future users should you develop to better capture a coming change in the generation's makeup?
+
+## Futuretelling
+
+Short and dramatic performances that illustrate a particular user need as a scene from the future. This is active storytelling at its best.
+
+Instructions:
+
+1. Determine the primary need or situation that you think helps show your future user best in a realistic situation.
+2. Create a story about this user's situation. What are the circumstances, and what ar ethe peopel involved trying to accomplish?
+3. Develop a simple script that outlines each person's dialogue and interactions in this story.
+4. Identify acting roles for all the team members.
+5. Find any supporting props that may help convey the story.
+6. Present your performance to a live audience.
+7. Listen to the reactions and questions from the audience, which may show well- or under-performed areas in yoru presentation.
+8. Reflect on what you learned in the process, here are some potential discussion questions:
+  * Did your audience react in the way you expected?
+  * Did your audience ask questions that your team expected?
+  * Which aspects of your story did the audience focus on? Why?
+  * If you had a chance to perform the skit again, what would you change?
+
+Planning points:
+* Describe your future user in one sentence or less. What does your user care about the most?
+* What do you want your audience to understand about your user's essential need(s)?
+* What is the situation in the future? Keep it to a simple scene or two, if possible.
+* What other people (or objects) will your user interact with in this situation?
+* How do you want the audience to respond at the end of the situation?
+
+# Solution
