@@ -100,3 +100,22 @@ Reflecting on this, it also strikes me as a bit odd for the wrap-up to fall to t
 ### Read Chapter 5 (4 & 6 optional)
 
 ## 2.4 Three Steps to Simple Rules
+
+### Three Steps to Simple Rules
+
+1. Determine primary objective (what you want more of or less of)
+2. Find the bottleneck to achieving that objective?
+3. Craft rules that address the bottleneck, sources for ideas:
+  * Get expert advise, may help but probably not tailored to your context
+  * Analyze your own data/history
+  * Advise from friend's and peers
+
+### Bottleneck Examples
+
+Misc notes:
+
+* Initial rules may be insightful, but often may target hard to get metrics. If so, may need to seek out different ways or proxies to these metrics.
+
+### Developing Simple Rules Exercise
+
+Boundary/Priority/Stopping/How-to/Timing
