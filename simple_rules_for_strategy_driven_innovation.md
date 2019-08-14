@@ -65,15 +65,11 @@ Seems to work for them, though perhaps not sustainably. Allows focus on the musi
 
 ### Simple Rules in Your Situation
 
-1. Identify key strategic processes in your own situation, and pick 1 to focus 
-on. In 2-3 sentences give us some background on the context you are working on 
-and the strategic process you chose to focus on.
+1. Identify key strategic processes in your own situation, and pick 1 to focus on. In 2-3 sentences give us some background on the context you are working on and the strategic process you chose to focus on.
 
 When we gather, we use unconferences as a means of surfacing latent ideas and connecting with one another. Our unconferences start with colleagues submitting topics, use voting to select topics to be discussed, and provide some rules to guide the discussion. We have carefully iterated to strong core rules, but room for improvement remains.
 
-2. What are the simple rules of your focal strategic process (selection rules, 
-priority rules, process rules, exit rules, etc)? Talk to a few colleagues to 
-see which the simple rules they identify for that strategic process.
+2. What are the simple rules of your focal strategic process (selection rules, priority rules, process rules, exit rules, etc)? Talk to a few colleagues to see which the simple rules they identify for that strategic process.
 
 Topics are suggested by colleagues, de-duplicated by organizers, and then colleagues vote to determine the final schedule.
 
@@ -87,9 +83,7 @@ Notetakers are told to expect not to be active participants, to capture highligh
 
 Timekeepers are asked to watch the clock, announcing when the session is half over and when only 5 minutes remain. In the final five minutes, they are asked to direct participants to reflect, summarize the discussion, then clarify next actions and actors.
 
-3. Now that you’ve identified the simple rules, try to evaluate their 
-effectiveness. Are there too many rules or too few? Are these the right rules 
-or the wrong ones? Are you missing any types of rules?
+3. Now that you’ve identified the simple rules, try to evaluate their effectiveness. Are there too many rules or too few? Are these the right rules or the wrong ones? Are you missing any types of rules?
 
 I think they are pretty good overall, but there is always room to improve. Although there are a lot of rules in total, they are divided across different roles so that each individual only needs to worry about roughly 3-5, which feels manageable still. The overall flow of the event has been good, and the feedback has been quite positive, but I think we could still improve a few sub sections.
 
@@ -119,3 +113,35 @@ Misc notes:
 ### Developing Simple Rules Exercise
 
 Boundary/Priority/Stopping/How-to/Timing
+
+1. What is your primary objective?
+
+Break down knowledge silos by capturing tribal knowledge, seeking and sharing perspective.
+
+2. What is the bottleneck to achieving that objective?
+
+Getting teams to consistently take time away from execution to record their knowledge, especially as they may not directly see the value this provides.
+
+3. Craft rules that address the bottleneck.
+
+Boundary:
+Decisions should be recorded in detail if:
+* There are stakeholders outside your team.
+* It will take days or weeks to execute.
+* It will be costly to reverse the decision.
+Priority:
+* Decisions should be recorded prior to execution and shared with relevant stakeholders for feedback.
+* Prefer choices that provide clearer metrics, and which have high learning to cost ratios.
+Stopping:
+* Decision making and recording are distinct from planning and prioritization. If a decision is de-prioritized, it should be set aside until we agree to work on it.
+* Feedback should be solicited with a deadline in order to keep things moving, and if the deadline is missed different collaborators should be sought.
+How-to:
+* Capture at least NABC: the (N)eed to be addressed, the (A)pproach, the (B)enefits, and the (C)ompetition/alternatives.
+* Get at least one additional stakeholder to review the document to provide feedback and perspective.
+* Share the final document in a shared central repository so others can find and learn from it.
+Timing:
+* Ask collaborators to provide feedback within 3 business days, and failing a prompt response solicit different collaborators in order to keep things moving.
+* One month after a decision was made, it should be revisited to consider what we may have missed, what we learned in the mean time, and how we can make better decisions in the future.
+
+## 2.5 Why are Simple Rules effective?
+
