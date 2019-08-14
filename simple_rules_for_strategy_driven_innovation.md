@@ -143,5 +143,17 @@ Timing:
 * Ask collaborators to provide feedback within 3 business days, and failing a prompt response solicit different collaborators in order to keep things moving.
 * One month after a decision was made, it should be revisited to consider what we may have missed, what we learned in the mean time, and how we can make better decisions in the future.
 
+### Feedback on Exercise
+
+Keep your objective clear and measurable. For example, what knowledge do you hope to capture and how will you know if you did? What perspectives do you seek, how will they be shared and how will you determine if this activity was productive? Include a timeframe for you endeavor (even if ongoing) so you know when to review your solution for efficacy. As you develop your objective, it is important you consider how you will measure success (what metrics will be used)?
+
+Time management is not a bottleneck. When you identify bottlenecks, be specific. Think of this analogy, the hiring process is a problem. What aspect of the hiring process? Does it take days to get the position posted on a job board? Does Human Resources (HR) take an inordinate amount of time to create the job description, is the vetting process to develop a short list of candidates too involved, does panel review coordination create delays, or are there other issues. As you look for bottlenecks, be specific. If time is a zero sum game, what do you want them to give up (cease doing) so they can record their knowledge?  Do they know what knowledge you want them to impart and in what order?
+
+There should be continuity among the objective, bottleneck and solution with the later removing the bottlenecks and moving towards the objective. As you look at your solution, do you believe it will lead to your objective? As you craft your solution avoid ambiguity and interpretive language. For example, "Decisions should be recorded in detail if:...", what decisions, all decisions or are there parameters that guide which decisions should be recorded? Recorded how and under what parameters? Think of it this way, do two people tell of the same experience the same way? You want to make sure they are recording what you desire.
+
+As you examine your solution, look at the order. For example, the "NABC" instruction appears as more of a boundary than a how to, but since the process you are recording is not clear, I may be wrong. The solution appears to be focused on "decisions", but the objective is about capturing knowledge and gaining perspective. I'm not sure how your solution will achieve this goal.
+
+The stopping mechanism should act as a review process for your solution. Is the solution addressing some of the bottlenecks but not all,  are parts of the solution being misinterpreted, perhaps driving activity based on incorrect inputs, or other issues? The stopping mechanism you include is more priority or boundary related. The thoughts and questions are for your consideration and do not require a response, but if you do have any questions or further discussion or clarification points, feel free to contact me by submitting questions to the course forum, or by email at ask-the-professor-innovation@lists.Stanford.edu.
+
 ## 2.5 Why are Simple Rules effective?
 
