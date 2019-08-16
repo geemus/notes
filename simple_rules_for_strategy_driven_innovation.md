@@ -157,3 +157,60 @@ The stopping mechanism should act as a review process for your solution. Is the 
 
 ## 2.5 Why are Simple Rules effective?
 
+### Why are Simple Rules Effective?
+
+* Flexible opportunity capture - balance between enough structure and not too much bureacracy - really quickly deliver the wrong thing, or deliver not enough
+* "edge of chaos" move away from predictable outcome, but sometimes you make mistakes (stopping rules help recover).
+
+### Chaos, Structure, Improvising
+
+* chaos - rule-breaking culture - "our culture NOT to write things down" - little structure, unclear priorities, random communication
+* structure - rule-following - much structure - channeled communication
+* improvising - adaptive - semi-structured - prioritized, but organization is temporary - real time communication
+
+* faster, better decisions - sometimes better than more info & analysis - followable even when tired or stressed
+* better coordination of people - easy to remember and communicate rules
+
+### (optional) Read Chapters 4, 6, 7, 8
+
+### Exercise 2.4: Real Time Metrics
+
+#### 1
+
+Grade your real-time information by answering the following questions:
+
+    What were your sales last week?
+    What is the time it takes to get from concept to launch?
+    What is your biggest rival’s top customer?
+    What is your highest margin product?
+
+Feel free to adjust the questions as needed to make them right for your context. Try to make sure the questions still focus on what is happening now in your organization, time, your outside environment, and being effective. Talk to four colleagues, and see how they answer these questions.
+
+Now, please share your answers with us:
+
+What were your answers to the four questions? What grade did you give yourself? What grade did you give your colleagues?
+
+As I work internally with team process, the questions seem off. Also, it's pretty apparent to me that I do not have ready access to these answers (and others don't either). In this context we are all getting Fs. Some possible, better questions (which we still can't answer well):
+
+How many people used the internal tool last week?
+How long does it take to complete the internal process?
+What is the biggest remaining pain point?
+What is the most valuable current process point?
+
+At best we have anecdotal evidence around these questions, and tend so far not to agree on the answers.
+
+#### 2
+
+What did you learn from asking yourself and your colleagues these questions?
+
+It became clear to me that we need to get a clearer definition of what our goals are, or perhaps which needles we hope to move in the terms this course has used. Lacking that, it is not possible to really dig into which metrics we should track, let alone how to move them. I've initiated that discussion with other leaders and have worked through the first few iterations of what our prioritized goals might be.
+
+#### 3
+
+What would you like to change or do differently based on what you've learned?
+
+I want to ensure that moving forward we are clearer about our goals and have a shared agreement about how we will prioritize and/or judge changes to process. Additionally, I want to make a much more concerted effort around objective metrics to help gauge our progress. In the earlier phases of these projects, I was the only one directly working on them. It was easy to fool myself into thinking that I had a clearer understanding of the goals than I really did, perhaps falling victim to the illusion of explanatory depth. I think by being more clear and explicit about this, and driving a discussion more broadly about it we should have a better foundation to rebuild the processes upon.
+
+# Module 3: Strategy for Tomorrow
+
+## 3.1 The Genetics of Change
