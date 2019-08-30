@@ -214,3 +214,80 @@ I want to ensure that moving forward we are clearer about our goals and have a s
 # Module 3: Strategy for Tomorrow
 
 ## 3.1 The Genetics of Change
+
+### Best Practices for Regenerating Short-Term Strategy
+
+* genetic evolution
+* inverse power law: lots of small changes, some medium changes, occasional large changes
+* mix old/traditional and new
+* get to the future sooner, cheaper, and with less risk by leveraging the past (not everything has to be green field)
+
+### Exercise 3.1: Read Growth Outside the Core
+
+Most sustained, profitable growth comes when pushing out boundaries of core business into adjacent space.
+
+How to succeed in expanding into adjacent markets through simple rules.
+
+* Never put core business at risk.
+* Make adjacency move only if you expect to end up among the top three players in the new space.
+* Pursue one opportunity at a time.
+* Change one variable at a time.
+
+How to grow into adjacent spaces
+
+* expand along value chain (one of the most difficult options)
+* grow new products and services
+* use new distribution channels
+* enter new geographies
+* address new customer segments, often by modifying proven product or technology
+* move into the "white space" with a new business unit built around a strong capability (rarest and most difficult)
+
+Benefits to be gained from disciplined use of a formula
+
+* learning-curve - allows refinement of skills and systematization of processes
+* reduced complexity by changing only one thing at a time - allows more consistency/repeatability
+* speed - allows moving through process faster due to refinements/systematization/etc
+* strategic clarity - repeatability is compelling and easy to understand
+
+Sources of Repeatability
+
+* Segmenting Customers - understand needs of customers
+* Growing Share of Wallet - sell related stuff to existing customers
+* Mirroring Customer Adjacencies - track customer plans and anticipate their needs
+
+### Exercise 3.2: Read Focus on the Middle Term
+
+Time horizons:
+
+* Horizon 3 (ideas for future businesses)
+* Horizon 2 (young businesses)
+* Horizon 1 (established businesses)
+
+Ways to ensure Horizon 3 survive and live on:
+
+* avoid holding Horizon 2 businesses to Horizon 1 standards
+* accept that Horizon 2 businesses will pay off in the medium term, not immediately
+* safeguard Horizon 2 resources, so that nascent projects can mature to adulthood
+
+How to manage Horizon 2 Projects:
+
+* Insulate Horizon 2 from Horizon 1 to ensure young businesses get and keep needed resources
+* Use acquisitions to help fill any Horizon 2 vacuum
+* Establish different norms - Horizon 1 focuses on profitably underwriting operations of a large established business, Horizon 2 needs to focus on attracting customers and/or dominating a niche. Look to metrics like customer-acquisition velocity and fish-to-pond ratio.
+* Assign best leaders to Horizon 2 projects - measure success by growth from timely and effective entry into hot market category, and find leaders who can grow to where existing operations can take over
+* Block cross-horizon resource migration - after deciding a budget and leaders, stick to it. Don't allow hoarding or poaching from Horizon 1.
+
+"To a veteran Horizon 1 manager, any shared resource is subject to pillaging."
+
+### Exercise 3.3: Applying the Gene Sequence to Your Own Context
+
+1. Try to describe the gene sequence of your situation (product, customer, technology, etc.). Feel free to provide the gene template provided in the course slides and below.
+[ cloud-based web hosting, SMB/startup developers, direct online sales, us]
+2. Pick one gene and describe what it would look like if you changed that gene. In other words, what could you change that gene to?
+Adding additional geographical regions could gain us new customers, as existing latency, data residency, and other issues prevent current usage. We would have challenges, however, in terms of duplicating our platform in the region, hiring support personel in corresponding time zones, etc.
+3. Do the same exercise again, but this time try to describe what it would look like if you made a bigger change, and modified 2-3 genes in your gene sequence at once.
+Moving to sell to CTOs/enterprise developers represents a bigger shift that would require other changes as well. For instance, moving toward invoices/contracts over credit-card payment, supporting more auditing capabilities, demonstrating particular compliances, etc.
+4. Identify some barriers to change and to implementing some of your gene change ideas for short-term growth.
+Because we would have to recreate our infrastructure and team to support additional regions, it is costly and slower than we might like. By investing in doing this, we could likely gain velocity with each iteration, but we should make sure there is enough capturable value there to make it worth it. Moving to CTOs/enterprise represents a larger risk, as the existing product may be insufficient and the work that needs doing may distract us from supporting the core.
+
+# Module 4: Strategy for the Next Day
