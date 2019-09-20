@@ -2,22 +2,24 @@
 
 ## Chunks
 
-* Our learning memory has roughly four available chunks, formed of thoughts bound together through meaning or use, to work with.
-* Focused learning allows us to acquire new chunks by focusing our entire working memory.
-* Deliberate practice and spaced repitition allow us to re-enforce the memory and test/revise our understanding.
-  * It is important to focus particularly on what we find to be hardest first, because this is where the most additional learning is to be had. If you get stuck, however, taking a break to think about something else before coming back to the problem can help bring your creativity to bear through diffuse mode thinking.
+* Our working memory has roughly four available chunks, formed of thoughts bound together through meaning or use.
+* Focused learning allows us to acquire new chunks.
+* Deliberate practice and spaced repitition re-enforce memory and test/revise our understanding.
+  * Focusing on what is hardest first is often the best strategy.
+  * If you get stuck, trying easier problems and then returning can take advantage of background, diffuse mode processing.
 * Each time we revisit a memory, consolidation allows us to add new information and context before storing it back.
-  * We must take care not fall prey to einstellung, where you get stuck in initial impressions or familiar ways of thinking, rather than revising as more is learned.
+  * We must avoid einstellung, or getting stuck in initial impressions or familiar ways of thinking, rather than revising as more is learned.
   * Taking a step back and rechecking can help us catch errors/blindspots, as can working with others.
-* By sythesizing a deeper understanding, we are able to compact smaller, concrete chunks into fewer, abstract chunks, which will now require less working memory to recall. Muscle memory, for example, is a collection of individual actions that can now be thought of all as one more complex action.
-  * Interleaving different ideas/types/procedures after getting down the basic idea can help contextualize your understanding and build your ability to creatively apply your knowledge.
+* By synthesizing a deeper understanding, we are able to compact smaller, concrete chunks into fewer, abstract chunks, which will now require less working memory to recall. Muscle memory, for example, is a collection of individual actions that can now be thought of all as one more complex action.
+  * Interleaving different ideas/types/procedures after acquiring the basic idea can contextualize your understanding and build your creativity.
   * By providing an existing foundation of possible interrelations, existing chunks also tend to make further chunks easier to acquire.
-* In a given session, there is a limit to how much repitition will be useful. There is also value to stepping away and letting diffuse mode contextualize, and organize the new information.
+* In a given session, repitition will only get you so far before you need to take a break so that diffuse mode can contextualize, and organize the new information.
 * Sleep washes toxins away, remove inactive patterns, and allows us to dream practice/repititions to reenforce active patterns.
 
 ## Habits and Procrastination
 
-* Willpower is difficult and costly, so we should utilize it as a last resort. Focus on using it to change your response to cues and you can build habits that reduce how much willpower is needed.
+* Willpower is difficult and costly, so we should utilize it as a last resort.
+  * Focus on using it to change your response to cues and you can build habits that reduce how much willpower is needed.
 * Focusing on the process, rather than the product, can be helpful to avoid procrastination.
 
 ### Parts of Habits:
