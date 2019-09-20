@@ -1,6 +1,6 @@
 # Learning How to Learn: Powerful mental tools to help you master tough subjects
 
-## Week 1
+## Week 1 - What is Learning?
 
 * Learn by alternating between diffuse (new, loose, relative) and focused (old, tight, particular) over time.
 * After focused training, you need time to recover/consolidate, similar to exercise.
@@ -12,7 +12,7 @@
 * During sleep, brain washes away toxins, removes inactive patterns, and repeats/reenforces active patterns.
 * Reviewing materials just before sleep and/or having an intention to dream about something makes it more likely that you will do so, and can enhance learning.
 
-## Week 2
+## Week 2 - Chunking
 
 * Chunks are thoughts bound together through meaning or use.
 * Allows a focus on the core idea, instead of needing to retrieve all the underlying nitty gritty. Initially a new idea takes all working memory, but a chunk can stand in and use only a portion of working memory to represent the same idea.
@@ -43,4 +43,76 @@
 * Einstellung - getting stuck in initial impressions and/or familiar ways of thinking, rather than revising it as more is learned. (blocked thoughts due to preceeding training)
 * Interleaving - once you have the basic idea down, explore different ideas/types/procedures that are related to understand not just how something might work, but when to use it. Builds ability to be creative.
 
-# Week 3
+# Week 3 - Procrastination and Memory
+
+## Procrastination
+
+* zombies - routine, habitual responses (often feeds into procrastination)
+* willpower is difficult, using lots of resources, so we should utilize it as a last resort
+
+### Parts of Habit
+1. cue - what launches you into the pattern. Usually location, time, how you feel, or reactions.
+2. routine - the habitual response to the cue
+3. reward - procrastination feels good immediately
+4. belief - their power and longevity is tied to your belief in them
+
+Avoid procrastination by focusing on process(es), not product. Focus and make progress, the product will follow in time. Processes can also be habituated, whereas product generally can not.
+
+Use willpower to change your response to a cue.
+
+### How to Change Habits.
+1. Be aware of cues and control them when you can.
+2. Make a plan for changing your response to cues.
+3. Give yourself rewards when you succeed, with bigger rewards for bigger accomplishments.
+4. Believe that you can make changes and that they will be worth it.
+
+### Juggling Life and Learning
+
+* Manage a task list.
+* Making list explicit helps free up working memory.
+* Arrange work as a series of small challenges, focusing on process over product.
+* "Eat frogs first", by starting with the hardest or least fun tasks.
+* Compile task list day before, in order to enlist diffuse mode help you prepare.
+* Include non-work/non-learning things to help break things up, and allow for diffuse mode.
+* Clearly include when you will take breaks, and when you will stop for the day.
+* Plans may change, but trying to plan will help keep you closer to on track.
+
+## Memory
+
+* Evolutionary needs led to visual/spatial memory, which we can tap into to improve recall.
+* Situate an idea with a visual/spatial idea to aide in memory, and utilize spaced repetition to store.
+* Reconsolidation happens when we recall, where recalling the memory attaches current context to it as well. Ideas that have been recalled/reconsolidated more times are stronger and easier to recall.
+* Create meaningful groups. Mnemonics, acronyms, and visual hints can help.
+* Memory palaces lean on our visual/spatial abilities by placing shockingly memorable versions of things throughout a well known location. This is hard at first, but gets easier with practice.
+* Grouping things also helps to make them more memorable and easier to relate.
+* Funnier, more evocative, and/or stranger things are more memorable. Adding additional sensations to the idea can also make it more memorable.
+
+# Renaissance Learning and Unlocking Your Potential
+
+Physical exercise is the best gift you can give to your brain/learning. It helps to keep new neurons alive/healthy.
+
+Metaphors or analogies (especially visual) can help build memories. Over time you can revise or change them as your understanding improves.
+Pretending you are the concept you are trying to understand and imaginging how it might make you feel can be helpful.
+Metaphors and analogies can help break out of einstellen.
+
+Muscle memory is a form of chunking, combining a set of complex individual pieces into a single concept.
+Smaller working memory is often more creative, as it holds focus less tightly and uses diffuse to make interesting new connections.
+Larger/stronger working memory is sometimes less creative, as it gets stuck in focused mode, instead of allowing diffuse to make new connections.
+
+Focused mode tends to cling to what we have done and believe we know. Taking time to step back and recheck helps us catch errors. Working with others can also help highlight blindspots.
+
+## Test Checklist (should answer yes to most)
+* Did you make a serious effort to understand the text?
+* Did you work with classmates on homework problems? Or at least check solutions with others.
+* Did you attempt to outline every homework problem solution before working with classmates?
+* Did you participate actively in homework group discussions by contributing ideas and asking questions?
+* Did you consult with the instructor when you had difficulty?
+* Did you understand ALL of your homework problem solutions when you handed them in?
+* Did you ask in class for explanations of homework problem solutions that weren't clear to you?
+* If you had a study guide, did you review it before the test and convince yourself you could do everything on it?
+* Did you attempt to outline lots of problem solutions quickly, without getting caught up in the specifics?
+* Did you go over the study guide and problems with classmates and quiz one another?
+* If there was a review session, did you attend and ask questions about anything you weren't sure about?
+* Did you get a reasonable night's sleep before the test?
+
+When taking a test, start with the hardest problems. But if you get stuck, quickly switch away and continue. Diffuse mode may help you progress in the background, so that you can return for more progress.
