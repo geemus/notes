@@ -26,19 +26,19 @@
 ## Analytical Reading
 
 1. Finding Out What a Book is About
-  1. Classify the book according to kind and subject matter.
-  2. State what the whole book is about in a few sentences.
-  3. Enumerate major parts and their relation.
-  4. Define the problem(s) the author has tried to solve.
+    1. Classify the book according to kind and subject matter.
+    2. State what the whole book is about in a few sentences.
+    3. Enumerate major parts and their relation.
+    4. Define the problem(s) the author has tried to solve.
 2. Interpreting a Books Contents
-  5. Ascertain what the author means by key terms.
-  6. Find the most important sentences.
-  7. Know the argument being made, by finding the key sentences, or constructing it from a sequence of sentences.
-  8. Determine which problems were solved, which were not (and whether the author knew they failed).
+    5. Ascertain what the author means by key terms.
+    6. Find the most important sentences.
+    7. Know the argument being made, by finding the key sentences, or constructing it from a sequence of sentences.
+    8. Determine which problems were solved, which were not (and whether the author knew they failed).
 3. Rules for Criticizing
-  9. Suspend criticism until having completed your outline and interpretation.
-  10. Do not disagree disputatiously or contentiously.
-  11. Present good reasons for any critical judgement you make, lest it be mere personal opinion.
+    9. Suspend criticism until having completed your outline and interpretation.
+    10. Do not disagree disputatiously or contentiously.
+    11. Present good reasons for any critical judgement you make, lest it be mere personal opinion.
 
 ## Criteria for Criticism
 
@@ -87,14 +87,14 @@ Note: If you are unable to find any of these faults, you must agree, at least in
 ## Syntopical Reading
 
 1. Surveying Prior to Syntopical Reading
-  1. Create a tentative bibliography
-  2. Inspect all book in the bibliography
+    1. Create a tentative bibliography
+    2. Inspect all book in the bibliography
 2. Syntopical Reading of Bibliography
-  1. Inspect the books already identified as relevant to find the most relevant passages.
-  2. Construct a neutral terminology which can be used across authors.
-  3. Establish a set of qusetions to which all authors can be interpreted as giving anser to.
-  4. Define the issues by arranging answer of authors to the questions or one side of the issue or the other.
-  5. Analyze the discussion by arranging questions and issues to shed maximum light on the subject. More general should precede less general and relations should be clearly indicated.
+    3. Inspect the books already identified as relevant to find the most relevant passages.
+    4. Construct a neutral terminology which can be used across authors.
+    5. Establish a set of qusetions to which all authors can be interpreted as giving anser to.
+    6. Define the issues by arranging answer of authors to the questions or one side of the issue or the other.
+    7. Analyze the discussion by arranging questions and issues to shed maximum light on the subject. More general should precede less general and relations should be clearly indicated.
 
 Dialectical detachment or objectivity should, ideally, be maintained throughout. One way to foster this is to always accompany interpretations of an author's views with actual quotations.
 
