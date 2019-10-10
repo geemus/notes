@@ -74,6 +74,72 @@ Style Survey -> Competing: 3, Avoid: 2, Accomodate: 3, Collaborate: 7, Compromis
 * Compromise: mid own concern, mid other's concerns; may be good-enough if you don't have enough time (or too much conflict) to reach collaboration
 
 # Module 3: Trust and The Emergence of Us vs Them Dynamics
+
+## The Challenges and Opportunities in Cross-Boundary Work
+
+* us vs them
+* fear
+* misaligned incentives
+
+### Attribution Theory
+
+* How do people explain the behaviors of themselves and others?
+  * Personal/Dispositional attribution - explain things as something about the person
+  * Situational attribution - explain things as something about the situation
+  * Ingroup bias - harsh attributions across subgroups (often personal/dispositional attribution)
+  * Information bias - absence of claryifying information (often the missing context is situational)
+
+As leaders, we should remind people that we should solicit more information before jumping to conclusions.
+
+* How can we reduce/prevent attribution problems?
+  * Weaken subgroups by minimizing "faultlines", this can be done by having more diverse teams (as the more commonality, the more us vs them will happen)
+  * Work to find and make connections across groups as well
+
+* Overcoming Us vs Them Dynamics
+  * Shared Identity - a common sense of what we are doing, that we are in it together, and that we are all contributing.
+    * Greatly reduces affective conflict.
+    * Provide clear vision of where we are headed and how different groups contribute.
+  * Trust - willingness to be vulnerable to actions of another person based on the expectation that the other person will perform a a particular action important to the trustor, irrespective of the ability to monitor or control that person
+    * Elements of trust: Benevolence (do we care about the same things), Ability (are they able to deliver), Integrity (will they do what they say)
+    * Collocated and Distributed teams have similar overall trust, but collocated trust is more volatile (likely due to more access to information/behavior).
+    * Because distributed teams have fewer opportunities to update trust over time, it is critical to set the right level at the outset.
+  * Psychological Safety - shared belief held by a team that the team is safe for interpersonal risk taking.
+    * Strong positive effects for: Performance, Problem Solving, Learning & Innovation.
+    * Leader sets the tone by being open, accessible and available. Focus on inclusivity. Transformational & servant leadership also aide.
+    * Reflection Practice helps a lot
+      * Team reflection can improve trust & psychological safety
+      * Guided reflection
+        * reflect on performance/process
+        * consider potential improvements
+        * develop (and implement) strategies
+      * makes teams omer effective, but takes time
+
+* Silo Mentality
+  * Coordination may be undermined by inability to identify with other subunits, leading to NIH and/or fear of losing power.
+  * Rewarding for local goals can undermine collaboration (as helping others takes time away from your own goals) and can lead to a competitive, rather than collaborative environment.
+
+### Exercises
+
+* 3.1 Bring to mind a time when a cross-boundary team or project member disappointed you or did not meet your expectations. Write a few sentences explaining why things went wrong? What explains their lack of performance?
+  * When I was attempting to do product management, I was dissapointed how difficult it was to have discussions about technical needs and merit. Additionally, it seemed as though emotional appeals and/or highest ranked person ruled the day, rather than facts and data. As someone who finds it challenging to read people, this made it nearly impossible for me to get the lay of the land.
+* 3.2 Bring to mind someone that you trust completely. Why do you trust that person?
+  * I trust my manager. He has demonstrated good judgement and provided valuable feedback consistently over time.
+* 3.2 What characteristics do they have that lead you to trust them?
+  * We have a track record of working well together. He listens well and gives valuable feedback. I feel heard and respected.
+* 3.3 Is there less trust on cross-boundary teams? Why or why not?
+  * I don't think cross-boundary should impact ability or integrity issues necessarilly, but it may make benevolence harder without clear shared vision.
+* 3.4 What were the major cross-boundary challenges faced by the team that designed and built the Water Cube?
+  * Cross disciplinary integration and prioritization. Cultural and language barriers. Us vs them between geographically distributed teams.
+* 3.4 What specific practices and processes enabled the team to overcome these challenges?
+  * Early collaboration, before too much was already designed/locked in. Strong leadership under time pressure. Shared information/models with automation to produce what different people needed. Brought clients in as early collaborators. Build safe, autonomous groups with clear interfaces. Exchanging specialists. Bringing together diverse management to discuss how to address differences.
+* 3.4 What insights for managing cross-boundary initiatives can you find in the Water Cube project?
+  * Diverse engagement lead to novel, timely solutions across a range of challenges. Collaboration started very early in the process and was maintained throughout. Some divide and concur was established through leadership collaboration. Care was taken in defining interfaces and expectations between teams, and in managing/updating these over time.
+* 3.5 In the Hansen chapter, he talks about four barriers that typically block cross-unit collaboration. Write a short paragraph about each of these barriers. Describe the behavior, why it happens, and how it interferes with collaboration.
+  1. Not invented here (NIH), where people insist on their own solutions, caused by insular culture, status gaps, self-reliance norms, and fear of vulnerability.
+  2. Hoarding, where people withold even when asked, caused by competitive norms, narrow incentives, time famine, fear of losing power (knowledge is power).
+  3. Search Barrier, inability to find available information, caused by company size, physical distance, information overload, and poverty of networks.
+  4. Trasfer Barrier, where people struggle to transfer expertise/know-how/tech, caused by tacit knowledge, lack of common frame, and weak ties.
+
 # Module 4: Navigating Cultural Differences
 # Module 5: Traversing Language Divides
 # Module 6: Practices for Leveraging Cross Boundary Teams
