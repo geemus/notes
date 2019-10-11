@@ -141,5 +141,59 @@ As leaders, we should remind people that we should solicit more information befo
   4. Trasfer Barrier, where people struggle to transfer expertise/know-how/tech, caused by tacit knowledge, lack of common frame, and weak ties.
 
 # Module 4: Navigating Cultural Differences
+
+## 4.1 Cultural Differences
+
+* Cross-Cultural teaming allows access to different pools of expertise, spreads risk, increases globalization, and reduces time to market.
+* Global teams provide unique challenges due to distance, and cultural context.
+
+* Dimensions of Culture
+  * Relation to the environment - harmony vs mastery
+  * Relations among people - collective vs individual vs heirarchy
+  * Mode of activity - doing vs thinking
+  * Time - monochronic vs polychronic
+* Meaning of choice. In more individualist cultures, autonomy is desired, whereas in more collective cultures, heirarchical decisions are preferred to not rock the boat.
+* Some cultures have more sport oriented team ideas, whereas other cultures have more family oriented team ideas.
+* Low context cultures are very focused on what is nearest to the question at hand, whereas high context cultures look out to the surrounding context.
+* Knowing about these dimensions can be helpful to talk about differences, but we must be wary of this leading us toward stereotypes.
+
+* Cultural Intelligence
+  * Drive - motivation to adapt
+  * Knowledge - extent of understanding of different cultures
+  * Strategy - extent of planning/preparation
+  * Action - ability to make changes to work in different cultures
+
+* Nested Culture = [[[[individual action <-> pattern of interaction] <-> local context] <-> individual context] <-> cultural orientation]
+* Transferring from heterogenous cultures to homogenous is very difficult, but transfering the other way is often easier.
+* Practices are only best in particular cultural contexts. Co-creating new global best practices may be more effective than trying to transfer existing best practices.
+
+* Sources of Challenge around Power Dynamics
+  * Accessing to information, ie access to executives, expertise, customers, other workers
+  * Feeling heard, ie access to deciders
+  * Having opportunities
+
+* Types of Power Dynamics
+  * Contested between sites where power is balanced
+  * Shifting from current site to new site
+  * Resigned to imbalance
+  * Shared power, with care taken to distribute, intentially provide access/opportunity/etc
+
+## Exercises/Reflections
+
+* 4.1 A team is like a village. Different people have slightly different concerns, but we are all reliant on one another to succeed overall.
+* 4.2 Identify 1-2 dimensions of cultural intelligence that you would like to improve upon.
+  * I would like to improve my strategy and action.
+* 4.2 What are 1-2 concrete things you could do to increase your cultural intelligence?
+  * I could be more intentional about making a plan about how to navigate upcoming cultural encounters, and reflecting afterward and adjust for future encounters.
+* 4.2 What are 2-3 things you could do to help develop the cultural intelligence of the teams you are working with?
+  * I think, especially as I'm usually working remotely, that the biggest areas for focus are often around awareness and action. The lag of distributed meetings make it much harder to read the situation, but this can be greatly mitigated by carefully adjusting how we speak, pause, etc.
+* 4.3 Write down three “best practices” that you use in your work, ideally something that makes you and your organization more innovative.
+  * We emphasize autonomous decision making, broad information sharing, and respectful dissent/discussion.
+* 4.3 What makes these practices “best”
+  * In our highly technical context, whomever is closest to the problem is often most knowledgeable and frequently ultimately responsible, so they seem like a natural fit for decision making. In order to catch outlier decisions and help educate others, we then emphasize broadly sharing the decisions that have been made in autonomy. Finally, when there are outliers or missed insights, we expect that this will be brought to a respectful discussion that everyone can learn from.
+* 4.3 Interview someone in a vastly different culture (as much as possible) and identify how these practices might work in this context. In particular, in what ways might these practices not be “best” in their context? In what ways might they fail? What adaptations might make sense?
+  * I haven't done a net-new interview, but I've had many discussions about gaps and failures to draw from. Our push for autonomy has led to different decisions in very similar contexts, which is more costly than being able to share knowledge and resources. In part, I think this has been exacerbated by shortcomings in our effectiveness of recording and sharing information. We hope that by improving the fidelity and consistency of communications, it will be more likely that these things will surface and we can discuss and come to shared conclusions. That being said, we have also seen a number of individuals who may have good psychological safety at the team level, but lack it at the level required to share a proposal with the whole organization. We hope establishing clear working rules for interacting with proposals that this may be mitigated (and that discussions will remain respectful/productive).
+
+
 # Module 5: Traversing Language Divides
 # Module 6: Practices for Leveraging Cross Boundary Teams
