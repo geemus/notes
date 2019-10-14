@@ -194,6 +194,41 @@ As leaders, we should remind people that we should solicit more information befo
 * 4.3 Interview someone in a vastly different culture (as much as possible) and identify how these practices might work in this context. In particular, in what ways might these practices not be “best” in their context? In what ways might they fail? What adaptations might make sense?
   * I haven't done a net-new interview, but I've had many discussions about gaps and failures to draw from. Our push for autonomy has led to different decisions in very similar contexts, which is more costly than being able to share knowledge and resources. In part, I think this has been exacerbated by shortcomings in our effectiveness of recording and sharing information. We hope that by improving the fidelity and consistency of communications, it will be more likely that these things will surface and we can discuss and come to shared conclusions. That being said, we have also seen a number of individuals who may have good psychological safety at the team level, but lack it at the level required to share a proposal with the whole organization. We hope establishing clear working rules for interacting with proposals that this may be mitigated (and that discussions will remain respectful/productive).
 
-
 # Module 5: Traversing Language Divides
+
+## Language Proficiency
+
+* Challenges: Basic words and syntax; Idioms; Inflections, tone, pitch; Norms of when and how to speak
+* Perceptions of language skill can lead to feeling excluded, stupid, powerless, and/or angry.
+* Language is closely tied to emotion, a key component of identity, and influences memories of experiences and categorization processes.
+* Language also affects worldviews (action vs outcome), is key to relationships, grants status/influence, and is a means of expressing professional competence.
+* Strategies for language challenges:
+  * Non-Native Speakers: Withdraw, exclude others, curtail participation, codeswitch
+  * Native Speakers: Withdraw/leave, request English, request translation
+* Similar concerns appear for profession specific and/or firm specific language.
+* If challenges can be overcome, we can learn and gain new perspectives.
+* Leading across languages requires:
+  * patience and perspective taking
+  * removing stigma
+  * temper English domination
+  * verify shared understanding
+
+## Exercises
+
+* 5.1 If you have experience working in a non-native language, describe a little bit about what that was like, how you felt, how you experienced yourself, and what others thought of (or treated) you. (If you don’t have experience working in a non-native language, write a little about what you think it might be like for someone who works in a non-native language.)
+  * I don't have much direct experience. From my own language learning, I know it is difficult and you can feel lost. Also, it is frustrating when you feel unable to express yourself.
+* 5.2b Attend a talk that is far outside of your area of expertise. Just listen. Afterward, make notes.
+  * 5.2b1 What didn't you understand?
+    * I could understand the big picture, but much of the details and especially subtleties were lost on me. Additionally, I had to piece things together from context.
+  * 5.2b2 How much did you miss?
+    * I missed a lot. The goal was to speak to specifics on the topic, and I didn't have enough knowledge to get more than a broad overview.
+  * 5.2b3 How did you feel about not understanding?
+    * It was frustrating to feel like things were just out of reach, and to struggle with uncertainties about whether I was really understanding what was said.
+  * 5.2b4 Once you've done this, make a few notes about what it would take to collaborate with this person or someone like them?
+    * I think it would be rather challenging, at least initially. It would be hard to feel like we had a real connection, and things would move haltingly at best.
+  * 5.2b5 What kinds of practices would you want to have in place so that you could understand one another?
+    * I would try to do more active listening, with lots of "what I heard you say was, ..." to clarify/confirm.
+    * I would seek analogies and metaphors to areas where we shared familiarity.
+    * I would want some clear signal I could use when they should pause and explain a particular piece of jargon.
+
 # Module 6: Practices for Leveraging Cross Boundary Teams
