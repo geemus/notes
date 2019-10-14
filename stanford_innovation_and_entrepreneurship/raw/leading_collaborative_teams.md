@@ -232,3 +232,75 @@ As leaders, we should remind people that we should solicit more information befo
     * I would want some clear signal I could use when they should pause and explain a particular piece of jargon.
 
 # Module 6: Practices for Leveraging Cross Boundary Teams
+
+* collocated teams benefit from dense, unstructured networks; distributed teams benefit from communication bridges who facilitate communication
+* transboundary team members:
+  * can be unaware of their skills/abilitities, and face marginalization and/or identity suppression in order to fit in
+  * have experience in multiple cultures, tend to have broader wold view, higher sensitivity, greater empathy, more complex ways of thinking
+  * build bridges across subgroups
+  * help groups feel valued, thus increasing participation
+  * elicit knowledge and ideas from different groups
+  * reduce "processing time" to tap multiple perspectives
+  * see issues from multiple perspectives, mediate
+
+## Developing Boundary Spanning Capabilities
+
+* seek out experiences with unfamilier groups
+* learn (deeply) about another group or profession, from their perspective
+* practice reconciling differences in values, attitudes and assumptions
+* try a different approach, experiment
+* provide "optimal contact" situations to others: equal status, shared goals, interdependence
+
+## Life as a Boundary Spanner
+
+* higher levels of self-monitoring
+* frequent adjustments to self-preservation
+* trust is delicate, can come across as a "traitor" if you are seen to align too closely with one group or the other
+* can experience burnout from "standing in the gap"
+
+## What can help?
+
+* weaken or suspend norms, as strong situations make it harder to span
+* make the bridging role explicit
+* provide autonomy
+* encourage experimentation
+* foster psychological safety & reflection
+
+## Getting People Together
+
+* Activities evoked by visits:
+  * discussing work
+  * discussing personal information and socializing
+  * observing work and social behavior
+* Activities produce understanding of:
+  * work and communication styles
+  * capabilities and interests
+  * personalities
+  * social roles
+  * cultural context
+* Understanding results in:
+  * increased responsiveness
+  * more frequent communication
+  * more personal disclosure and discussion of difficult topics
+* These increase trust
+
+* together creates reflected knowledge, allowing us to feel more understood, but also seeing our own culture/profession/etc through other's eyes
+
+## Exercises
+
+* 6.1 Interview a transboundary team member or boundary spanner, someone who regularly plays the role of boundary spanner.
+* 6.1 1 What boundaries do they span?
+  * At different times: engineering groups, engineering+product+marketing, local engineering vs all-sfdc engineering, local vs remote, neurotypical vs autistim spectrum, etc.
+* 6.1 2 What do they do as boundary spanners and why do they do it?
+  * Help break down silos so that we are all more knowledgable and can learn from one another, because they value learning and see it as valuable to the company moving forward.
+* 6.1 3 What is their expertise?
+  * Background in engineering, with some community and event management. More recently a lot of process oriented work to try and provide consistency to spanning.
+* 6.1 4 What are some of the challenges they face and what kind of support do they need?
+  * It can be challenging to sit outside other groups, and sometimes their differences can seem irreconcilable. Also, it can be hard to really get good metrics across boundaries as feedback. Need to get and maintain buy-in, while avoiding any perception of favoritism.
+* 6.1 5 After the interview, reflect and write 3-5 things that you might do to better support boundary spanning activities in your organization. Make sure to take notes of the major insights from your interview.
+  * Recognize boundary spanners work and make it explicit to them (and others).
+  * Encourage experimentation, as finding the right solution across groups in one go is unlikely.
+  * Encourage consistency in metrics/etc to ease visibility into cross-group efforts.
+  * Make norms/expectations explicit, where possible, so spanners have a kind of roadmap to work with.
+  * Foster psychological safety so people feel comfortable crossing boundaries and "putting themselves out there".
+
