@@ -96,9 +96,113 @@ Snowshoe story. Created innovative snow shoe, only to find there wasn't really a
 * 3.2 What are some signs that a leader is not pushing people hard enough?
   * If not pushing hard enough: people checked out/not engaged, slipping deadlines/accountability, lack of alignment.
 * 3.3 Now, think about something you will do in the next week to hone your leadership skills in some small way. After you have attempted this task, please write up an analysis of your efforts and the outcome.
-  *
+  * I wanted to work on my introspection, so I made a point of planning tasks in the morning, reviewing how the day went at the end and planning for the next day. I was then also able to look back over my whole week and review how things went. I think this helped me improve my prioritization and also feel less frustrated on days that felt less productive (because I could more clearly see how/where my time went instead).
 * 3.4 When is it a bad idea to shield the people you lead?
   * If there is direct feedback that would be valuable for them to hear, relaying it often loses things in translation. ie hearing directly from customers about their experiences is valuable.
 
 # Module 4: Leading Creative Teams
+
+## Building Innovative Teams
+
+* Who is a star?
+  * not "great man theory" (seems like a form of fundamental attribution error?), instead great innovation happens in teams and networks
+  * real stars: spread ideas to others, borrow ideas from others, and help others succeed
+  * consider GE example: very patient if you are a low performer, but collaborative; fire quickly if you perform, but do not collaborate
+* Experts, novices, and beginner's mind
+  * put more faith in novices and less in experts by blending them together
+  * experts are often bad at seeing old things in a new way and at changing their mind (strong ideas, strongly held)
+  * if your experts are struggling to make progress, bring in others who are experts (just in a totally different subject area)
+  * be wary of hiring in your own image, instead of hiring for what you don't have
+* Bad apples and other negative forces
+  * in best teams, "problem" members get quick negative feedback/warnings/coaching, and expell quickly if needed.
+  * bad is stronger than good, "5 to 1 rule", eliminating negative is more important than accentuating positive
+  * Will Felps research indicates performance is brought down by 30-40% by a single bad apple (deadbeat, downer, rude jerk, etc)
+  * bad apples are both distracting and contagious. Time is spent on/around this person instead of donig the actual work.
+  * main strategies: coach them, get rid of them
+  * Baird CEO Paul Purcell: "During the interview, I tell them that if I discover that they are an asshole, I am going to fire them"
+  * Baird CEO Paul Purcell, an asshole is someone who consistently puts their own needs in front of needs of organization, colleagues, and customers.
+  * make clear goals, ensure it is clear what is non-negotiable, and enforce both
+* Small and stable teams
+  * J. Richard Hackman's rule - no work team should have double digit membership, performance problems increase exponentially with team size increases
+  * studies seem to indicate optimal is 4.6 members (navy seal fire teams, McKinsey engagement teams are four). One in charge and 3 to execute.
+  * stable membership is linked to improving team performance over time
+* grok the gestalt of the team - intuitive metrics for whether innovation is succeeding
+  * sense of enlightened action, people have focus/direction
+  * some degree of angst, if there isn't discomfort you may not be pushing limits
+  * expressing dignity, elegance, and joy
+
+## Running Innovative Teams
+
+* Running the Team - optimism, pessimism, and self-fulfilling prophecy
+  * Innovation requires extreme optimism - reduces failure rate (probably via self-fulfilling prophecy)
+  * "confidence in nonsense is required" - Burt Rutan
+  * Innovation requires a few grumpy pessimists - better at finding flaws, more likely to pull the plug (overcoming sunk cost bias)
+  * Negative emotions/etc are contagious/unpleasant, so though these views are good they may need to be isolated/periodically brought to bear to mitigate/limit.
+  * Happy worriers may be the best of both worlds, optimistic broadly while worried about the details (Christina Wong research)
+  * Building Creative Confidence - https://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence
+* Money as Motivator
+  * many studies show that people will work harder toward financial rewards
+  * getting the rewards right is REALLY hard - see http://www.sba.oakland.edu/Faculty/york/Readings434/Readings/On%20the%20folly.pdf
+    * In politics - tend to say we want detailed plans, but vote in favor of those with broad strokes.
+    * In war - the organizations goal is to win, but the individuals goal is to survive. In WW2 winning meant going home, in Vietnam survining to the end of your tour meant going home.
+    * In medicine - doctors can be punished for not diagnosing a sickness, but generally won't be for diagnosing when no illness exists. So they tend to overdiagnose.
+    * In university - we hope professors will teach, but reward almost entirely for research and publication. Further, we value grades (rather than knowledge), which leads to grade inflation, cheating, and other degenerate behaviors.
+    * In consulting - we hope for metrics of success, but those who would deliver it gain most from good reviews (and so are unlikely to look too deeply).
+    * In sports - you win as a team, but are rewarded only for personal efforts (many of which may not actually help the team as much).
+    * In government - basing next budget on previous rewards spending, not frugality.
+    * In business - hoping for performance, while rewarding attendance
+    * hope for long-term growth and environmental responsibility vs reward quarterly earnings
+    * hope for teamwork vs reward individual effort
+    * hope for setting challenging "stretch" objectives vs reward achieving goals and "making numbers"
+    * hope for downsizing/rightsizing/delayering/restructuring vs reward for adding staff/budget
+    * hope for commitment to quality vs reward for shipping on schedule
+    * hope for candor and surfacing bad news early vs reward for reporting good news (regardless of truthiness) and agreeing with boss (whether or not they are correct.
+    * Causes:
+      * Fascination with an "Objective" Criterion - may help in highly predictable areas, but likely to cause goal displacement elsewhere.
+      * Overemphasis on Highly Visible Behaviors
+      * Hyprocrisy
+      * Emphasis on Morality or Equity Rather than Efficiency
+  * Money turns us into selfish loners.
+* Intrinsic Rewards
+  * Being reminded of money makes us: less likely to help others, less likely to help others, sit further apart, more likely to work alone. (Kathleen Vohs experiments)
+  * autonomy/mastery/purpose (drive, daniel pink)
+* Stand-up Meetings - literal, ie not sitting down during meeting.
+  * Tend to be just as effective but ~34% shorter.
+  * Maybe we can somewhat simulate via aggressive timeboxing, as distributed work is somewhat counter to doing this well.
+* How and When to Fight - Innovation happens when people respect each other, but fight like crazy over ideas.
+  * Strong opinions, weakly held.
+  * Fight as if you are right, listen as if you are wrong (and teach your people to do the same)
+  * Don't fight when generating ideas (ie during brainstorming)
+  * Stop fighting after the decision is made, it undermines implementation (disagree and then commit)
+  * "argue and decide", as long as it results in a decision it is productive, otherwise it quickly becomes toxic
+
+## Exercises
+
+* 4.1 For this exercise, imagine that you have been assigned to implementing changes at Microsoft to improve collaboration in ways that bolster rather than bash innovation. What are your top three suggestions? Please also explain why you have made these suggestions.
+  * Remove stack ranking, and focus on reviews based on individual (including personal growth and collaboration/support, not just personal performance). Ideally we can use incentives and feedback to make the individual and the organization perform better and better over time, rather than trying to push for a local maximum of performance for a particular individual.
+  * Highlight/share collaborative efforts. Make sure people are aware of those who are helping out and supporting, and the value you assign to this. Without specific focus here, this kind of work can often be relatively invisible, and without visibility it is hard to bolster/spread.
+  * Carve out areas for exploration/innovation, not just profit-seeking. By putting established business expectations on the e-reader, they effectively killed it, as it really still needed to be in more of a exploration/user-acquisition, start-up like phase until it could achieve traction.
+* 4.2 After reading the article on harnessing ignorance, please reflect on how you might be about to use ignorance to spark innovation in your current organization or one you might lead in the future. In a short essay, please provide your ideas, as well as an explanation of how you would go about implementing these ideas.
+  * There are a few different areas that come to mind in my current organization where we have perhaps inadverdantly done some of this in pursuit of other goals, but which I think could be more productive with intention.
+  * First, we recently did what we called a "beginner's mind week", where people were encouraged to take a step back/away from normal work to learn something new and collaborate with different people. Our goals were to help people make new/different connections to information as well as people. I think we missed an opportunity by not putting more of a focus on using this as a way for people to see old things in a new light though. In our survey responses after, several people did suggest they were able to do this, but we didn't really push in a way that would help it to occur (and probably ought to if/when we do this again).
+  * Second, I have been trying to help provide some processes/guidelines for making and recording decisions. As part of this, during ideation it is suggested that you bring in a mix of "expert" and "novice" advisors (where they might be experts in other things, but not necessarily in the topic at hand). I did this originally with the goal in mind that the novice could point out where the details were too vague and ask for clearer context to be spelled out, but again this seems like it is missing some opportunity to ask bigger "yes, but why?" kinds of questions that the experts may be too set in their ways to truly consider.
+  * Finally, your article called out something that I myself frequently fall victim to. When I'm setting out to try and do a new/different thing, my first go to action is often to research what has come before and how others have approached the problem. I still believe that is an important data point, but I definitely see how it could help to defer this until after I've given it some thought on my own (lest I fall into the trap of the local maximum defined by what others have done, instead of striking out toward some new high/low).
+* 4.3 David Kelley argues that the key to leading innovative work is finding ways to instill creative confidence in people. Please watch his Ted Talk, and let us know if you agree with David or if you think he is missing something important.
+  * I've certainly seen some of this. Those who identify as creative seem to give themselves permission in this realm, whereas others often shy away from it. I do with I had a bit more of an idea of how best to instill this in others though, as I fear the video didn't go into that as much. I think the permission is an important part, but I suspect in many cases it takes a bit more of a push with structure and inspiration to succeed.
+* 4.4 Steven Kerr’s article provides three suggestions for how you as a boss can avoid these problems. How can you use financial incentives to yield the innovative behaviors you would like to see from your employees? Please provide a couple of examples, along with explanations.
+  * I think one of the biggest challenges is finding metrics to reasonably use, especially around less visible work. One way to do this may be to focus more on relative metrics instead of absolute. So rather than provide a single rubric for all employees, provide education to managers on how to assess the current status of an employee and then compare that to their status in the future. This also helps align with a growth culture in that we hope people will continue to improve over time by adapting to feedback. Having something like this, rather than a strict ladder for promotion/advancement may better reflect the realities and also provide more flexibility instead of pushing for strict adherence to a standard that may not always apply cleanly. We could also consider bonuses/awards for particularly notable behaviors, but I'm quite wary of that reducing or removing existing intrinsic motivations.
+* 4.5 While the material provided in the video is interesting, how could you actually implement these ideas in an organization? What could your boss do to make your job more intrinsically motivating? Please provide three to five ideas for each question.
+  * At the org level:
+    * We should increase the flexibility with which we can reward people for growing in their own way, rather than having checkpoints at which they must conform to the promotion "ladder" criteria.
+    * We should ensure people have some slack in their schedules which they can actually choose what to do with in order to advance themselves.
+    * We should ensure we have a clear shared identity and objectives we are moving toward such that we can feel that we are progressing toward a greater good and that we are in this together.
+  * From my boss. Here I think I'm quite fortunate. I would have many, many things to say about a number of former bosses, but my present boss came along with my most recent promotion and he does a great job of supporting me/pushing me in the broad senses, while largely keeping out of the way in the nitty gritty. Sometimes I wish that I could learn some of what I'm working on more directly from him, but at the same time I appreciate his difference in perspective/knowledge as I explore various things.
+* 4.6 Try calling a stand-up meeting and tell us how it worked. What are some of the keys to making such meetings effective?
+  * I've done lots of standup meetings historically through my background as a developer. I actually bristled a bit at the notion here, because of the connotations it has taken on for me. As we generally didn't actually stand up, over time it came to mean for me a meeting where everyone gave a status update, and (ostensibly) pointed out blockers. The status part often felt like someone looking over your shoulder and ideally if you are blocked you will seek help immediately, rather than waiting for a meeting.
+  * One of the challenges I face wrt this suggestion is that 60-70% of the engineering staff I work with is remote, so we almost always are doing our meetings in video chat. Some of us have office setups that could allow for standing, but many of us do not (which physically makes this untenable). That being said, I'm working to more aggressively establish agendas and timeboxes in meetings, which I hope will garner similar results (though this is harder, active work, rather than automagically getting ~34% reduction in time).
+* 4.7 For this exercise, please provide 3-5 more ideas for running a good fight, and tell us why you suggested them.
+  * Make it clear and explicit what stage of decision making something is in, and define expectations about interfacing with each level (ideation should have different expectations than deciding, and after committing to a decision expectations should be different once again).
+  * After committing to a decision, schedule time in a month or so to reflect on the decision (and process) to understand if things have changed and how to do better next time. Invite anyone who may have disagreed to voice their dissent and share further input which they (ideally) have been holding back in order to prevent disrupting execution.
+  * Allow degrees of buy-in to provide more feedback (ie maybe a 1-7 scale, instead of just yes/no). This is easier to review in the future to see if it has changed, and can also help people to understand if they are becoming more convincing in their arguments over time.
+
 # Module 5: Implementation
