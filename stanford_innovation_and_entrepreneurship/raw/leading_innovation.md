@@ -206,3 +206,41 @@ Snowshoe story. Created innovative snow shoe, only to find there wasn't really a
   * Allow degrees of buy-in to provide more feedback (ie maybe a 1-7 scale, instead of just yes/no). This is easier to review in the future to see if it has changed, and can also help people to understand if they are becoming more convincing in their arguments over time.
 
 # Module 5: Implementation
+
+## Implementation
+
+* Turning knowledge into action by avoiding the smart-talk trap (knowing doing gap book)
+  * smart talk happens now, smart action happens later
+  * made worse by rewarding smart talk, rather than smart action
+* Decision by itself changes nothing, action is required
+* How to avoid the smart-talk trap
+  * Put people in management positions who understand the work
+  * Stop complaints/whining, step up action (recreational whining can be an ok release valve, but constant and/or bitter complaining is problematic)
+  * Focus on simple language and repetition to ensure it is easily understood and actionable.
+  * Simple strategies are easier to implement.
+* distinguish and be explicit about when you are undertaking focus (convergent) tasks and flare (divergent) tasks
+* also, note that when we move to convergent and ideas are left out, it isn't forever, they are just shelved for now, but may be revisited in the future
+* constraints are a valuable part of the creative process
+
+## Parting Thoughts
+
+* The Best Diagnostic Question
+  * What happens when people fail?
+  * There is no innovation or learning without failure.
+  * Do you forgive and remember?
+  * "Failure sucks but instructs!"
+* Innovation means SELLING, not just inventing, ideas, experiences, and things
+* What effects do you have on the people around you?
+  * After interacting with you, do they have more or less energy?
+    * have people's back
+    * make them feel rewarded and appreciated
+    * ensure they are pushed hard, but not too hard
+  * Teach us more, learn more
+
+## Exercise
+
+* 5.1 Deep Dive at Ideo - watch video and answer each question in 100 words or less.
+  * Why is the group creative? The group is diverse and focuses on the ideas (rather than the people). It is also structured to use ideas to build upon one another, rather than being competitive.
+  * What lessons do you glean about leading innovation from this video? Seek out the best information you can from experts, collect many ideas, prototype early and often, and iterate with deadlines to drive progress.
+  * When would this approach undermine group effectiveness? It seems like it could undermine convergent tasks, where a single solution needed to be decided (they seemed to avoid this by integrating parts from several potential solutions, but this would not always be possible).
+  * To what degree was the group able to implement their innovative process successfully? They seem to have been relatively successful toward this, but could have used further time/refinement. Additionally, they hours they were keeping did not sound as though the would be sustainable in the long run.
