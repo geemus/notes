@@ -44,3 +44,26 @@
 * Frequency, Intensity, and Time are the most important. Type matters less as long as you are doing something consistently.
 
 ## Week 4: Combining Cardio and Strength Fitness
+
+* 5BX - outdated, but combines cardio/strength
+* Tabata - 20s on, 10s off, repeat several times
+* 7 minute workout
+* Key Principles of good strength+cardio combination workouts
+  * Combination training - bodyweight at high frequency with little breaks
+  * Variation - move between different excercises to avoid overstressing particular areas
+  * Effort - move rapidly with little rest, should be 8 or 9 out of 10 difficulty
+  * Progression - should change exercises to become progressively more difficult
+  * Combination of leg, push, and pull exercises.
+* Exercise breaks allowed for more sustained focus in students.
+* Top 10 Hacks
+  * Put it in Your Calendar - schedule it
+  * Exercise with Music
+  * Exercise outside, in Nature
+  * Find a Buddy
+  * Focus on Your Favorite Exercises
+  * Mix it Up
+  * Effort is Important
+  * Consider Tracking
+  * Make Exercise Social
+  * Do Something, Specifics Don't Matter as Much
+
