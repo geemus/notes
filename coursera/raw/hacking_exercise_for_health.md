@@ -28,4 +28,19 @@
   * 1 minute workout - 20s intense, 3m steady, repeat 3x (~10m + warmup&cooldown)
 
 ## Week 3: Musculoskeletal Fitness
+
+* The more force a muscle can generate, the fewer times it can do so before fatigue. These are type 2 or fast twitch muscles.
+* The more endurance a muscle has, the less force it can generate. These are type 1 or slow twitch muscles.
+* Strength training (especially initially) comes from increased coordination from nervous system, later hypertrophy allows progress to continue.
+* Weight/reps doesn't really matter to elicit muscle growth, the key is degree of effort. As long as you work to fatigue, it doesn't matter how you get there. This is more efficient, but suboptimal. Note: going beyond 30 reps means you should be at a higher resistance.
+* We have protein turnover in the muscles, with damaged things being broken down and new things being built up.
+* Creating a positive net protein balance helps ensure build up overcomes muscle breakdown.
+* Best to get steady doses over the 24 hours following workout. Shoot for about 1.6g/kg/day.
+* Key areas to focus on: upper body push, upper body pull, core, legs
+* Consider working from more complex movements that recruit more muscle groups to more isolated.
+* Beginner: squat, push up, pull up, plank
+* First set does the brunt of the work, but as you get stronger consider working toward 3 sets for more optimal gains.
+* FITT principle: Frequency, Intensity, Time, Type
+* Frequency, Intensity, and Time are the most important. Type matters less as long as you are doing something consistently.
+
 ## Week 4: Combining Cardio and Strength Fitness
