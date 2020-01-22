@@ -1,4 +1,4 @@
-Playbook for Strategic Foresight and Innovation
+# Playbook for Strategic Foresight and Innovation
 
 ## Five Planning Phases
 
