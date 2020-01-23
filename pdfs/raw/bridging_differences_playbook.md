@@ -97,3 +97,54 @@ By taking care to avoid seeing people through the lens of group membership we fe
 2. Reflect and refine.
 
 ## Find Shared Identities
+
+Focusing on shared identity helps widen the sense of who we are and who is part of our "tribe". Identifying commonalities, without supressing differences, can make us more generous, empathic, and helpful.
+
+1. Before meeting, create a list of defining characteristics you share, ideally write it down.
+2. Review this list, ideally together. Does it feel accurate? Are there any identities missing?
+3. Consider: How do these shared identities make you see the person in a new light. If possible, discuss.
+4. Reflect and refine.
+
+Note: Members of marginalized communities may not benefit from being asked to identify with members of a dominant group, especially if they feel they are being made invisible by the larger group identity.
+
+# Seek and Promote Counter-Stereotypical Information
+
+Being exposed to more information challenges stereotypes and can change our attitude to become more positive.
+
+1. Acknowledge sterotypes that we hold based on group identity.
+2. Consider where they come from, then seek out counter information to challenge them.
+3. If possible, getting to know someone in the group and/or even asking "what are common misconceptions or stereotypes" can help.
+4. You can also seek ount counter-stereotypical information through the news and content you consume.
+5. Reflect and refine.
+
+Note: The questions you ask may betray stereotypes and could feel offensive. Be clear about your intentions and let them know they can choose not to respond.
+
+# Expand Your Activities, Expand Your Views
+
+Exposure to new people, events, and experiences can fight prejudice by broadening our sense of what's comfortable and familiar.
+
+1. Try things that make you uncomfortable, just to see what happens.
+2. Approach experiences with questions and an open mind, avoid trying to change minds or criticize.
+3. Bring others like you into your new experiences.
+4. Reflect and refine.
+
+# Assume Good Intentions
+
+Suspending judgement helps us avoid perceptions of threat or hurt feelings, and focus on the issues being discussed.
+
+1. When engaging with someone different, assume their intentions are good and positive.
+2. If/when you feel slighted, try to hear the underlying comment for what it was intended to be rather than taking offense.
+3. Recognize assumptions may be shaped by prejudice or past mistreatment. Try to remind yourself that this person is not the one who mistreated you.
+4. Reflect and refine.
+
+# Active Listening
+
+We often fail to really hear others, missing opportunities to connect, while risking them feeling neglected, disrepected or resentful.
+
+1. Find a quite place and invite the person to share what's on their mind. Use some combination of the following:
+2. Paraphrase what you hear.
+3. Ask questions, where possible asking for elaboration on thoughts and feelings. Try to avoid jumping to conclusions, and instead ask clarifying questions.
+4. Express empathy, seeking to validate feelings.
+5. Use engaged body language, making eye contact, nodding, facing them, using open/relaxed body posture, etc.
+6. Take turns. After the other person has shared, ask if you can share your own thoughts. When sharing focus on "I" statements.
+7. Reflect and refine.
