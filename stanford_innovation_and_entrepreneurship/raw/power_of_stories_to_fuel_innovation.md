@@ -292,9 +292,33 @@ If you were in charge of the Coca Cola Happiness Machine campaign, how would you
 * Now seek the help of 1-2 friends/colleagues/family members. Simulate an interview session with your friend/colleague for 5-10 minutes and present your “why hire me” or “building trust” story. Ask your “interviewer” to take notes, rate you as a candidate, and provide you with feedback on your story. Try to incorporate this feedback into the second “interview” you have with your other friend/colleague.
 * Please submit to the website your story(s), tell us about your simulation experience, and share 3-5 key learnings from the feedback you received.
 
+>  I had a need to write this sort of story for an application for a pre-graduate program. Here is my story:
+
+I love learning, which is fortunate given my talent for acquiring positions in which I feel unprepared to succeed. Whether it be my steadily improving GPA as a first-generation student or my crash course in leading a software development project as the first and only employee at a new startup, I have been able to rely on my curiosity, hard work, and persistence to iterate my way toward success.
+
+As my leadership roles expand I find myself once more upon such a learning precipice. I am working within Salesforce to prepare other software architects for success and to create a sense of unity and coherence that we currently lack across hundreds of architects. Simultaneously I am leading the trustees of our local library as we draft a strategic plan amid the rapidly evolving expectations of libraries. I believe the Foresight Program will provide me with the tools and insight I need to successfully navigate these transitions.
+
+Within Salesforce, I have worked in many disparate areas, often needing to bootstrap and expand my knowledge in order to succeed. For instance, I successfully implemented a decision-making process which helped ensure alternatives were considered, hypotheses were made and tested, and that decisions were able to be reviewed in a way that mitigated hindsight bias. My success has hinged upon researching existing approaches, prototyping changes, testing them, and repeating to continually improve the process. I hope to continue to evolve and expand the adoption of this process through insights gleaned from the Foresight Program and diverse other sources.
+
+Even more directly related to the program, I am one of the administrators of our architecture long-range planning process, which seeks to gather the best ideas to inform where we should go in the coming years. So far this effort has had limited impact, usually seeming to relate more to existing conditions and trends rather than the success of the process itself. I hope to reinvigorate and increase the impact of our long-range planning by incorporating the analysis of external environments and multiple plausible futures I would learn from the Foresight Program.
+
+In pursuit of autonomy, Salesforce architects have been loosely affiliated and largely left to their own devices. This worked well enough with relatively few architects, but as we grow our impact has diminished as architectural practice across the organization becomes increasingly incoherent and inconsistent. The processes I have worked on represent incremental change to address these concerns, but I believe the kind of systemic and transformational change the Foresight Program teaches will be required to reform a sense of unity, build coherence, and increase impact.
+
+As a leader across these contexts, I feel trapped in working incrementally toward an expected future. I hope to utilize the Foresight Program to build upon my foundation of curiosity, love of learning, hard work, and persistence to gain skill in understanding plausible futures to drive the systemic, transformational changes my organizations need in order to continually increase their impact.
+
+> I spoke to both my wife and my manager about the story. They highlighted that initially I did a good job of conveying my need, but not how/why I would succeed. They also pointed out some place where I was too vague and generally that it was still a bit too focused on facts and not a clear enough arc. All of these helped me to refine and update the story to be more compelling (and I had much less new feedback in the second interview). Even before the edits, both suggested they would accept me to the foresight program.
+
 ### Exercise 8.2: Banking Your Customer Stories
 
 * Talk to someone who uses your product or service, write down a story told by that person related to your product or service. Also talk to someone who has not used or dislikes your product/service, and write down a story told by them. Do more if you’d like, but submit at least one story of each.
+
+> The general Heroku RFC process has been an inspiration and the basis for the "team local" RFCs. The hardest part of RFCs has been figuring out the right signal to noise ratio, which has led to the "team local" RFCs, but keeping all the things that made them a great idea. Recently, in the languages program we were running into a problem dealing with Pull Requests being reviewed. The reason for this is the program is made up of mostly independent individuals working on different things. Using the RFC process, I was able to frame a problem and propose various solutions and talk about them across the program. Based on feedback, the original proposal has changed from inception. In addition to this, Manuel who is a "recent" hire has loved the process. As a new person, it's been helpful for understanding why the program functions the way it does. People have even used the RFC format just b/c it's a great way to collect their thoughts on their own local problems.
+
+I knew they were a fan and proponent, but I was surprised just how effusive and in how many ways this has worked well for them. It's great to hear and encouraging that this could be more broadly useful.
+
+> I don’t use them because I’m not directly leading any architectural decisions, generally; I just facilitate others doing so (and, like you, I constantly recommend using them).
+
+I suspected this would be the answer I received, and I took the opportunity to clarify that the tools are useful for all decisions, not just architectural ones. That being said, this seems to be a somewhat common refrain, so I need to find ways to better communicate scope and share exemplars. Also, it is a good reminder that I should do more recommendation and advocacy.
 
 # M9: Teaching Others to Tell Stories
 

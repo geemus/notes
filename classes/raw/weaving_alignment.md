@@ -137,3 +137,41 @@ Weaving Alignment
   * reveal commitments and limitations
   * discover patterns in process and relationships
   * allow for emergent ways of seeing the situation or possibility
+
+# Week 3
+
+## Mapping
+
+* Zoom out - view situation from a neutral third person perspective.
+* Get curious - Set down your own needs / interests /perspective.
+* Endeavor to take a generous view of other perspectives.
+* Generate your own best sense of the diverse needs & interests at play.
+* Ask yourself where you might be wrong (often!)
+* Seek perspectives in an open way - Engage others to discover / disprove / corroborate your perceptions.
+* Refine and revise your mapping based on what you learn.
+
+# Week 4
+
+## Positions, Needs & Interests
+
+* Position - a surface statement about an issue.
+  * Tend to be fixed, often resulting in zero-sum thinking.
+* Needs and interests - the why behind a position.
+  * Allow discussion to get underneath position to understand driving values and build shared understanding.
+* We may not have a clear picture of our own needs and interests, which may make it difficult to see beyond our position, and may not have the best idea about what would ultimately satisfy us.
+
+## Engage to Elicit Needs & Interests
+
+* The Process
+  * Ask Open Questions
+  * Listen (focus, receive, clarify as needed)
+  * Reflect back values/needs/interests (this focus/reflection sets this practice apart form generic active listening)
+  * Check for accuracy
+  * Repeat
+* Helps speaker clarify through the process as well as the listener.
+
+# Review
+
+* Listen for what's at the heart of what is being said or communicated.
+
+
