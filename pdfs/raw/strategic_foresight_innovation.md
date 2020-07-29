@@ -221,4 +221,165 @@ Planning points:
 
 # Solution
 
+Focus on connecting your view of the future to present action by converging from multiple promising opportunities to 1-2 solutions to move forward.
+
+Questions that drive this phase:
+
+* How can we determine the multiple paths possible to get from today to tomorrow's future innovation?
+* Looking at what we've learned, how long does each step take along the various paths?
+* What are the critical points for change, and which ones are in our control?
+
+## White Spots
+
+Strategic method for studying the opportunity space defined by two salient issues.
+
+Instructions:
+
+1. Draw two intersecting lines to create a 2x2 matrix.
+2. Revisit Context Maps. Identify two dimensions that seem most interesting or important to overall learning. With experience, dimensions may even be directly selected.
+3. Write one dimension on the matrix's x-axis and the other on the y-axis.
+4. Define opposite endpoints for each dimension, this may require iteration to find thoughtful endpoints as these labels will direct analysis.
+5. Place an extreme example in each matrix's corner based on axes to help anchor analysis. If you can't identify examples, try different endpoints, or even different axes.
+6. After plotting at least one example in each quadrant, place others at various points in matrix, completing as much as possible. Dark spots, with many examples or clusters, represent areas of high competition and market saturation.
+7. Find areas in the matrix that lack examples, which will appear as empty white spots, and which represent market opportunities.
+8. Circle one white area that most strikes your team, this may be based on respective company priorities, group goals, or other needs.
+9. Describe a future vision that could exist in this space. What would the world look like? What types of solutions best fit here?
+
+## Paper Mockups
+
+Participants physically model a future system. Allows for rapid iteration to drive out ambiguity and helps visually communicate ideas to rally support.
+
+Instructions:
+
+1. Decide what you want to build or test as a mockup. It could be the entire system of components, or a model of interactions.
+2. Find cheap, nearby prototyping materials.
+3. Bring your concept to life by building it as a three-dimensional object or artifact.
+4. Share mockup with others for feedback.
+
+## Dark Horse Prototype
+
+Three-dimensional physical prototypes built to explore a previous intuition or rejected idea. Give permission to think bigger and out of the box, and quickly explore alternative views.
+
+Instructions:
+
+1. Rebuild a paper mockup in 2 minutes or less.
+2. Explain the essense of your idea to someone using the mockup.
+
+## Change Paths
+
+Data-driven narratives exploring different paths and key decision points toward possible future innovation. Help address gaps between vision and action by outlining tangible steps toward innovation.
+
+Instructions:
+
+1. Draw a circle on the far right, representing your future vision or opportunity. Discuss plausible and desired futures, then write a tagline or summary in the circle. You can also include a date or time period.
+2. Draw a squiggly timeline out from the left side. What can you do tomorrow to get started? Mark an X at the far left endpoint and write your action here.
+3. Discuss top two decisions on path to action. These decisions should be in your team's control and ability to affect. Mark these with an X on the timeline and summarize them nearby.
+4. Optionally: Place any additinoal indicators outside your control off the path, if they help confirm progress toward your vision.
+
+# Team
+
+Find the talent and leadership your team needs to take an idea forward as a new innovation.
+
+Questions that drive this phase:
+
+* How do we engage the right kind of people?
+* Who are good partners and cofounders in a new innovation?
+* What are the abilities necssary to lead radical innovation?
+* How do we grow and leverage our innovation networks?
+
+## Buddy Checks
+
+Evaluate potential co-founders, partners, and teammates by showing their reaction level to new ideas. Deliberately recruit like-minded innovators, and practice for public reactions to your idea.
+
+Instructions:
+
+1. Select roles to play. At least one person should describe the new idea and another should hear the idea, ideally as someone who you would like to join your team or support your idea.
+2. Present the idea and evaluate reactions on a 7-level scale, giving additional weight to initial reaction.
+3. Try different ways to present the idea to find which prompts the reaction you hoped to hear.
+
+Scale:
+
+1. Baffled, doesn't get the idea
+2. Nods politely, gets idea
+3. Agrees with you, no action
+4. Agrees with you, wants to play
+5. Tries to extend the idea
+6. Adds something new to the idea
+7. Adds something new you hadn't thought of before
+
+## VOICE Stars
+
+Talent diagnostic to measure leadership aptitude for radical innovation of an individual or team.
+
+Instructions:
+
+1. Draw five lines linked together at the center, so that they resemble a big asterisk or star.
+2. At each line's endpoint, write one attribute from the VOICE list: Voracious, Open, Instigates, Curious, and Earnest.
+3. Draw five tick marks evenly spaced on each line, representing scoring levels for each attribute.
+4. Score each team member's aptitude for each attribute. Each attribute should haev one score per person. Scores are subjective to your group.
+5. Draw a line connecting all fine attributes for each person to represent their VOICE profile.
+6. Identify example activities and metrics next to each VOICE attribute that your team and/or organization does.
+
+Attributes:
+
+* Voracious - ALways finding and capturing widely to add to a personal collection of ideas, knowledge, experiences, and people.
+* Open - Receptive to new ideas, perspectives, or arguments.
+* Instigates - Starts the action; compelled to try, stimulate, encourage, or provoke new dialogues, partnerships, and more.
+* Curious - Eager to learn and know more, willing to ask "what if?"
+* Earnest - Sincerely zealous, wholeheartedly serious in purpose, radiates personal principles.
+
+## Crowd Clovers
+
+Map various related components of a personal network focused on advancing new innovation ideas.o
+
+Instructions:
+
+1. Draw a four-leaf clover with leaflets facing in the four cardinal directions.
+2. In the left leaflet, write people who give you new viewpoints or ideas in work and life. Who inspires or provokes you? Label this leaflet "Catalysts"
+3. In the top leaflet, write people who connect you to more resources, such as people or money. Who helps you find ways to grow? Label this leaflet "Connectors"
+4. In the right leaflet, write people who help you get things done. Who encourages you to take action? Lakel this leaflet "Enablers"
+5. In the bottom leaflet, write people who promote you and your ideas. Who can introduce you (and your idea) to other groups and networks? Label this leaflet "Promoters"
+6. Circle or draw boxes around anyone you work with formally.
+
+# Vision
+
+Excite more people, mobilize further action, and ultimately secure funding and support. Good visions are easy to understand and easy to communicate, they are ambitious, idealistic, credible, realistic, attainable, relevent, and tangible.
+
+## Vision Statement
+
+Short, vidid description of your idea to inspire, energize, and help others mentally picture your target future.
+
+Instructions:
+
+1. Start describing what you want in very simple terms: "Our vision is to ...". Paper Mockups and Futuretelling will help find and express ideas. White Spots and Dark Horse can help you identify the unique value relative to competing solutions.
+2. Next explain why your vision is visionary: "It is almost impossible to achieve because ...". Context Maps and White Spots can hint at existing challenges and state of the field. Dark Horse can also help identify existing preconceptions.
+3. Explain why your vision should be pursued now: "The timing is right today due to ...". Progression Curves and Janus Cones will help justify the next step in the idea's timeline.
+4. Briefly explain background or precursors for your idea: "Precedents for this idea include ...". Pregression Curves and Janus Cones can help unvcover relevant history.
+5. Make vision and active and collaborative by stating 2-4 partners and/or supporters: "By working with ...". Future USers and Change Paths can help determine who should be involved.
+6. Show commitment and set timeline: "We will make this vision real in x years". Progression Curves will help gauge past timeframes to estimate future planning horizons.
+7. Lastly, explain how you will make the idea happen: "by ...". Change Paths will help you name two big milestones extending from today.
+
+## DARPA Hard Test
+
+Describes four qualities of radical innovation vision: far-reaching, technically challenging, multidisciplinary, and actionable.
+
+Components:
+
+* Far-reaching - solution requires a completely new mental model, passing through a paradigm shift. 1-7 = Requires no change in how people think about a solution - Requires a paradigm shift in how a solution is viewed across society.
+* Technically challenging - Goal is difficult to implement either in terms of inventions or system integration. 1-7 = Requires no new specialized expertise - Requires major advancements in specialized expertise.
+* Multidisciplinary - Solution requires multiple bodies of knowledge that rarely exist within one industry. 1-7 = Requires only one class of knowledge - Requires multiple, distinct bodies of knowledge.
+* Actionable - The right people can see a path to the impossible and can make progress starting today. 1-7 = Requires so much clarification that the next step is another meeting - Requires little effort to begin taking actions toward the solution.
+
+Instructions:
+
+1. Evaluate your vision on 1-7 scale against each of the dimensions.
+
+## Pathfinders
+
+Chart the path for an idea to find success based on formal and informal rules within an organization or network.
+
+1. Draw a straght line representing the recommended route for new ideas within your group, noting all major milestones for approval to execute. It should start with conception and end with full acceptance by management.
+2. Identify 2-4 innovation ideas previously pursued within your organization.
+3. Note all actions or major steps each idea followed, this may include proposal deadlines, department discussions, funding evaluations, committee reviews, or review by other units and stakeholders.
+4. Draw the ideas path, with particular actions above the line if they accelerate an idea's progress or below the line if it slows down or hinders an idea's progress.
 
