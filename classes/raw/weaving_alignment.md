@@ -170,8 +170,36 @@ Weaving Alignment
   * Repeat
 * Helps speaker clarify through the process as well as the listener.
 
-# Review
+## Review
 
 * Listen for what's at the heart of what is being said or communicated.
+
+# Week 5
+
+## Preparing to Convene
+
+* Stakeholders
+  * Who needs to be at the table? Is there anyone not currently included that should be?
+  * Are any perspectives primarily due to authority / scope of influence?
+  * Can we go connect with those people and learn about their needs & interests?
+  * Have you learned enough about the needs & interests of each stakeholder?
+  * Would further 1:1 flesh out the picture? What stakeholders do you still need to connect with?
+* Clarifying
+  * How do others perceive your role?
+  * Are you empowered to convene and guide? If not, what would make that possible?
+  * Do others understand your endeavor to increase alignment? If not, how can this be made more transparent? Do you need sponsorship from anyone?
+  * What could clarify your intention so others can support your interventions?
+
+## Convening
+
+* Intention - Create or strengthen group into "we". Align around shared vision. Converge on shared view where we are right now.
+* Consider synchronous meeting vs asynchronous document/text based communication.
+* How can you share your perspective in a neutral and affirming way that enables others to buy in?
+  * Avoid assigning blame for misalignment.
+  * Propose your understanding as your understanding, and invite input.
+  * Appreciatively receive the input you are given.
+  * Use the "we" voice, ie "we are out of alignment" as opposed to "you and they" or "us and them"
+
+# Week 6
 
 
