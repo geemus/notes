@@ -39,12 +39,29 @@
 
 * Five waves of futures work
   * Oral Tradition: shamans and mystics embedded in deep myths.
-  * Early Written Age: early macrohistorians, looking for patterns in the past and cycles of repitition.
-  * Extraction and Enlightenment: progress through science, technology, and rationalism. Foten leading to tension between images of techonology and environment.  * Systems and Cybernetics: growing hand-in-hand with systems thinking as a sister science in response to the Great Depression and support of the Second World War.
+  * Early Written Age: early macrohistorians, looking for patterns in the past and cycles of repitition.  * Extraction and Enlightenment: progress through science, technology, and rationalism. Foten leading to tension between images of techonology and environment.  * Systems and Cybernetics: growing hand-in-hand with systems thinking as a sister science in response to the Great Depression and support of the Second World War.
   * Complexity and Emergence: shifting toward deeper understanding of hidden social and cultural determinents of our futures.
 
 ### Future Studies: A New Field of Inquiry (Bell)
 ### Reconceptualizing Futures (Masini)
+
+* How can we move from abstractly looking into the future to actually building the future?
+* As we navigate toward desirable futures, we must ask on what basis we decide what is desirable.
+* Three levels of looking at the future, representing three different philosophical approaches:
+  * "something is changing" - "prognosis" Look at data of the past and present to point the way toward what is possible and identify what is probable. Relies on extrapolating from social, economic and other indicators. Relates to philosphy of John Locke.
+  * "something MUST be changed" - "visions" Aspire to transform the present by a vision of the future. Instead of probables, this approach focuses on desirables. Relates to philosophy of Leibnitz.
+  * "something CAN be changed" - "projects" Combines knowledge of possibles/probables and a vision of desirables. This acknowledges the interest of the observer. Possibly relating to non-Western philosophies.
+* "visions" approach often relies on existing visions of writers, poets, political scientists, philosophers, policy-makers, etc. Perhaps instead it sholud develop it's own visions.
+* The best listeners/capturers ar those somehow outside the logic of the specific system, as those inside it often have socialital charatacter become an assumed identity.
+* Those who build visions identify that which is different that the present, but that is not pure utopia (since these do not occur historically).
+* Visions built not only with rational capabilities, but also intuitive, imaginitive capacities.
+* Any future one envisions will reflect social character and individual temperament, so it is important to include this openly and understandably. Furthermore, projects/visions should be made and shared by many diverse individuals to paint a more complete picture.
+* Future projects are political and ethical positions that lead to action.
+* Futurists must learn and help others to learn in future terms. This learning should be based on:
+  * Awareness of the Interrelation Between Psychological and Social Character
+  * Respect for One's Own Culture and at the Same Time Awareness of Other Cultures
+  * Learning Should Be Geared to Identity
+  * Learning Must Be Geared to the Ultimate Question of Existence (meaning of life). Not to answer these questions but to perceive the range of answers.
 
 ### Corporate Futures (Rohrbeck et al)
 
