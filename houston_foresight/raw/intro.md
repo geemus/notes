@@ -32,3 +32,45 @@
 * alternative possible futures - there are many possibilities, some are more probable than others, we can track probabilities by monitoring trends, some possibilities are more preferable
 * 5 thinking modes: creative, logical, systemic, critical, intuitive-empathetic
 * 5 foresight activities: identify and monitor change, map and critique impacts, imagine alternative outcomes, envision preferred futures, organize and act to create change
+
+## Readings
+
+### History of Futures (Schultz)
+
+* Five waves of futures work
+  * Oral Tradition: shamans and mystics embedded in deep myths.
+  * Early Written Age: early macrohistorians, looking for patterns in the past and cycles of repitition.
+  * Extraction and Enlightenment: progress through science, technology, and rationalism. Foten leading to tension between images of techonology and environment.  * Systems and Cybernetics: growing hand-in-hand with systems thinking as a sister science in response to the Great Depression and support of the Second World War.
+  * Complexity and Emergence: shifting toward deeper understanding of hidden social and cultural determinents of our futures.
+
+### Future Studies: A New Field of Inquiry (Bell)
+### Reconceptualizing Futures (Masini)
+
+### Corporate Futures (Rohrbeck et al)
+
+* Foresight is built on the assumptions that:
+  * multiple futures are possible (due to uncertainty and unpredictability)
+  * change (drivers) can be identified and studied
+  * the future can be influenced
+* Corporate Foresight is identifying, observing and interpreting factors that induce change, determining possible organization-specific implications, and triggering appropriate organizational responses. Corporate foresight involves relevant stakeholders and creates value through providing access to critical resources ahead of competition, preparing the organization for change, and permitting the organization to steer proactively toward a desired future.
+* Historical Context:
+  * 1950s - foresight work engaging experts vs prospective work which applies collaboratively directly with decision makers
+  * 1960s and 1970s - scenarios provide systematic approaches to identifying key change drivers
+  * 1980s and 1990s - professionalization with methods such as technology roadmapping and continuous environmental scanning.
+  * 2000s+ - organizational integration of routines facilitating futures insights, though many firms struggle to translate this into action. Dilemma of needing large variety of data to be interpretted and a lack of time and attention span from leadership to engage.
+* Decision-Making Routine vs Integrated Organizational Practice
+* Current Studies: Organizing, Cognition, Network Organizations, Value Assessment
+* Future Studies:
+  * Managerial cognition - emphasizing the role of individual and group cognition in shaping perception and influencing decision-making.
+  * Forward-looking search - emphasizes that individuals are bounded-rational, and therefore firm decision maknig cannot be conceptualized as purely rational or analytic reasoning.
+  * Prospective sensemaking considers organizing as a process in which individuals build on past experiences, retrospectively and collectively reflect on these episodes, and through sustained interaction build converging cause maps that permit them to converge behind common objectives and lines of action.
+
+### Historical Review of the Development of Future-Oriented Technology Assessment (Johnston)
+
+* Forecasting and Foresight
+  * relate to a transition to new approaches of social change based on deliberate intervention toward specified ends
+  * initial focus around public policy, but quickly spreading to business generally large captila intensive ones with longer planning horizons.
+  * gradual shift away from methodology-driven studies toward a variety of tools, each suitable for different purposes and with different strengths and limitations.
+  * critical technologies forecasting centered on an assumption that certain identifiable technologies were key to future economic performance.
+* Technology Assessment
+  * seeks to asses potential and implications of emerging and future technologies
