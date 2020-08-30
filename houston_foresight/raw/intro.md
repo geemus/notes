@@ -33,17 +33,31 @@
 * 5 thinking modes: creative, logical, systemic, critical, intuitive-empathetic
 * 5 foresight activities: identify and monitor change, map and critique impacts, imagine alternative outcomes, envision preferred futures, organize and act to create change
 
-## Readings
+# W2: History of Futures Studies and Foresight
 
-### History of Futures (Schultz)
+## Reading: History of Futures (Schultz)
 
 * Five waves of futures work
   * Oral Tradition: shamans and mystics embedded in deep myths.
   * Early Written Age: early macrohistorians, looking for patterns in the past and cycles of repitition.  * Extraction and Enlightenment: progress through science, technology, and rationalism. Foten leading to tension between images of techonology and environment.  * Systems and Cybernetics: growing hand-in-hand with systems thinking as a sister science in response to the Great Depression and support of the Second World War.
   * Complexity and Emergence: shifting toward deeper understanding of hidden social and cultural determinents of our futures.
 
-### Future Studies: A New Field of Inquiry (Bell)
-### Reconceptualizing Futures (Masini)
+## Reading: Future Studies: A New Field of Inquiry (Bell)
+
+* Much work came out of response/recovery from WW2.
+  * Some focusing around nation formation and nation building.
+  * Some focusing around military planning and scenarios (wrt cold war).
+* Lots of work tied up with government, defense, etc that were classified or otherwise not publicly accessible.
+* Much of this came to a head amidst protests/etc of Vietnam war and cival rights.
+* Commission of the Year 2000 came together, starting in 1965, to try and formalize futures and bring them to civilian interests.
+* Limits to Growth (1972) and the Club of Rome, predicted an end to population and industrial growth in the next century. It outlined a number of possibilities, though continued unrestricted growth was not among them. The rest depended on the choices we would make.
+* H.D. Lasswell and Policy Sciences, beginning in 1930s. Warned of society in which specialists on violence would become the most powerful group.
+  * Outlined five specific tasks for study of the future: clarification of goals and values, description of trends, explanation of conditions, projection of possible and probable futures under current policies, and invention/evaluation/selection of policy alternatives to achieve preferred goals.
+  * Established policy sciences as identifiable, respectable, even desirable professional activity
+  * Future studies aims to view future as an open horizon to creatively explore, whereas policy studies tend to try and "de-futurize" the future to increase security.
+* Evaluation Research - originally evaluate goverment programs to see if they achieved their goals, and who/what was responsible for success/failure. Now includes prospective as well as retrospective aspects.
+
+## Reading: Reconceptualizing Futures (Masini)
 
 * How can we move from abstractly looking into the future to actually building the future?
 * As we navigate toward desirable futures, we must ask on what basis we decide what is desirable.
@@ -63,7 +77,7 @@
   * Learning Should Be Geared to Identity
   * Learning Must Be Geared to the Ultimate Question of Existence (meaning of life). Not to answer these questions but to perceive the range of answers.
 
-### Corporate Futures (Rohrbeck et al)
+## Reading: Corporate Futures (Rohrbeck et al)
 
 * Foresight is built on the assumptions that:
   * multiple futures are possible (due to uncertainty and unpredictability)
@@ -82,7 +96,7 @@
   * Forward-looking search - emphasizes that individuals are bounded-rational, and therefore firm decision maknig cannot be conceptualized as purely rational or analytic reasoning.
   * Prospective sensemaking considers organizing as a process in which individuals build on past experiences, retrospectively and collectively reflect on these episodes, and through sustained interaction build converging cause maps that permit them to converge behind common objectives and lines of action.
 
-### Historical Review of the Development of Future-Oriented Technology Assessment (Johnston)
+## Reading: Historical Review of the Development of Future-Oriented Technology Assessment (Johnston)
 
 * Forecasting and Foresight
   * relate to a transition to new approaches of social change based on deliberate intervention toward specified ends
@@ -91,3 +105,7 @@
   * critical technologies forecasting centered on an assumption that certain identifiable technologies were key to future economic performance.
 * Technology Assessment
   * seeks to asses potential and implications of emerging and future technologies
+
+## Lecture
+
+
