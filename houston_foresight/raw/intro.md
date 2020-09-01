@@ -1,5 +1,9 @@
 # W1: Introductions and Overview
 
+## Reading: The Futures Field: Functions, Forms, and Critical Issues (Amara)
+## Reading: A Way through the Maze: what futurists do and how they do it (Garrett)
+## Reading: What corporations do with foresight (Hammoud & Nash)
+
 * Foundations:
   * Macro historians: Hegel, Marx, Spengler, Toynbee, Sorokin
   * Utopianists, philosophers, sociologists: More, Condorcet, Saint-Simon, Comte
@@ -107,5 +111,8 @@
   * seeks to asses potential and implications of emerging and future technologies
 
 ## Lecture
-
+* much divination, as well as foresight, focus on identifying patterns of change * general systems theory - a system is a complex of interacting elements that are open to, and interact with their environments
+* system dynamics - attempts to understand nonlinear behavior of complex systems over time using stocks, flows, internal feedback loops, and time delays (Limits to Growth Model)
+* chaos theory - some systems have instability and nonlinear change processes
+* complexity theory - describes self-organization, and adaptation and innovation to cause undpredictable change.
 
