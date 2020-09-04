@@ -1,4 +1,4 @@
-# W1: Introductions and Overview
+# W01: Introductions and Overview
 
 ## Reading: The Futures Field: Functions, Forms, and Critical Issues (Amara)
 ## Reading: A Way through the Maze: what futurists do and how they do it (Garrett)
@@ -37,7 +37,7 @@
 * 5 thinking modes: creative, logical, systemic, critical, intuitive-empathetic
 * 5 foresight activities: identify and monitor change, map and critique impacts, imagine alternative outcomes, envision preferred futures, organize and act to create change
 
-# W2: History of Futures Studies and Foresight
+# W02: History of Futures Studies and Foresight
 
 ## Reading: History of Futures (Schultz)
 
@@ -111,8 +111,61 @@
   * seeks to asses potential and implications of emerging and future technologies
 
 ## Lecture
+
 * much divination, as well as foresight, focus on identifying patterns of change * general systems theory - a system is a complex of interacting elements that are open to, and interact with their environments
 * system dynamics - attempts to understand nonlinear behavior of complex systems over time using stocks, flows, internal feedback loops, and time delays (Limits to Growth Model)
 * chaos theory - some systems have instability and nonlinear change processes
 * complexity theory - describes self-organization, and adaptation and innovation to cause undpredictable change.
+
+# W03: Theories of Change
+## Reading: Macrohistory and Futures Studies (Inayatullah)
+## Lecture
+# W04: Images of the Future(s)
+## Reading: The Image of the Future, introduction (Polak)
+## Reading: Views on Methodology (Amara)
+## Reading: Ethnographic Futures Research (Textor)
+## Reading: Pasts Presents Futures (List)
+## Lecture
+# W05: Scouting Change
+## Reading Cultural Contradictions... (Shultz)
+## Reading: Reframing environmental scanning: an integral approach (Voros)
+## Lecture
+# W06: Timelines and Time Horizons
+## Reading: Understanding change through phases eras timelines (Mahaffie)
+## Reading: Footprints of the Future (Von Stackelberg)
+## Reading: Seeing in Multiple Horizons (Curry and Hodgson)
+## Lecture
+# W07: Systems and Interference Patterns
+## Reading: On Systems Thinking (Ackoff)
+## Reading: Intro to Systems Thinking (Kim)
+## Lecture
+# W08: Forecasting
+## Reading: Blurred Vision (Gardner)
+## Lecture
+# W09: Critiquing Impacts of Change
+## Reading: Causal Layered Analysis (Inayatullah)
+## Reading: Futures Wheel (Glenn)
+## Lecture
+# W10: Exploring Alternative Futures, 1
+## Reading: The Four Futures (Dator)
+## Reading: Overview of Current Scenario Techniques (Bishop, Hines, Collins)
+## Reading: Roads Less Travelled (Curry, Schultz)
+## Lecture
+# W11: Exploring Alternative Futures, 2
+## Reading: Appendix, The Art of the Long View (Ogilvy and Schwartz)
+## Reading: The Future is Not Binary (Schultz)
+## Lecture
+# W12: Desiging Experiential Futures
+## Reading: TBD
+## Lecture
+# W13: Values and Preferred Futures
+## Reading: Envisioning the Future (Ziegler)
+## Lecture
+# W14: Imagination to Action
+## Reading: Leverage Points (Meadows)
+## Lecture
+# W15: The Future of Futures
+## Reading: APF The Future of Futures, pp 25-46
+## Reading: Futures 2.0 (Pang)
+## Lecture
 
