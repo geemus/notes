@@ -118,7 +118,24 @@
 * complexity theory - describes self-organization, and adaptation and innovation to cause undpredictable change.
 
 # W03: Theories of Change
+
 ## Reading: Macrohistory and Futures Studies (Inayatullah)
+
+* Macrohistory is the study of the histories of social systems in search of patterns or even laws of social change.
+* Looking at causes and mechanisms of historical change, what changes and what remains stable, analyzing units of history, and presenting stages of history all provide structure for forecasting and insight into the future.
+* Tension in this view between structure/structuralism and agency/individualism/liberalism.
+* Ideally a theory includes linear, cyclical and tracendenal dimensions and has agency, structure, and superagency (trancendental) causes of movement.
+* As we consider individual's ability to influence, we must acknowledge this happens within a set of conditions that bias influence their ability to choose. Macrohistorians see these biases themselves as existing within structures and forming patterns.
+* Cyclical theorists suggest limits which result in rise and fall. Linear suggests change due to external causes, and fall being something that happens to other civilizations. Both, however, include some parts of one another.
+* Sexual model suggests men see rise/fall, whereas women see expansion/contraction.
+* The best macrohistory or history of the future must negotiate many types of time: seasonal, rise and fall, dramatic, mythological, expansion/contraction, cosmic, linear, social-cyclical, and the timeless. The must be associated with notions of social structure, individual, and trancendental agency.
+* Cyclical alone leads to fatalism. Linear alone leads to imperialism. Trancendental alone neglects economic and social development. All three are needed.
+* Creativity is a key variable in understanding rise/fall as it leads to expansion, growth, wealth, power, and inner development.
+* Structuring history as stages simplifys the real while providing more information than a mere summation of events. Stages also relate to mind/body, good/evil, internal/external, expansion/contraction, accumulation/distribution, absolute/relative, theory/data, etc.
+* Stages can be linked by the dialectic, with each stage emerging due to contradictions in the previous stage.
+* As new secieties are created, it necessitates a vanguard, which will always be a minority. These leaders can transform historical structures.
+* Like futures studies, macrohistory intends to recreate history and future through a mythic distance from the present.
+
 ## Lecture
 # W04: Images of the Future(s)
 ## Reading: The Image of the Future, introduction (Polak)
