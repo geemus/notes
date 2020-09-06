@@ -1,6 +1,42 @@
 # W01: Introductions and Overview
 
 ## Reading: The Futures Field: Functions, Forms, and Critical Issues (Amara)
+
+* Five basic functions: goals formulation, methods development, applications, coupling, and implementation.
+* Institutional forms: image generators, research organizations, corporate planning groups, and citizen groups.
+* Futures field: Any systematic attempt to improve our understanding of the future consequences of present developments and choices.
+  * Broken into three categories: exploration of possible futures (art of futurism), exploration of probable futures (science of futurism), and exploration of preferable futures (politics and psychology of futurism).
+* General Features of the present Futures Field:
+  * Visionary: integrative and strategic, generally more than 5 years, and often 20 or more years into the future
+  * Analytical: multidisciplinary and methodological with emphasis on explictness in forecasting, modelling, scenario building, and related activities
+  * Participatory: problem and implementation-oriented with particular attention to social and political dimensions
+* Functions or Roles:
+  * Goal formulation: issue or problem definition; future-image creation or alternative futures generation. Ties to visionary, least explicit, most intuitive, and most personal.
+  * Methods development: includes developing body of explicit, organized knowledg about event and trend forecasting, process modelling, and data integration. Together with applications, stems from analytical or research components.
+  * Applications: provide inputs to planning and decision-making by expanding range of useful alternatives, evaluating consequences, and structuring intervention. May or may not involve formal methodologies.
+  * Coupling: socio-psychological and organizational aspects of information transfer to influence individual perceptions, behavior, and attitudes. Taken together with implementation, coupling is at the participatory roots of the Futures Field.
+  * Implementation: interventions and actions actually token to realize objectives of a plan, and the informative feedback that may lead to changes in plans.
+* Major groups/institutions (~150 total):
+  * Goal setters or "image generators" (50-60) - highly imaginative image-oriented thinking.
+  * Research organizations (25-30) - focus on applications-oriented activities and often methodology.
+  * Corporate or government plannig groups (50) - focus on coupling activities, usually not directly involved in research.
+  * Citizen groups (10-25) - interested public, often not directly affiliated with futures field.
+* Circuit of the links among functions:
+  * Goals-Methods: Weak connectivity. Unlikely that goals will influence methods, but methods could potentially influence goals. No existing forms focus on this link.
+  * Methods-Applications: Best connected link, representing analytical and research arms.
+  * Applications-Coupling: Poor connectivity. This absence of effective mechanism for coupling research to end users is a critical institutional problem for the futures field. No known related institutions exist.
+  * Coupling-Implementation: Week to non-existent link. Citizen groups have raised awareness (coupling), but struggled with implementation. Emerging institutional forms may help bridge the gap.
+  * Implementation-Goals: largely undefined and uncharted. Visionary goals and implementation seem at odds with one another. Unclear how to bridge this gap.
+* Researchable Issues
+  * Institutional Effectiveness - could use clearer measures of how effective output is and what biases may have gone into it.
+  * Integration of Approaches - could use a unified theory of how things fit together.
+  * Understanding social change - need to better understand and be able to describe at the societal level.
+  * Research to users - need to characterize and understand micro (individual level) process of change and how to foster/realize change.
+* Likely marks made by Futures Field:
+  * deeper understanding of social change processes at macro and micro levels
+  * more effective qualitative (judgmental) and quantitative (analytical) components in planning
+  * more balance multidisciplinary planning with social sciences partnerning with physical and analytical sciences
+
 ## Reading: A Way through the Maze: what futurists do and how they do it (Garrett)
 ## Reading: What corporations do with foresight (Hammoud & Nash)
 
