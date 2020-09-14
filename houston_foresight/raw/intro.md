@@ -173,6 +173,41 @@
 * Like futures studies, macrohistory intends to recreate history and future through a mythic distance from the present.
 
 ## Lecture
+
+* theories of change are about patterns: incremental, evolutionary, cyclical, conflictual/dialectic, stimulus/response, etc
+* agency vs structure
+* when thinking about theories of change, we can also think about theories of stability
+* each theory provides questions to help identify patterns that might recur, but we should note that the theories are conditioned by the environment and experience of the author
+* Hines & Bishop: Teaching about the Future - ways to analyze change
+  * inbound change (change we experienc) vs outbound change (change we create)
+  * dimensions of change: sources/levels (from where?), time horizons (how long?), rates of change (how fast?), forms of change (what shape?)
+  * different theories > different possible futures > different strategies to reach futures
+  * different theories point to different sources, suggesting different places to scan for change
+  * Ten general categories of change theory: progress, developmental, technology, culture, cycle, conflict, market, power, evolution, emergence
+* Archetypes of Change: grow (everything climbs), collapse (everything falls), discipline (everything levels out due to careful coordination), transform (profound historical transition, whether spiritual or technological)
+* Macrohistorians:
+  * Ssu-Ma Ch’ien/ Si Ma Qian - Shape: cycle; Key: yin-yang - rise and fall - of virtue; Unit: moral characteristics of dynasty; Stages: sage king, progressively more inept successors, repeat
+  * ibn Khaldun - Shape: cycle; Key: Asabiya - unity through collective struggle; Unit: ruling elites; Stages: decline over four generations - creativity, imitation, blind following of indolence, repeat (idealizes nomad, see settling down as failing and start of decent)
+  * Smith - Shape: linear; Key: self-love and love for working together; Unit: economy; Stages: hunting/gathering, pasturage, agrarian, commerce
+  * Hegel - Shape: linear; Key: states/world leaders; Unit: geist (soul of civilization) in process of perfecting itself via dialectic of thesis/antithesis/synthesis; Stages: prehistory, Oriental, Antiquity, Medieval Christianity, German Christianity
+  * Comte - Shape: linear; Key: evolution of positive knowledge; Unit: episteme - system of understanding / way of knowing; Stages: theological (primitive/supernatural), metaphysical (transient/transitional - focus on abstract speculative thinking), positive (final - belief in science)
+  * Marx - Shape: linear/spiral; Key: evolutionary technolocial / economic dialectics; Unit: labor's relation to economy; Stages: historical economic stages
+  * Spencer - Shape: linear; Key: evolutionary differentiation; Unit: social structures and relations; Stages: Barbaric to militant to industrial to altruistic businessmen - driven by survival of fittest to evolve from undifferentiated, disorganized, homogenous masses, to differntiated but organized heterogeneous classes
+  * Pareto - Shape: Oscillation; Key: circulation of elites, best in lower classes striving to get ahead and take control while upper classes resist and thus erode their own virtue; Unit: structure of polity; Stages: innovate/consolidate, democracy > tyranny > republic > empire > feudalism > monarchy > plutocracy
+  * Spengler - Shape: life cycle; Key: maturation and decline; Unit: culture; Stages: decline from preculture through culture (nobility and priests) to late culture (capitalists class and state) ending in civilization (money in place of spirit)
+  * Teilhard de Chardin - Shape: linear; Key: evolution; Unit: Universe; Stages: big bang > planetary formation > rise of life > rise of intelligence > development of spiritual conciousness > Omega (personification of universe, complete spiritualization of matter)
+  * Sorokin - Shape: pendulum; Key: principle of limits; Unit: system of culture; Stages: ideational (spiritual/ascetic) > idealistic (both/harmonized) > sensate (materialistic/active) > chaos (degenerancy/decadence/dissolution)
+  * Toynbee -  Shape: rise and fall; Key: challenge and response; Unit: civilizational vitality, as evidenced by the effective creativity of leading class; Stages: challenge > response > mimesis
+  * Prabhat Ranjan Sarkar - Shape: cycle / spiral; Key: evolutionary vidya/avidya dialectics; Unit: varna - social cycle; Stages: laborers overcome by warriors > warriors outsmarted by intellectuals > intellectuals bought out by acquisitors/capitalists > acquisitors/capitalists overthrown by laborers
+  * Eisler - Shape: multilinear + dialectical; Key: gender; Unit: structures of authority; Stages: partnership / gylany > dominator > partnership
+  * Gaia - Shape: equilibrium / cycle; Key: evolution; Unit: planet; Stages: Geophysiology / cosmic
+* Meso-Level Theories: Theories of change focused on communities, sectors, and organizations.
+  * Great man theory aka transformational leadership (James McGregor Burns)
+  * disruptive innovations (Clayton Christensen)
+  * media and the transfer of information and meaning (Marshall McLuhan)
+  * generational change aka age-cohort analysis (Strauss and Howe)
+* Micro-Level Theories - change at the level of the individual; interior change.
+
 # W04: Images of the Future(s)
 ## Reading: The Image of the Future, introduction (Polak)
 ## Reading: Views on Methodology (Amara)
