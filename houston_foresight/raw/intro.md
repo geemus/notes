@@ -191,7 +191,7 @@
   * Smith - Shape: linear; Key: self-love and love for working together; Unit: economy; Stages: hunting/gathering, pasturage, agrarian, commerce
   * Hegel - Shape: linear; Key: states/world leaders; Unit: geist (soul of civilization) in process of perfecting itself via dialectic of thesis/antithesis/synthesis; Stages: prehistory, Oriental, Antiquity, Medieval Christianity, German Christianity
   * Comte - Shape: linear; Key: evolution of positive knowledge; Unit: episteme - system of understanding / way of knowing; Stages: theological (primitive/supernatural), metaphysical (transient/transitional - focus on abstract speculative thinking), positive (final - belief in science)
-  * Marx - Shape: linear/spiral; Key: evolutionary technolocial / economic dialectics; Unit: labor's relation to economy; Stages: historical economic stages
+  * Marx - Shape: linear/spiral; Key: evolutionary technological / economic dialectics; Unit: labor's relation to economy; Stages: historical economic stages
   * Spencer - Shape: linear; Key: evolutionary differentiation; Unit: social structures and relations; Stages: Barbaric to militant to industrial to altruistic businessmen - driven by survival of fittest to evolve from undifferentiated, disorganized, homogenous masses, to differntiated but organized heterogeneous classes
   * Pareto - Shape: Oscillation; Key: circulation of elites, best in lower classes striving to get ahead and take control while upper classes resist and thus erode their own virtue; Unit: structure of polity; Stages: innovate/consolidate, democracy > tyranny > republic > empire > feudalism > monarchy > plutocracy
   * Spengler - Shape: life cycle; Key: maturation and decline; Unit: culture; Stages: decline from preculture through culture (nobility and priests) to late culture (capitalists class and state) ending in civilization (money in place of spirit)
@@ -214,6 +214,46 @@
 ## Reading: Ethnographic Futures Research (Textor)
 ## Reading: Pasts Presents Futures (List)
 ## Lecture
+
+### Review of Readings
+
+* Polak
+  * images deeply embedded in their cultural context, helps resolve uncertainty (ideally toward preferrable outcomes)
+  * preferred futures collect attention, helping make them more likely to occur
+  * can delineate images as quadrants of optimistic/pessimistic and deterministic/free-will
+* Amara - common core criteria of futures images: credibility/plausibility, reproducibility, value/impact explicitness
+* Textor
+  * futures research > cultural futures research > ethnographic future research
+  * focused attention on histories first, to drive thoughts about transitions over time, and prime futures discussion and break away from over-focus on present
+* List
+  * groups of people will have perceive past/present/future differently, so there are multiples of each
+  * some images are shared widely, whereas some are kept more private
+
+### Lecture
+
+* There are no future facts, but there are infinite images of the future (as well as previous images of the future).
+* psychology of futures imaging - hopes, fears, extrapolation from the past, and imagination
+* Sources of future visions
+  * Culture: religions, political idealogies, artists/writers/advertisers and other artifacts
+  * Society: policies that are passed, infrastructure that is built, artifacts that are created
+  * Individuals: what do people do (ie volunteering), what do people think (ie surveys, ethnographic futures research, etc)
+  * Forecasts: what trends have researchers extrapolated? what scenarios have futurists built?
+* In looking at historical images of the future, look to what they thought would remain constant and what they think would change.
+* With ads/idealogies/etc: what future is being promise? what aspirations are being tapped? how different would this future be?
+* Buildings/infrastructure force some consideration of the future due to their hoped for longevity. What image are they trying to project?
+* Transportation also impacts/implies the infrastructure needed to support them. ie cars vs mass transit vs zeppelin vs etc
+* City planning/design also represent an image of the future in terms of what they accomodate and how, etc.
+* The context of science of fiction provides an interesting image of how things might evolve. ie blade runner is very gritty/dark/pessimistic (horror/thriller), fifth element is very bright/optimistic (comedy), ghost in the shell ads-everywhere/etc
+* Analyzing Images of the Future
+  * Schemas: optimistic/pessimistic and deterministic/free-will quadrants
+  * Kinds: possible, probable, plausible/credible, preferable
+  * Archetypes:
+    * business as usual: continued growth (nightmare: economic collapse)
+    * environment sustainability (nightmare: ecological collapse)
+    * idealogical exclusionism (nightmare: anarchy, collapse of rule of law)
+    * high tech transformation (nightmare: infrastructure/system collapse)
+    * spiritual transcendence (nightmare: anomic collapse)
+
 # W05: Scouting Change
 ## Reading Cultural Contradictions... (Shultz)
 ## Reading: Reframing environmental scanning: an integral approach (Voros)
