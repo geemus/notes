@@ -254,6 +254,17 @@
     * high tech transformation (nightmare: infrastructure/system collapse)
     * spiritual transcendence (nightmare: anomic collapse)
 
+* Key Ideas:
+  * Images drive behavior at all levels
+  * Optimism and efficacy are critical for success
+  * Images of futures are embedded everywhere
+  * Common futures - archetypes - exist
+  * Futures have multiple distinguishing dimensions
+* Image Rating Frameworks
+  * IFTF Meta-analytics spider chart: Logic, Complex/Nuanced, Evocative, Provocative, Stimulating
+  * Verge spider chart - degrees of change: Define, Related, Connect, Create, Consume, Destroy
+  * STEEP spider chart - degrees of change: Society, Technology, Economy, Environment, Politics
+
 # W05: Scouting Change
 ## Reading Cultural Contradictions... (Shultz)
 ## Reading: Reframing environmental scanning: an integral approach (Voros)
