@@ -266,9 +266,56 @@
   * STEEP spider chart - degrees of change: Society, Technology, Economy, Environment, Politics
 
 # W05: Scouting Change
+
 ## Reading Cultural Contradictions... (Shultz)
+
+* identifying conceptual conflict between evidence-based policy research and horizon (environmental) scanning
+* scanning provides a more dynamic and faithful view of change, vs static things like briefings/white papers
+* five key activities of integrated foresight:
+  * trends, drivers, and emerging issues of change (weak signals) collected via scanning diverse data sources
+  * change data extrapolated via statistical computation and qualitative impact assessment
+  * change data, extrapolations, and impacts assembled into scenarios of possibilities
+  * possibilities seen as desirable built into a preferred future, or vision
+  * strategies to realize the vision devised building on positive trends and countering/ameliorating negatives
+* after establishing a vision-based strategy, monitoring and updating it becomes part of the broader scanning/monitoring process
+* when scanning:
+  * first determine if it is objectively or only subjectly new (new to me vs new to a leading thinker)
+  * determine if this is the first mention of a new change, or reinforces previous signals for the same topic
+  * if it represents repitition, does it confirm or contradict?
+  * try to judge how quickly the change is occurring and what the time horizon for "emergence" (public awareness/market saturation) might be
+  * how credible is the source?
+* many trends are established enough to already be a part of planning (ie globalization). Planning is the navigation map. Scanning is the radar that supplements the map with the current conditions on the ground.
+* goal of scanning is to identify potentially significant change soon enough to monitor emergence while creating contingency plans to manage it, and with sufficient time to implement plans if needed.
+* Four modes of scanning (Chun Wei Choo):
+  * Touring, or undirected viewing, with no particular goal in mind across a wide variety of sources. Sensitizes to potentially significant change.
+  * Tracking, or conditioned viewing, focuses on change items with potential impact to an organization or goal. Reviews pre-selected sources of relevance to the topic of interest.
+  * Satisficing, or informal search, digs more deeply into a single issue or event, to determine quickly and efficiently if action is needed (which could include more formal research).
+  * Retrieving, or formal search, in-depth research on a specific issue or event. Articulated methodology and exhaustive search for sources.
+* Given the breadth needed on the touring end and the depth needed on the retrieving end, this is best performed by an integrated network of people.
+* Choosing Touring/Horizon-Scanning Sources:
+  * in science/technology, look for sources the communities use themselves to announce news
+  * in social/cultural, look for ideas among artists and youth
+* Validating Scanning Sources:
+  * High citation numbers, media distribution, "buzz"
+  * Market niche of material (look to mission statements and/or self descriptions)
+  * Distribution: how widely distributed/used is it?
+  * Media: print journal, newsletter, tabloid, etc
+* Organizing Scanning Data:
+  * STEEP: social, technological, economic, environmental, political
+  * PESTLE: political, economic, social, techonological, legal, environmental
+  * PESTLEC: political, economic, social, techonological, legal, environmental, culture
+  * create, relate, consume, connect, define
+  * broad categories can also be subdivided
+  * folksonomies (if available)
+* Validating Scanning Data:
+  * Confirmation, or accruing multiple citations
+  * Convergence, or emerging scientific consensus
+  * Parallax, or acquiring "depth of field" by collecting views from multiple cultural viewpoints (both organizational and ethnic/cultural)
+
 ## Reading: Reframing environmental scanning: an integral approach (Voros)
+
 ## Lecture
+
 # W06: Timelines and Time Horizons
 ## Reading: Understanding change through phases eras timelines (Mahaffie)
 ## Reading: Footprints of the Future (Von Stackelberg)
