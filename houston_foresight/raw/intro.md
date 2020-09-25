@@ -253,7 +253,6 @@
     * idealogical exclusionism (nightmare: anarchy, collapse of rule of law)
     * high tech transformation (nightmare: infrastructure/system collapse)
     * spiritual transcendence (nightmare: anomic collapse)
-
 * Key Ideas:
   * Images drive behavior at all levels
   * Optimism and efficacy are critical for success
@@ -267,7 +266,32 @@
 
 # W05: Scouting Change
 
-## Reading Cultural Contradictions... (Shultz)
+## Reading: The Art of Scanning the Environment (Choo)
+
+* Environmental scanning represents a primary mode of organizational learning about external forces, so that they can develop responses to secure or improve their position.
+* Categories of research relating to information seeking:
+  * Situational dimensions: the effect of preceived environmental uncertainty. If the environment is perceived to be more uncertain, more scanning will occur. Perceived uncertainty is a function of perceived complexity and dynamism.
+  * Organizational strategy and scanning strategy: Overall strategy relates to sophistication, scope, and intensity of scanning.
+  * Information needs, seeking and use: scanning is linked with improved organizational performance when linked with strategy.
+  * Managerial traits: some evidence suggesting managers scan widely, becoming broader as you move upward in the organization.
+* Modes of scanning (mix all 4 as needed)
+  * undirected viewing - looking to information with no specific informational need in mind to detect change early. Many and varied sources, screening large amounts of information. Sensitizes viewer to selected areas or issues.
+  * conditioned viewing - looking for particular types of information or particular topics to evaluated significance and assess impact. If impact is sufficiently significant, moves from scanning to searching.
+  * informal search - actively looks to deepen knowledge and understanding of a specific issue. Relatively limited and unstructured effort to elaborate on an issue to determine if further action is required.
+  * formal search - deliberate, planned effort to obtain specific information or information about a specific issue to systematically retrieve relevant information to provide a basis for decisions or a course of action.
+* best practices for effective scanning
+  * plan and manage scanning as a strategic activity - consider similar to R&D, long term (3-5 years to mature) effort to establish
+  * implement scanning as a formal system - planned, sustained and coordinated.
+  * partner with domain experts, information experts, and IT specialists in designing the scanning system - domain experts can help sort signal/noise, information specialists help add value to data and keep it accessible, and IT help move and share the information.
+  * manage information as the core of the scanning function:
+    * Information Needs: identify users and understand their information use
+    * Information Acquisition: centrally coordinate, but distribute information gathering
+    * Information Organization and Storage: centralized database/file system, organized to facilitate both searching (retrieving info) and browsing (connecting info)
+    * Information Products/Dissemination: provide relevant context and other value-added services across a mix of dissemination channels and formats
+    * Information Use: sensemaking, knowledge creating, and decision making
+* Effective environment scanning balances control/creativity, centralization/decentralization, and focus/exploration.
+
+## Reading: Cultural Contradictions... (Shultz)
 
 * identifying conceptual conflict between evidence-based policy research and horizon (environmental) scanning
 * scanning provides a more dynamic and faithful view of change, vs static things like briefings/white papers
@@ -313,6 +337,40 @@
   * Parallax, or acquiring "depth of field" by collecting views from multiple cultural viewpoints (both organizational and ethnic/cultural)
 
 ## Reading: Reframing environmental scanning: an integral approach (Voros)
+
+* A broadened scanning framework, which may also provide understanding of how human minds filter their perceptions of the world.
+* Cross-level analysis examines the world in terms of both the perceptual filters of the viewer and the aspect of the world being viewed.
+* Based upon Four-Quadrant Integral model of Ken Wilber and Spiral Dynamics model of Don Beck and Chris Cowan.
+* Four Quadrants based around Interior/Exterior, Individual/Collective:
+  * UL, upper-left, intentional, subjective, "I", individual subjective awareness (hope, joy, dreams, cognitive capacities, intentions)
+  * UR, upper-right, behavioural, objective, "it", objectively measurable aspects or behaviors of individuals
+  * LL, lower-left, cultural, inter-subjective, "we", exchange of beliefs and experiences with others
+  * LR, lower-right, social, inter-objective, "its", external interactions, most STEEP analysis is here
+* Multiple levels radiating out from the center as: matter, body, mind, soul, spirit. Things progress to go up through them.
+* Spiral Dynamics is a system for understanding how people think about things (ie the process), not simply the things they think about (ie the content).
+  * Spiral Dynamics also sometimes described as "describing the containers that shape world views, not the contents that fill them"
+  * Models evolution of human cognitive capacity as double-helix, one side is "life conditions" external to the individual and the other side are the cognitive capacities of the brain/mind system. Across the spiral, life conditions are matched with adequate coping mechanisms.
+  * Describes an emergent system. Pairings are color coded (rather than ranked), with later ones tending toward more expansive, whereas earlier ones are needed to reach the later ones.
+  * Spiral Dynamics structures:
+    * Beige - archaic-instinctual - Survival Sense - 'do what you must do just to stay alive'
+    * Purple - magical-animistic - Kin Spirits - 'keep the spirits happy and the tribe's nest warm and safe'
+    * Red - impulsive-egotistical - Power Gods - 'be what you are and do what you want, regardless'
+    * Blue - mythic-purposeful - Truth Force - 'life has meaning, direction and purpose with predetermined outcomes'
+    * Orange - rationalist-achievist - Strive Drive - 'act in your own self-interest by playing the game to win'
+    * Green - pluralistic-communitarian - Human Bond - 'seek peace within the inner self and explore, with others, the caring dimensions of community
+    * Yellow - systemic-integrative - Flex Flow - 'live fully and responsibily as what you are, and learn to "become"'
+    * Turquoise - globalist-holistic - Whole View - 'experience the wholeness of existence through body, mind and spirit'
+  * Each system has an Entering phase, a Nodal (peak) phase, and an exiting phase. Entering is written in all-caps and exiting is written with a slash between the old and new states.
+  * 'People are not the Spiral, the Spiral is in people.' - we are at different levels/systems for different parts of our life
+  * Spiral Dynamics and world views
+    * Blue - fundamentalism
+    * Orange - formal operational thinking in a rational world view.
+    * Green - pluralistic relativism
+    * Yellow - systemic
+    * Turquoise - holistic
+* Cross-level analysis - focus on (epistemological) level from which scanning is done and the (ontological) level toward which it is being directed.
+* Suggests that we should tune our message and delivery to the receiver, so that it will be more likely to be heard and understood.
+* Cross-level analysis can be used to understand the strengths/weaknesses of scanners in order to better balance the network.
 
 ## Lecture
 
