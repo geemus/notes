@@ -209,27 +209,31 @@
 * Micro-Level Theories - change at the level of the individual; interior change.
 
 # W04: Images of the Future(s)
+
 ## Reading: The Image of the Future, introduction (Polak)
-## Reading: Views on Methodology (Amara)
-## Reading: Ethnographic Futures Research (Textor)
-## Reading: Pasts Presents Futures (List)
-## Lecture
 
-### Review of Readings
-
-* Polak
+* Highlights from Lecture:
   * images deeply embedded in their cultural context, helps resolve uncertainty (ideally toward preferrable outcomes)
   * preferred futures collect attention, helping make them more likely to occur
   * can delineate images as quadrants of optimistic/pessimistic and deterministic/free-will
-* Amara - common core criteria of futures images: credibility/plausibility, reproducibility, value/impact explicitness
-* Textor
+
+## Reading: Views on Methodology (Amara)
+
+* Highlights from Lecture - common core criteria of futures images: credibility/plausibility, reproducibility, value/impact explicitness
+
+## Reading: Ethnographic Futures Research (Textor)
+
+* Highlights from Lecture:
   * futures research > cultural futures research > ethnographic future research
   * focused attention on histories first, to drive thoughts about transitions over time, and prime futures discussion and break away from over-focus on present
-* List
+
+## Reading: Pasts Presents Futures (List)
+
+* Highlights from Lecture:
   * groups of people will have perceive past/present/future differently, so there are multiples of each
   * some images are shared widely, whereas some are kept more private
 
-### Lecture
+## Lecture
 
 * There are no future facts, but there are infinite images of the future (as well as previous images of the future).
 * psychology of futures imaging - hopes, fears, extrapolation from the past, and imagination
