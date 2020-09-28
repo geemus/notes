@@ -216,6 +216,23 @@
   * images deeply embedded in their cultural context, helps resolve uncertainty (ideally toward preferrable outcomes)
   * preferred futures collect attention, helping make them more likely to occur
   * can delineate images as quadrants of optimistic/pessimistic and deterministic/free-will
+* Aspects of Images of the Future
+  * Origin and Formation - Always aristocratic, ie from the creative minority. Requires awareness of the future in order to consider alternatives, and ethics to determine preference.
+  * Propogation and Driving Force - tends to relate to idealism (rather than materialism)
+  * Image-Effect - relationship between projected future and actual future as it passes.
+  * Self-Elimination - takes place through succession of images and the dialectic changes they provoke.
+  * Periodic Self-Correction and Adaptation to Time Change - conversely, sometimes the dialectic results in renewal and change.
+  * Loss of Capacity for Self-Correction - recent apparent loss of projections of futures and focus on the present.
+* essense: what must be (deterministic) - vs - influence: what might be (free-will)
+  * essense-optimism/influence-pessism - man has little positive role, and is tool of higher power.
+  * essense-pessimism/influence-pessism - chaos reigns, man can only resign to inevitable
+  * influence-optimism - two types:
+    * man's role is indirect, accent on supernatural power and man's reconciliation.
+    * man's role is direct, accent on natural events and human effort.
+  * influence-optimism sets the mandate to work against the mandate to pray.
+* rise and fall of images of the future precedes or accompanies the rise and fall of cultures
+* images live or die based on their ability to respond to change and maintain or adapt to remain as a comprehensive and inspiring vision of the future
+* Polak argues that bold visionary thinking and imaginative projection are prerequisites for effective but gradual social change.
 
 ## Reading: Views on Methodology (Amara)
 
