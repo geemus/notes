@@ -289,6 +289,7 @@
 
 ## Reading: The Art of Scanning the Environment (Choo)
 
+* Focus Question from Schultz: considering Choo's four modes of scanning, how would you apply the different modes to different foresight topics or projects?
 * Environmental scanning represents a primary mode of organizational learning about external forces, so that they can develop responses to secure or improve their position.
 * Categories of research relating to information seeking:
   * Situational dimensions: the effect of preceived environmental uncertainty. If the environment is perceived to be more uncertain, more scanning will occur. Perceived uncertainty is a function of perceived complexity and dynamism.
@@ -314,6 +315,7 @@
 
 ## Reading: Cultural Contradictions... (Shultz)
 
+* Focus Question from Schultz: how does understanding quality criteria for scanning is the opposite of what quality critera is for empirical science help you understand how to talk about, present and defend your scanning work.
 * identifying conceptual conflict between evidence-based policy research and horizon (environmental) scanning
 * scanning provides a more dynamic and faithful view of change, vs static things like briefings/white papers
 * five key activities of integrated foresight:
@@ -359,6 +361,7 @@
 
 ## Reading: Reframing environmental scanning: an integral approach (Voros)
 
+* Focus Question from Schultz: how would Voros' perspective enhance or enlarge your approach to scouting for change?
 * A broadened scanning framework, which may also provide understanding of how human minds filter their perceptions of the world.
 * Cross-level analysis examines the world in terms of both the perceptual filters of the viewer and the aspect of the world being viewed.
 * Based upon Four-Quadrant Integral model of Ken Wilber and Spiral Dynamics model of Don Beck and Chris Cowan.
