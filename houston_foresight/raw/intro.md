@@ -399,9 +399,49 @@
 ## Lecture
 
 # W06: Timelines and Time Horizons
-## Reading: Understanding change through phases eras timelines (Mahaffie)
+
+## Reading: Seeing in Multiple Horizons: Connecting Futures to Strategy (Andrew Curry, Anthony Hodgson)
+
+* Three Horizons enables different futures and strategic methods to be integrated as and when appropriate.
+* It can relate drivers and trends-based futures analyses to emerging issues, enable policy or strategy implications to be identified, and link futures work to process of change.
+* The Horizons:
+  * 1st Horizon - current prevailing system as it continues into the future, which loses "fit" over time as its external environment changes
+  * 3rd Horizon - ideas/arguments about the future that are, marginal at best presently, but which have the potential over time to displace the world view of the first horizon because they representa more effective response to external environmental change
+  * 2nd Horizon - an intermediate space of transition where 1st/3rd collide, which is typically unstable. Characterized by clashes of values in which competing alternative paths to the future are proposed by actors.
+* An example:
+  * Horizon 1: fossil fuels are dominant, energy is centralized and continuous. Companies may try to "clean" existing methods, or contradict/ignore framing of horizon 3.
+  * Horizon 3: renewables, possibly also decentralized and reduced consumption. Emerging tech is championed, different energy-based business models are tried.
+  * Horizon 2: significant public/fiscal support given to 3 and/or various demand reduction efforts.
+* The time period covered by horizons will vary with the subject or domain under scrutiny. ie energy horizons are likely to be long (~50 years) due to significant infrastructure issues, whereas computer industry horizons would be much shorter.
+* To challenge/replace horizon 1, horizon 3 futures need to overcome two challenges:
+  * they need to show they can work at the required social scale
+  * they need to win a battle of values (to overcome horizon 1, as well as to winn out among all viable horizon 3 alternatives)
+* two axes are time (x-axis) and organizational fit with external environment, from low to high (y-axis)
+* organizational fit can be assessed in terms of prevailing degree of acceptance of ideas within society as a whole about the political, economic, organizational and cultural norms embedden in an organization or network.
+* trajectory of horizon 3 is deeply informed by values, and is strived toward using voice and experiment.
+* One can envision the horizons as bell curves. Horizon 1 has already reached it's peak, Horizon 2 is rising up the first quarter of it's curve, and Horizon 3 is just getting started.
+* Horizon 2 represents the space of conflict between Horizon 1 (present embedded social, economic, technical, and institutional structures) and Horizon 3 (value-driven desired future)
+* Criticism of conventional scenarios: 1. frequently do not sufficiently critique underlying values and assumptions of the futures worllds they create. 2. Emphasis on 'important' drivers discourages paying attention to weak signals and emerging issues. 3. Presenting scenaries may discourage individuals from believing their actions can make a difference.
+* Shell scenarios in particular suggest considering futures and being prepare to react, but not seeking to influence which future arrives.
+* H3 mindset sees beyond our current system, motivated by vision, value, and beliefs. But it can be an uphill battle as social systems have a tendency to fight to remain the same.
+* Three Horizons seeks to neither privelege H1 or H3, but to require an understanding of both. Conversely some other techniques seem to privilege one or the other.
+* Three Horizons offers a framework to think beyond usual strategic limits, and see what conversations should be prompted by where their views may lie across the three curves.
+* The intersection of the 3 curves defines a triangle of choice (generally around strategy or policy issues) as H1 falls away, H2 nears apex, and H3 continues to gain influence.
+* May learn from social shaping theory as it applies to technology and related social ensembles:
+  * (H3) 1st configuration: no dominant group and therefore no effective set of vested interests. if sufficient resources are available to a range of actors, there will be many different innovations
+  * (H1)2nd configuration: one dominant group able to insist upon its definition of both problems and appropriate solutions. tendency toward conventional innovations
+  * (triangle of choice) 3rd configuration: two or more entrenched groups with divergent technological frames. arguments carrying weight in one frame will carry little weight in others, such that criteria external to frames in question may become important as appeal are made to third parties (also likely to involve rhetoric as evidence)
+* Early H3 will likely broaden coalition by 'enrollment', reframing interpretation to include new social groups.
+* Where there is conflict between frames, some degree of amalgamation (adopting some elements) is likely to result within the successful frame.
+
 ## Reading: Footprints of the Future (Von Stackelberg)
+
+* timelines help us settle our understanding of the past and present to enable clearer thinking about the future
+* defining groupings to use on the timeline provides a simplifying shorthand to discuss, argue, etc.
+* we should be wary as some simplifications/shorthands are profoundly useful, while others are nonsense.
+
 ## Reading: Seeing in Multiple Horizons (Curry and Hodgson)
+
 ## Lecture
 # W07: Systems and Interference Patterns
 ## Reading: On Systems Thinking (Ackoff)
