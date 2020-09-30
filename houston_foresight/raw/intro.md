@@ -398,6 +398,87 @@
 
 ## Lecture
 
+* What's the life-cycle of change?
+* Where should we look for emerging change?
+* How can we evaluate changes?
+* What are some options for annotating scan hits?
+
+* map isn't the territory, because territory is dynamic, need scanning (radar/sonar) to supplement the map
+* scanning provides the essential feedstock for subsequent foresight activities
+* Origins of environment/horizon scanning practices:
+  * Environmental (horizon) scanning - developed by Francis Aguilar in Scanning the Business Environment. Widely accepted by business; linked to competitive intelligence
+  * Issues management - fusion of PR and FS linking to public policy; Analysis of near-term issues and plans to address them
+  * Emerging issues analysis: S-curve "life-cyle of change" (Molitor). Leading ideas, events, authorities/advocates, literature, organizations, political juridictions (bellwether), economic activities (shifts in production)
+* foresight doesn't expect to understand particular problems better than experts, but rather to supplement with a broader, 360 degree view of things that may cause impacts
+* key terms for scanning
+  * scan source - where you found the change
+  * emerging issue - a very young trend, with only a few cases
+  * scan hit - a particular case of a trend
+  * confirming hit - subsequent hits of a trend
+  * trend - a direction of change in a variable over time, with a sufficient number of cases to back it up
+  * megatrend - collection of similar trends which fit together into a broader idea. ie globalization is a collection of related trends
+  * driver - a trend which is pushing changes
+  * effect - the "so what" of a change
+  * wild card - high impact, low probability events (sometimes also called black swans)
+* life-cycle of change
+  * nacent emerging issue: fringe thinking - foresight zone - art, science fiction, fringe writings, esoteric journals
+  * early framing: academic exploration - innovation/early competition zone - research reports, think tank studies, scientific and technical journals, business leader magazines
+  * rapid maturation: mainstreaming - reactive zone (strategy is about adapting to new emergence, cultural lag is most clear here) - TV, newspapers, popular general interest sources
+  * established issue/trend: legislation, regulation - the new normal - government and institutional reports and studies, draft legislation
+* how to horizon scan
+  * identify potential sources
+  * design framework/taxonomy to organize data (STEEP/PESTLE/EPISTLE, etc)
+  * establish standards to evaluate scan data
+  * initiate the database with 3-5 state-of-the-art overview of key issues of change
+  * validate entries by structured accrual of confirming data
+* Source acquisition: opinion leaders
+  * science, technology, innovation: sources in which those communities themselves announce news. Often easy to find as expert sources have many degrees/credentials/etc.
+  * social and cultural change: sources expressing values and ideas bubbling among artists, youth, marginalized communities; often 'fringe' publications or media.
+* Validating sources: distinguish among expert, popular, or fringe sources. Establish credibility: citation count, market niche, distribution data, media.
+* 4 modes (Choo)
+  * touring - undirected viewing - minimal targeting, many sources; sensing.
+  * tracking - conditioned viewing - minor targeting, few sources; sense-making.
+  * satisficing - informal search - moderate targeting, few sources; learning.
+  * retrieving - formal search - high targeting, many sources; retrieving.
+* creating antenna arrays - requires powerful instruments to detect weak signals. Distributing the effort can allow more to be covered faster, and with more diverse perspectives. Connecting scanners/databases and/or croudsourcing can facilitate.
+* search paths
+  * snowball - let each citation lead you to multiple new citations
+  * drunkard's walk - trace references from one article/post to the next
+  * random ant approach - ie stumbleupon
+* scanning outside the box (from Future Think)
+  * diversify - expertize has limits - go outside your industry or field.
+  * go global - escape the familiar - tap another worldview with sources from other countries
+  * history is the future - look at the past to find the future - cycles, ideas that finally matured, etc.
+  * year 2050 - search or your issue plus 2050 and see what search engines return
+  * follow the futurists - get newsletters from various futures groups to hear their buzz
+  * join the dialogue - look for communities/blogs on your issue(s) and join discussion/catch commentary
+  * go ahead, contact them - email or call a leading thinker or advocate you've identified
+  * be a customer - use a product or service from your client's industry - get the end-user experience
+  * advisory boards - ask an eclectic group for review/input in your scan
+  * search the patent office - what's in the pipeline for development
+  * take a different route - break your own path habits walking to work
+  * keep an idea journal - discipline yourself to capture your own ideas
+  * get newsletters - sign up for newsletters of organizations related to your scanning issues
+  * look at unrelated industries - look at everything tangentially linked to your issue, and scan industries in those areas too
+  * active your toolbar - put favorite sources and blogs in your browser toolbar and take quick scan break
+* gold standard for scanning
+  * evaluate a scan "hit" (change datum): subjectely or objectively new? confirming/reinforcing, or negating/balancing? Time horizon for "emergence"? Credibility of source?
+  * ideally a scan hit identifies an emerging issue that is objectively new even to experts, confirms or is confirmed by additional scan hits, and that has been identified in time for social dialogue, impact assessment, and policy formation.
+* beyond scanning, how to categorize - Where is the change emerging? How fast will it mature? How widely will it disperse? How much impact will it have? How likely is it? etc
+* analyzing scan data:
+  * potential impacts: what could it do, to whom? express as trends, up or down
+  * relevant impacts: what's important to your issue or client?
+  * what kind of change is this: trend? event? cycle? idea?
+  * triggers and dependencies: what might cause it? what does it need to grow or accelerate?
+  * indicators: waht will signal this trend is either maturing, or fading?
+  * impact areas: who will feel this trend first? Students? Elderly? Health institutions? The environment? The communications industry?
+  * Links to other trends: to what other scan data does this trend connect? What pattern or cluster is emerging?
+* validating scan data - useful scan hits are close enough to point of origin to allow policy leverage, are weak signals, often only one case
+  * confirmation - accrue multiple citations
+  * convergence - monitor emerging scientific consensus
+  * parallax - acquire view from multiple perspectives
+  * participatory team approach assists validation.
+
 # W06: Timelines and Time Horizons
 
 ## Reading: Seeing in Multiple Horizons: Connecting Futures to Strategy (Andrew Curry, Anthony Hodgson)
