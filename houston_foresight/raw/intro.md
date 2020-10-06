@@ -514,16 +514,43 @@
   * (triangle of choice) 3rd configuration: two or more entrenched groups with divergent technological frames. arguments carrying weight in one frame will carry little weight in others, such that criteria external to frames in question may become important as appeal are made to third parties (also likely to involve rhetoric as evidence)
 * Early H3 will likely broaden coalition by 'enrollment', reframing interpretation to include new social groups.
 * Where there is conflict between frames, some degree of amalgamation (adopting some elements) is likely to result within the successful frame.
+* Notes from class:
+  * addressing overlapping waves of change and stability
+  * both a timeline - moving forward in time - and a mindset map
+  * Present assumptions (H1) become less fit for purpose over time in a context of dynamic change (H3), prompting turbulence and adaptive, creative actions (H2)
+  * Key: simultaneity of perspectives and possibilities
+  * Competition and clash: Between assumptions of the present and possibilities of the future. Between incrementalism and transformation. Between idealism and practicality.
+  * Chronos - time passing; Kairos - opportunity for choices
 
-## Reading: Footprints of the Future (Von Stackelberg)
+## Reading: Understanding change through phases, eras, timelines (Mahaffie)
 
 * timelines help us settle our understanding of the past and present to enable clearer thinking about the future
 * defining groupings to use on the timeline provides a simplifying shorthand to discuss, argue, etc.
 * we should be wary as some simplifications/shorthands are profoundly useful, while others are nonsense.
+* Notes from class:
+  * timelines give people something to test, discuss, add their own ideas and emphases
+  * identify watershed events and transitions can help develop a set of phases or eras to explain a trajectory of change
 
-## Reading: Seeing in Multiple Horizons (Curry and Hodgson)
+## Reading: Footprints of the Future (Von Stackelberg)
+
+* Integrating quantitative time-oriented information into a unified presentation can reveal patterns, causes, probabilities, and possibilities across complex social, technological, economic, and political systems.
+* Cycles, waves, logistics curves, and other archetypical patterns laid over historical data can also provide a deeper understanding of the dynamics of change.
+* Notes from class:
+  * Depicting historical data and archetypal change patterns in parallel allows comparison of actual events with theoretical patterns.
+  * Timelines identify different patterns of change: linear, exponential, asymptotic, growth/collapse, s-curves, cycles/waves, and chaotic transitions
+  * Constructing a timeline:
+    1. Plot events and time series data on the timeline
+    2. Plot archetypal patterns of change
+    3. Identify, investigate potential significant relationships/anomalies
+    4. Extrapolate identified patterns and relationships
+    5. Create exploratory forecasts.
+    6. Identify tracking indicators.
+    7. Analyze and assess validity of exploratory forecasts.
 
 ## Lecture
+
+* often runs workshops through these in sequence: past timelines, three horizons, and emerging trends
+
 # W07: Systems and Interference Patterns
 ## Reading: On Systems Thinking (Ackoff)
 ## Reading: Intro to Systems Thinking (Kim)
