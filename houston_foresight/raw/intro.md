@@ -515,6 +515,9 @@
 * Early H3 will likely broaden coalition by 'enrollment', reframing interpretation to include new social groups.
 * Where there is conflict between frames, some degree of amalgamation (adopting some elements) is likely to result within the successful frame.
 * Notes from class:
+  * How can timelines illustrate mindsets?
+  * How can we represent conflicting values and priorities?
+  * What does this highlight about current operating assumptions?
   * addressing overlapping waves of change and stability
   * both a timeline - moving forward in time - and a mindset map
   * Present assumptions (H1) become less fit for purpose over time in a context of dynamic change (H3), prompting turbulence and adaptive, creative actions (H2)
@@ -528,6 +531,8 @@
 * defining groupings to use on the timeline provides a simplifying shorthand to discuss, argue, etc.
 * we should be wary as some simplifications/shorthands are profoundly useful, while others are nonsense.
 * Notes from class:
+  * Why are timelines helpful?
+  * Why should we consider the historical context of an issue?
   * timelines give people something to test, discuss, add their own ideas and emphases
   * identify watershed events and transitions can help develop a set of phases or eras to explain a trajectory of change
 
@@ -536,6 +541,8 @@
 * Integrating quantitative time-oriented information into a unified presentation can reveal patterns, causes, probabilities, and possibilities across complex social, technological, economic, and political systems.
 * Cycles, waves, logistics curves, and other archetypical patterns laid over historical data can also provide a deeper understanding of the dynamics of change.
 * Notes from class:
+  * How does layering timelines assist our perception of change?
+  * How can timelines assist identifying patterns and theories of change?
   * Depicting historical data and archetypal change patterns in parallel allows comparison of actual events with theoretical patterns.
   * Timelines identify different patterns of change: linear, exponential, asymptotic, growth/collapse, s-curves, cycles/waves, and chaotic transitions
   * Constructing a timeline:
@@ -550,6 +557,24 @@
 ## Lecture
 
 * often runs workshops through these in sequence: past timelines, three horizons, and emerging trends
+* past change: shared histories
+  * as you move further left, it tends to transition from what you experienced to what you have heard or were taught
+  * these things build to define how we arrived where we are today
+* 3 horizons
+  * 1st horizon - current paradigms, assumptions, data, infrastructure
+  * 2nd horizon - incremental adjustments, transformational experiments
+  * 3rd horizons - present: pockets of the future -> far future: emerging paradigms, ideas, innovations
+* Gartner Hype Cycle
+  * Things move from left to right as they become more mature/usable, with interest peaking in advance of maturity, the trough following, and then a return toward prominence if there is enough value.
+  * Innovation Trigger, Peak of Inflated Expectations, Trough of Disillusionment, Slope of Enlightenment, Plateau of Productivity
+  * Graph things on this, where each is marked based on when plateau will be reached: less than 2 years, 2-5 years, 5-10 years, more than 10 years
+  * combines a timeline and pattern of change which seems to recur
+* Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages (Carlota Perez)
+  * Pattern of change: Installation period (20-30 years), Recession/Turning Point, Deployment Period (20-30 years), followed by next installation period
+  * Installation Period: creative destruction, battle of new paradigm against old, concentration of investment in new-tech, income polarization, led by financial capital, from irruption to bubble collapse
+  * Recessions: Institutional changes, role switches, turning point
+  * Deployment Period: creative construction, widespread application of the new paradigm for innovation and growth across the economy, spreading of social benefits, led by production capital, from "golden age" to maturity
+  * Examples: canal mania > great british leap; railway mania > the victorian boom; london funded global market infrastructure build-up > bell epoque/progressive era; the roaring twenties: autos, houses, radio, aviation, electricity > post-war, golden age; emerging markets, dot com and internet mania, financial casino > ? sustatianable global knowledge-society "golden age"
 
 # W07: Systems and Interference Patterns
 ## Reading: On Systems Thinking (Ackoff)
