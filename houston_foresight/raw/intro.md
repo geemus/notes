@@ -577,7 +577,30 @@
   * Examples: canal mania > great british leap; railway mania > the victorian boom; london funded global market infrastructure build-up > bell epoque/progressive era; the roaring twenties: autos, houses, radio, aviation, electricity > post-war, golden age; emerging markets, dot com and internet mania, financial casino > ? sustatianable global knowledge-society "golden age"
 
 # W07: Systems and Interference Patterns
+
 ## Reading: On Systems Thinking (Ackoff)
+
+* Ages are defined by a period of time in which a culture has a single, shared view of the nature of reality.
+* Fundamental beliefs of Renaissance: the universe is understandable, analysis is inquiry, everything can be explained by cause and effect.
+* Analysis is inquiry led to a belief that understanding comes from breaking something down, understanding the parts, and then assembling an overall understanding. This led to a crusade to find the simplest element in every discipline as comprehension was thought to only be obtainable through a comprehension of the composing elements.
+* Cause and effect, similar to reducing to elements in analysis, seeks to reduce relationships to this one simple kind of relationship. Implies both that the cause is necessary for the effect and that the cause is sufficient for the effect.
+* Effects of cause and effect thinking: there has to be a first, all-encompassing cause, and that cause is God; Environmental factors are excluded as causal explanations for anything; nothing happens by change, all is predetermined
+* Newton saw the world as a machine made by god to enact is will. If man is in god's likeness, then we should also build machines to enact our will, and thus the industrial revolution.
+* Production and assembly lines are a direct outcome of reductionist thinking and mechanization. If we discover a way of thinking other than analysis, we should recognize it also implies different ways to organize and design work. By reducing work to elements and assigning some to humans (and some to machines), we make people behave as though they were machines.
+* Machine Age dillema's: free will challenges cause and effect; Heisenberg uncertainty challenges understandability of the universe
+* Systems: a whole that consists of two or more parts. Each part affects the behavior of the whole, depending on the part's interaction with other parts of the system. Essential properties that define any system are properties of the whole, and none of the parts have those properties. ie an automobile can carry us from place to place, but none of it's parts can in isolation. Finally, a disassembled system loses its defining characteristic. ie an automobile is not the sum of its parts, it is the product of the parts' interactions.
+* Analysis is unable to consider systems, as they cannot be understood through their parts in isolation.
+* Synthesis is the opposite of analysis. With synthesis you look to understand what larger system something is a part of and then to understand that larger system as a whole (rather than going smaller and smaller in synthesis). Finally, we would refine our understanding of the original object by identifying its role or function in the containing system of which it is a part.
+* Analysis reveals how a system works, giving us know-how, or knowledge.
+* Synthesis reveals why a system works the way it does, giving us understanding. ie why some cars are left hand drive vs right hand drive relates to things outside the car and steering wheel.
+* Systems thinking is expansionist rather than reductionist, saying that to understand something we must grasp the larger system of which it is a part, but that we will never completely explain everything.
+* Western religions envisions god as outside the universe, vs easter religions which see god AS the universe (and therefore ourselves as a part of god).
+* Singer and producer-product "lens" argue that there are no universal laws, only environmentally relative ones. Further, cause and effect is a particular two-dimensional view, yet reality is multdimensional (so producer-product is complementary to cause and effect, not a replacement).
+* Historical views of business are also mechanistic (machines to make money). Early companies were unable to grow as fast as possible, however without opening to public capital. WW2 brought people to work motivated by something other than money, bringing new expectations and attitudes.
+* The industrial age was backed by machine age. The systems age is backed by information (and the manipulation of symbols): measurement, manipulation, and transmission.
+* What does one get when you combine symbol reading, transmitting, and manipulation? our minds
+* The industrial age was about muscle and mechanization. The systems age is about observe/communicate/think and automation.
+
 ## Reading: Intro to Systems Thinking (Kim)
 ## Lecture
 # W08: Forecasting
