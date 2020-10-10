@@ -602,6 +602,57 @@
 * The industrial age was about muscle and mechanization. The systems age is about observe/communicate/think and automation.
 
 ## Reading: Intro to Systems Thinking (Kim)
+
+* True systems thinking: know how systems fit into the larger context, how they behave, and how to manage them.
+* System: any group of interacting, interrelated, or interdependent parts that form a complex and unified whole that has a specific purpose. (without interdependencies, we just have a collection of parts)
+* Note: whenever you add people to a collection, you almost always end up with a system. ie a kitchen is a collection of things, a kitchen with a person in it is a system.
+* Defining Characteristics of Systems:
+  * A system's purpose is a property of the system as a whole and not of any of the parts. ie moving people from place to place in the purpose of an automobile
+  * All parts must be present for a system to carry out its purpose optimally, otherwise you are dealing with a collection.
+  * The order in which the parts are arranged affects the performance of a system.
+  * Systems attempt to maintain stability through feedback.
+* Human designed things generally have a clear intended purpose, whereas living/natural systems evolve and their purpose can be difficult to ascertain.
+* Contextualizing Systems with "The Iceberg" multiple levels of perspective (from top/narrow to bottom/wide):
+  * Events - day-to-day occurences
+  * Patterns - accumulated memories of events, which can reveal trends
+  * Systemic Structures - the ways in which parts of a system are organized, which generate the patterns and events we observe. Note that structures can be physical (such as how something is built) or intangible (how individuals are rewarded).
+* Additional levels of perspective:
+  * Mental models - beliefs and assumptions about how the world works. Important to understand because they can provide a blueprint for the systemic structures that one finds.
+  * Visian - a picture of what we want for our future. Determines themental models we hold as important as we pursue our goals.
+* We live in an event-oriented world, and our language is largely rooted at this level.
+* A cause and effect view tends to see events as separate and unrelated, even if they repeat. The feedback loop perspective instead says "how do the consequences of my actions feed back to affect the system?"
+* How we describe our actions in the world affects the kinds of actions we take in the world. ie Feedback view draws attention to interrelationships, whereas cause-and-effect looks an event pairs.
+* Cause and effect may work well to describe what happened when, but provides little insight in how things happened and why.
+* Balancing Blocks of Systemic Behavior:
+  * Reinforcing Processes: The Engines of Growth and Collapse. These come from positive feedback, where change leads to more change in the same direction. Often called things like "virtuous circle" or "vicious cycle".
+  * Balancing Processes: The Great Stabilizers. Continually try to keep a system at some desired level of performance, generally to stabilize or goal seek. Most managerial responsibilities can be viewed, in one way or another, as balancing processes.
+* Causal loop diagrams:
+  * Arrow labels show how one variable influences another: `s` indicates that as one variable changes, the other changes in the same direction. `o` indicates that as one variable changes the other changes in the opposite direction.
+  * Loop labels show what kind of loop we are looking at: `B` in the middle indicates a balancing process, `R` represents a reinforcing process.
+  * You can determine `R` vs `B` by counting `o`s. If there are no `o`s or an even number, the loop is reinforcing. If there are an odd number, it is balancing.
+* Balancing processes can be difficult as they mix the "good" (our goal), the "bad" (the actual situation we don't want), and the "ugly" (our perception of the situation, which may be challenging to examine).
+* In looking at goal vs actual, we must remember that we are usually considering our perception rather that the actual value (and both of these may differ from other's perceptions). How to manage this? If you accept that it is better to be visible (rather than invisible) and explicit (rather than implicit), causal loop diagrams are a good first step.
+* Delays add additional complexity to understanding. They come in 4 types:
+  * Physical - time taken for actual "stuff" to move from one place to another or change from one state to another.
+  * Trasactional - time it takes for things to complete.
+  * Informational - time it takes to communicate information about physical changes or decisions.
+  * Perception - time it takes for beliefs and assumptions to catch up with everything else.
+* It's valuable to understand and consider the minimum delays in your system. Where are the bottlenecks? Speeding some delays may not help without shortening other delays first.
+* Besides causal loop diagrams, we can also use stock and flow diagrams. Stocks (accumulators) are anything that accumulates and can be measured at a point in time. Flows (rates) are things that change over time. Unlike causal loops, stock and flow diagrams can provide information about rates of change.
+* Systems thinking works from the central premise: if you don't know how you're producing certain outcomes, you'll struggle to produce better ones. Diagrams can how build shared understanding.
+* Note that in balancing diagrams the gap may be omitted as a kind of shorthand, but it is still implicitly there.
+* Systemic structures do not discriminate between virtuous and vicious spirals, it's up to us to anticipate which kind and respond appropriately.
+* The issue in never whether our actions will have unintended consequences, but rather to what degree and what kind of consequences will they have? Causal loops can help us anticipate and adress problems before they arise.
+* Systems thinking pushes us to consider working ON the system, rather than IN the system. How can we become better designers of systems, rather than mere operators?
+* Levels of perspective framework can help us go beyond responding to look for higher leverage actions. From lowest to higher leverage, the levels of perspective and their action modes:
+  * Events - Reactive: respond to events an they occur
+  * Patterns - Adaptive: adapt processes to make best use of the current system
+  * Systemic Structures - Creative: createngi or redesigning the system to change events and patterns
+  * Mental Models - Reflective: surface, suspend, and question assumptions about how the world works and what is important (and invite others to do the same)
+  * Vision - Generative: bringing something into being that did not exist before (can provide impetus to go through the discomfort of changing mental models)
+* Note as one moves up these levels, you have more impact on future outcomes, but not much impact on present events. There are leverage at all levels, the challenge lies in learning when and how to take appropriate action for each level.
+
+
 ## Lecture
 # W08: Forecasting
 ## Reading: Blurred Vision (Gardner)
