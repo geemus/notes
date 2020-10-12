@@ -580,6 +580,9 @@
 
 ## Reading: On Systems Thinking (Ackoff)
 
+* Focus Questions from Lecture:
+  * What caused the transition from one worldview to the next?
+  * What are the key differences between those two worldviews?
 * Ages are defined by a period of time in which a culture has a single, shared view of the nature of reality.
 * Fundamental beliefs of Renaissance: the universe is understandable, analysis is inquiry, everything can be explained by cause and effect.
 * Analysis is inquiry led to a belief that understanding comes from breaking something down, understanding the parts, and then assembling an overall understanding. This led to a crusade to find the simplest element in every discipline as comprehension was thought to only be obtainable through a comprehension of the composing elements.
@@ -603,6 +606,9 @@
 
 ## Reading: Intro to Systems Thinking (Kim)
 
+* Focus questions from lecture:
+  * What is the most critical element in a systems map?
+  * What are two basic dynamics of change in systems?
 * True systems thinking: know how systems fit into the larger context, how they behave, and how to manage them.
 * System: any group of interacting, interrelated, or interdependent parts that form a complex and unified whole that has a specific purpose. (without interdependencies, we just have a collection of parts)
 * Note: whenever you add people to a collection, you almost always end up with a system. ie a kitchen is a collection of things, a kitchen with a person in it is a system.
@@ -652,8 +658,32 @@
   * Vision - Generative: bringing something into being that did not exist before (can provide impetus to go through the discomfort of changing mental models)
 * Note as one moves up these levels, you have more impact on future outcomes, but not much impact on present events. There are leverage at all levels, the challenge lies in learning when and how to take appropriate action for each level.
 
-
 ## Lecture
+
+* Systems: key ideas
+  * Every entity (thing is a system which consists of parts (subsystems) and which is also a part of larger systems -- a "holon" to use Arthur Koestler's term (1968).
+  * Every system and every part of a system is connected to every other system, at least indirectly.
+  * Systems and parts of a system interact in ways that can produce surprising and counterintuitive results.
+  * The tendency to produce unexpected results makes predicting the outcome of systems' interaction difficult, if not impossible.
+* Systems: characteristics
+  * Systems have purpose.
+  * All parts must be present for a system to carry out its purpose.
+  * The order in which the parts are arranged affects the performance of a system.
+  * Systems attempt to maintain stability through feedback.
+* Systems Thinking: Start with a Story
+  * What is the story that interests you? Who are the actors? How are they changing? What is the environment? How is it changing?
+  * Identify key nouns. Which are variables?
+    * Write each variable name on post-it, but DO NOT include how it varies.
+    * Continue identifying variables, placing post-its on newsprint or wall. Which are key variables? Can any be clustered, or excluded?
+  * Create the initial influence map
+    * Choose what you think is an important variable. Does it influence any other variables? Draw arrows to show outgoing influence. Do other variables influence it? Draw arrows to show incoming influence.
+* Current state of the system via influence map.
+  * CATWOE can be a helpful checklist: Customers, Actors, Transformations, Worldviews or values, Owners, and Environment
+  * STEEP may also be helpful.
+* Emerging change and impacts - interference: Review trends and emerging changes. Whore do they hit the system? What variables will they affect? How will they affect connections and feedback?
+
+
+
 # W08: Forecasting
 ## Reading: Blurred Vision (Gardner)
 ## Lecture
