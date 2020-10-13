@@ -682,10 +682,27 @@
   * STEEP may also be helpful.
 * Emerging change and impacts - interference: Review trends and emerging changes. Whore do they hit the system? What variables will they affect? How will they affect connections and feedback?
 
-
-
 # W08: Forecasting
+
 ## Reading: Blurred Vision (Gardner)
+
+* Look at almost any time period and you'll find people worried about the future and looking back to more certain times.
+* "uncertainty illusion" rightly percieves future an uncertain, yet imagines the past is less so due to hindsight bias.
+* predictability is not binary, there is a continuum. ie number of senior citizens there will be is rather predictable, price of oil much less so.
+* Research shows that those who use a skill repeatedly without clear, prompt, accurate feedback may not get better, but they do get more confident. Lack of growth paired with growing confidence is a dangerous combination.
+* Forecasting tournaments provide a concrete and explicit means of practicing forecasting and getting feedback.
+* Good forecasters looked at problems from multiple perspectives, routinely saw the possibility of events unfolding in unexpected ways, and maintained a certain intellectual humility.
+* Writing down a precise numeric forecast and why you believe it (ideally with an explanation as to why) provides practice and fights back against the uncertainty illusion/hindsight bias.
+
+## Reading: Teaching the Future Ch7 (Hines,Bishop)
+
+## Six Rules for Effective Forecasting (Saffo)
+
+## The Forecasting Fallacy (Murrell)
+
+* People are really bad at predicting recessions, GDP, interest rates, exchange rates, media spend, company earnings, TV punditry, stock prices, etc.
+* We must be wary of things that are fantasies, rather than forecasts. ie "delusions with decimal places"
+
 ## Lecture
 # W09: Critiquing Impacts of Change
 ## Reading: Causal Layered Analysis (Inayatullah)
