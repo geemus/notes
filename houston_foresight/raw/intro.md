@@ -698,6 +698,26 @@
 
 ## Six Rules for Effective Forecasting (Saffo)
 
+* Forecasters map uncertainty, with logic that can be articulated and defended.
+* Rule 1: Define a Cone of Uncertainty - forecasting provides context to inform intuition.
+  * The width/breadth of the cone relates to the degree of uncertainty, and should start wide and iteratively narrow.
+  * A good boundary is one of elements on the ragged edge of plausibility, which might conceivably happen but make one uncomfortable even to contemplate.
+  * Wild cards are trends or events that have a low probability of occurance (under 10%) or probabilities that cannot be quantified, but that if it were to occur would have a disproportionately large impact. ie finding evidence of intelligent life elsewhere in the universe
+  * Difficulty with wild cards is it is difficult to acknowledge sufficiently outlandish possibilities without losing your audience.
+* Rule 2: Look for the S Curve - most important developments follow the S-curve shape of a power law, with change sarting slowly and incrementally, exploding, and eventually tapering off or even dropping back down.
+  * Power curves are often fractal, if you see one it is likely related to a larger, more important curve in the background.
+  * In forecasting the trick is to identify an S-curve before the inflection point.
+  * There is a tendency to overestimate the short term and underestimate the long term (Roy Amara). We hope revolution will arrive overnight, and when it doesn't our disspointment leads us to conclude it will never arrive -- right before it does.
+  * We tend to underestimate the speed of the change through the exponential portion of the S-curve.
+* Rule 3: Embrace the Things that Don't Fit - the best way to spot an emerging S-curve is to identify the things that don't fit, as anything truly new won't fit into existing categories.
+  * Indicators often look like curiosities or even failures.
+  * Indicators come in clusters. ie DARPA grand challenge, Roomba, etc point to a robotics inflection point.
+* Rule 4: Hold Strong Opinions Weakly - lots of interlocking weak information is more trustworthy than a point or two of strong information.
+  * forecast often, and be the first to prove yourself wrong, repeat
+* Rule 5: Look Back Twice as Far as You Look Forward - "history doesn't repeat itself, but sometimes it rhymes", by looking back at least twice as far we can look for patterns
+* Rule 6: Know When Not to Make a Forecast - even in times of dramatic change, there are vastly more elements that do not change than new things that emerge. If the uncertainty is too great, and therefore the cone too wide, it may be a better time to wait for things to settle than to forecast.
+  * Be skeptical about apparent changes, and avoid making an immediate forecast--or at least don't take any one forecast too seriously.
+
 ## The Forecasting Fallacy (Murrell)
 
 * People are really bad at predicting recessions, GDP, interest rates, exchange rates, media spend, company earnings, TV punditry, stock prices, etc.
