@@ -696,6 +696,71 @@
 
 ## Reading: Teaching the Future Ch7 (Hines,Bishop)
 
+* Foresight tracks change toward two purposes: to map it and to influence it.
+* Baseline forecasts extrapolate present conditions and trends into the future, also known as expected or surprise-free forecasts. It isn't really that likely, but it provides a good basis for discussion.
+* Alternative forecasts are what happens when the baseline does not. Each is likely to be individually less probable than the baseline, but in aggregate they are more probable than the baseline.
+* Forecasts taken together are represented as a cone, where as more time elapses the baseline becomes increasingly less probably and the size of the cone grows to map to this increasing uncertainty.
+* Forecasts often help us understand the dynamics of change, even if they do not predict exactly what will happen or could happen.
+* For good forecasting, discovering and challenging assumptions is critical.
+* Forecasting is the process of discovering and describing plausible futures. Planning is combining that information with values, aspirations, preferences, needs and desires to design a way to infleunce the trajectory toward preferable outcomes.
+* Forecasting Theory:
+  * Forecasts are inferences (as the future can not be directly observed)
+  * Any forecast can be wrong, just like other inferences (direct observations can be wrong as well, but is less likely)
+  * Forecasts are supported using evidence and assumptions, and are not provable.
+  * The weak link in supporting inferences are the assumptions required to use the evidence as support.
+* Approach: Framework Forecasting - produces a baseline forecast as well as alternatives which can be explored for opportunities and threats
+  * Characterize present era: start, conditions, and trends.
+  * Explore forces of change, beginning with trends.
+  * Introduce discontinuities, collected into dimensions of uncertainty: plausible events, emerging issues, and new ideas.
+  * Categorize information as you find it, seeking to find the around the ten best items per category (number is arbitrary).
+  * Final document as nine sections: domain definition, summary, current assessment, era analysis, baseline forecast, baseline analysis, alternative futures, scenario kernels, and information
+  * In addition to trends, baseline future development is contributed to by: constants, plans, cycles, and projections.
+  * Futures wheels can be used to investigate implications of futures. It places a focal change in the center, second-order changes around this, third-order around that, and so on.
+  * Baseline analysis - rigourously arrive at alternative futures based on evidence and plausible reasons
+    * Conduct research
+    * Forecast baseline (expected) future
+    * State evidence for baseline, such as constants, trends, plans
+    * Challenge evidence:
+      * Is it true? (ie no-one has a plausable reason to object to its truth)
+      * Is it relevant? Does it support the inference?
+      * Is it sufficient? Is the evidence strong enough to support the strength of the claim?
+    * Identify assumptions that one must accept to use each piece of evidence which passed the challenge.
+    * Challenge each assumption by stating its opposite, bringing to mind reasons the assumption might be true.
+    * Identify plausible alternative assumptions.
+    * Use alternative assumptions and reasoning as a foundation and extend plausible alternative futures.
+  * Important to focus on plausible futures, not just possible ones.
+  * Creativity is a companion to reasoned analysis. Creativity is the process of coming up with new ideas. It is a skill that can be practiced and improved.
+  * Innovation is the process of implementing creative ideas into useful solutions.
+  * IDEA framework for creative problem solving:
+    * Investigate needs - What is the problem/challenge?
+    * Develop ideas - What are the ideas for solving it?
+    * Evaluate solutions - Which are the best ones?
+    * Activate plan - How can the best ideas be implemented?
+  * Alternative futures techniques:
+    * Judgement: Genius - Thinking, imagining; Visualization - Relaxation, stimulation of imagination; Role Playing - Act out one or more pre-arranged conditions; Coates & Jarratt - Define domain and time horizon, identify conditions or variables of interest, develop scenario themes, estimate values of conditions and variables under ecah scenario theme, write the scenarios.
+    * Baseline: Manoa - Implications, cross-impacts, elaboration
+    * Elaboration of fixed scenarios: Incasting - elaboration on specific domains; SRI - Specific domains in rows
+    * Event sequences: Probability trees - sequence, assign probabilities; Sociovision - Cluster similar alternatives into macro themes; Divergence mapping - Place on one of four time horizons, link events in sequence; Future mapping - sequence events to create end-state
+    * Backcasting: Backcasting, Horizon Mission Methodology - Steps that could lead to that end-state; Impact of Future Technologies - Highly capable scenarios, signposts leading to scenario, cost/benefit
+    * Dimensions of uncertainty: Morphological analysis, Field anomaly relaxation - Multiple alternative for each dimension, link one alternative from each dimension; GBN (Global Business Network) - Select two most important and most uncertain, create 2x2 matrix, title and elaborate; Option development & evaluation - Multiple alternatives for each dimension, rate consistency of every alternative against every other alternative, perform nearest neighbor calculation; MORPHOL - Multiple alternatives for each dimension, link one alternative from each dimension, excluding impossible combinations and rating more likely combinations more highly. Can calculate probability of combination of probabilities.
+    * Cross-impact analysis: Cross-impact analysis - initila probability of each, contingent probabilities of each given occurence of ecah other, Monte Carlo simulation; TFS - High, medium, low values of the variables, initual probabilities of each range, cross-impact of ranges from different variables on each other, Monte Carlo simulation; SMIC PROB-EXPERT - Initial probability of each, contingent probabilities of each given the occurrence of ecah other, correction of contingent probabilities for consistency, Monte Carlo simulation
+    * Modeling: Trend impact analysis - Estimate impact of event on trend - time of initial impact, max impact, time of max impact, time of final impact; Sensitivity analysis - Enter multiple plausible values for each uncertain boundary condition, possibly Monte Carlo simulation; Dynamic scenarios - Build system model for each dimension, combine into one overall model
+  * Questioning assumptions allows us to consider alternatives and remove the illusion of certainty or determinism.
+  * Uncertainties: Trend reversals, unfulfilled plans, potential events, emerging issues, new ideas, key uncertainties (chosen based on degrees of impact and uncertainty)
+  * Scenario kernels - pull together other information to develop scenarios around the most important and most plausible alternative futures.
+  * Leading indicators are the focused information that show how uncertainty is resolving itself, so by finding and watching them we can see which alternatives we might be progressing toward. While we might normally scan, if we have identified leading indicators we can instead monitor (because we know where to look and what kinds of things to look for)
+
+* Evaluating support for an inference:
+  * Identify an important conclusion of the piece
+  * Identify the evidence in the piece that supports the conclusion
+  * Identify the assumptions required to use each piece of evidence
+  * Reverse each assumption to create alternatives
+  * Consider reasons that each alternative might be true
+  * If there are such reasons, identify the modifications to the original conclusion or an entirely new conclusion that result if the alternative assumption is true
+  * Make a judgement concerning the original conclusion and any other plausible conclusions that result
+  * Synthesize them into one overall conclusion if possible
+
+
 ## Six Rules for Effective Forecasting (Saffo)
 
 * Forecasters map uncertainty, with logic that can be articulated and defended.
