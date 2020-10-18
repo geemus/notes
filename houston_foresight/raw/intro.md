@@ -686,6 +686,9 @@
 
 ## Reading: Blurred Vision (Gardner)
 
+* Focus Questions from Class
+  * How do we factor uncertainty in our thinking, and how does it hamper thinking?
+  * What is the best strategy for improving forecasts?
 * Look at almost any time period and you'll find people worried about the future and looking back to more certain times.
 * "uncertainty illusion" rightly percieves future an uncertain, yet imagines the past is less so due to hindsight bias.
 * predictability is not binary, there is a continuum. ie number of senior citizens there will be is rather predictable, price of oil much less so.
@@ -696,6 +699,9 @@
 
 ## Reading: Teaching the Future Ch7 (Hines,Bishop)
 
+* Focus Questions From Class:
+  * What supports forecasts -- and which of those is most important?
+  * What is baseline forecasting and baseline analysis?
 * Foresight tracks change toward two purposes: to map it and to influence it.
 * Baseline forecasts extrapolate present conditions and trends into the future, also known as expected or surprise-free forecasts. It isn't really that likely, but it provides a good basis for discussion.
 * Alternative forecasts are what happens when the baseline does not. Each is likely to be individually less probable than the baseline, but in aggregate they are more probable than the baseline.
@@ -749,7 +755,6 @@
   * Uncertainties: Trend reversals, unfulfilled plans, potential events, emerging issues, new ideas, key uncertainties (chosen based on degrees of impact and uncertainty)
   * Scenario kernels - pull together other information to develop scenarios around the most important and most plausible alternative futures.
   * Leading indicators are the focused information that show how uncertainty is resolving itself, so by finding and watching them we can see which alternatives we might be progressing toward. While we might normally scan, if we have identified leading indicators we can instead monitor (because we know where to look and what kinds of things to look for)
-
 * Evaluating support for an inference:
   * Identify an important conclusion of the piece
   * Identify the evidence in the piece that supports the conclusion
@@ -760,9 +765,11 @@
   * Make a judgement concerning the original conclusion and any other plausible conclusions that result
   * Synthesize them into one overall conclusion if possible
 
-
 ## Six Rules for Effective Forecasting (Saffo)
 
+* Focus Questions from Class:
+  * In using the cone of uncertainty, what makes a good boundary?
+  * What should you embrace, and why? What should you discount, and why?
 * Forecasters map uncertainty, with logic that can be articulated and defended.
 * Rule 1: Define a Cone of Uncertainty - forecasting provides context to inform intuition.
   * The width/breadth of the cone relates to the degree of uncertainty, and should start wide and iteratively narrow.
@@ -785,10 +792,30 @@
 
 ## The Forecasting Fallacy (Murrell)
 
+* Focus Questions from Class:
+  * How good are experts at forecasting?
+  * Why do experts forecast?
 * People are really bad at predicting recessions, GDP, interest rates, exchange rates, media spend, company earnings, TV punditry, stock prices, etc.
 * We must be wary of things that are fantasies, rather than forecasts. ie "delusions with decimal places"
 
 ## Lecture
+
+* Superforecasting, Tetlock
+  * Triage the unforecastable - find the 'Goldilocks' zone.
+  * Break problems down into the knowable and unknowable - 'flush ignorance into the open.'
+  * Balance inside and outside views - find comparisons for even seemingly unique events: set up forecast parameters by analogy.
+  * Update your beliefs - practice good mental hygiene even when it's uncomfortable, reflect and critique your assumptions. Pay attention and adapt when circumstance change.
+  * Everything is connected - look for counterbeliefs, and inhabit their perspective while considering outcomes if they are correct.
+  * Remove uncertainty by traslating it into numerical probabilities - 50/50, 60/40, 70/30 - with specific timelines - it aids evaluation.
+  * Learn from failure and success - keep score in a forecasting journal.
+* 6 types of Socratic Questions:
+  * Clarifying Thinking & Understanding: Can you give me an example? Could you explain further? Are you saying...? What is the problem you are trying to solve?
+  * Challenging Assumptions: Is that always the case? Are you assuming...? How could you verify or disprove that? What would happen if...?
+  * Examining Evidence & Rationale: Why do you say that? How do you know? Why? What evidence is there that supports...?
+  * Considering Alternative Perspectives: Are there any alternatives? What is the other side of the argument? What makes your viewpoint better? Who would be affected and what would they think?
+  * Considering Implications & Consequences: What are the implications/consequences of...? How does that affect...? What if you are wrong? What does our experience tell us will happen?
+  * Meta Questions: Why do you think I asked that question? What does ... mean? What is the point of the question? What else might I ask?
+
 # W09: Critiquing Impacts of Change
 ## Reading: Causal Layered Analysis (Inayatullah)
 ## Reading: Futures Wheel (Glenn)
