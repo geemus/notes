@@ -817,9 +817,36 @@
   * Meta Questions: Why do you think I asked that question? What does ... mean? What is the point of the question? What else might I ask?
 
 # W09: Critiquing Impacts of Change
+
 ## Reading: Causal Layered Analysis (Inayatullah)
+
+* An effort to use poststructuralism as a research method to conduct inquiry into the nature of past, present and future.
+* Existing mapping schemes: predictive - contextualizing data; interpretive - giving meaning to data; critical - locating in relation to historical structures of power/knowledge, ie class, gender, varna and episteme
+* Goal is less to predict or compare, but to question the future. ie instead of population forecasts we might ask why population instead of community or people?
+* Seeks to consider what paradigm is privileged by the nomination of a trend or event as a possible future.
+* Using other ways of knowing, particularly from other civilizations, is one way to create distance from the present.
+* Concept: Desconstruction - take a text and break it into components, asking what is visible and invisible. ie Who is privileged at the level of knowledge? Who gains at economic, social and other levels? Who is silenced? What is the politics of truth? Which future is privileged? Which assumptions of the future are made preferable?
+* Concept: Geneology - history of which discourse have been hegemonic and how the topic of study has traveled through these discourses. ie Which discourses have been victorious in constituting the present? How have they traveled through history? What have been the points in which the issue has become important or contentious? What might be the genealogies of the future?
+* Concept: Distance - treat scenarios less as forecasts and more as critiques of the present. ie Which scenarios make the present remarkable? Make it unfamiliar? Strange? Denaturalize it? Are these scenarios in historical space (the futures that could have been) or in present, or future space?
+* Concept: Alternative Pasts ond Futures. ie Which interpretation of past is valorized? What histories make the present problematic? Which vision of the future is used to maintain the present? Which undo the unity of the present?
+* Concept: Reordering Knowledge - focus on how categories order knowledge. ie How does the ordering of knowledge differ across civilization, gender and episteme? Whot or Who is othered? How does it denaturalize current orderings, making them peculiar instead of universal?
+* We should also consider the myths and metaphors we use and that others use, and how these influence the futures we imagine.
+* Causal layered analysis levels:
+  * 1 - Litany - Quantitative trends, problems (often exaggerated, often used for political purposes). Events, issues and trends are not connected and appear discontinuous. Results in feelings of helplessness, apathy, or projected action. Believed, rarely questioned.
+  * 2 - Social - Social causes, including economic, cultural, political and historical factors. Intepretation is given to quantitative data. Data is questioned, but not the paradigm in which the issue is framed.
+  * 3 - Discourse/Worldview - Structure and the discource/worldview that supports and legitimizes it. Seeks to find deeper secial, linguistic, and cultural structures that are actor-invariant. Discerns deeper assumptions. Foundation for how the litany has been presented and variables used to understand the litany are questioned.
+  * 4 - Myth/Metaphor - Unconcious assumptions of how the world is or should be.
+* Each layer results in different types of scenarios. Litany - instrumental; Social - policy; discourse/worldview - fundamental differences; myth/metaphor - poems/stories/images.
+* Each layer also implies different actors. Litany - others, such as government or corporations; Social - partnerships between groups; discourse/worldview - people or voluntary associations; myth/metaphor - leaders or artists
+* CLA can categorize many different perceptions of realities while remaining sensitive to horizontal and vertical spaces.
+* CLA orients toward action learning and integrated methodologies. Answers are not right or wrong, rather dialogue is used to recognize multiple ways of knowing between different levels. The interaction between the levels and ways of knowing is key to understanding different possibilities.
+
+
+
 ## Reading: Futures Wheel (Glenn)
+
 ## Lecture
+
 # W10: Exploring Alternative Futures, 1
 ## Reading: The Four Futures (Dator)
 ## Reading: Overview of Current Scenario Techniques (Bishop, Hines, Collins)
