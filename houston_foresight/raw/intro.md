@@ -841,9 +841,29 @@
 * CLA can categorize many different perceptions of realities while remaining sensitive to horizontal and vertical spaces.
 * CLA orients toward action learning and integrated methodologies. Answers are not right or wrong, rather dialogue is used to recognize multiple ways of knowing between different levels. The interaction between the levels and ways of knowing is key to understanding different possibilities.
 
-
-
 ## Reading: Futures Wheel (Glenn)
+
+* Structured brainstorming, method of identifying and packaging secondary and tertiary consequences of trends and events
+* Trend or event is written in center of paper, with spokes to primary impacts or consequences, then further spokes to secondary consequences and so-on until a useful picture of implications is clear.
+* Possible questions to elicit impacts/consequences: "If this event occurs, then what happens next?", "What necessarily goes with this event or trend?", "What are the impacts or consequences?".
+* After an initial diverse/broad set of ideas, it can be pared back based on what is "realistic", more probable, etc. This helps clarify.
+* Mind mapping is similar, but seeks to radiate out in a linear fashion, whereas futures wheels complete each ring in concentric circles.
+* Alternatively, instead of rings one can draw single lines to primary impacts, doubled lines to secondary, tripled to tertiary, etc. This better allows for cross linkage.
+* Further, can be used to build alternative scenarios, by using each layer to consider something implied by an alternative and what it would require to come about.
+* Strengths:
+  * easy and enjoyable, no equipment/software needed.
+  * Can be used at any point in the process.
+  * Can identify positive and negative feedback loops (which can help in developing systems model).
+  * Helps move from linear, hierarchical, and simplistic thinking toward more network-oriented, organic, and complex thinking.
+* Weaknesses:
+  * Bigger/more complex wheels can become overwhelming before patterns emerge
+  * Can yield contradictory impacts (could also be a strength, depending)
+  * No better than the collective judgement of participants.
+  * Can fool people into thinking they understand causal relationships that are only correlations.
+* Futures wheel generates input to futures thinking, and should be used as a basis for further thinking, more systematic exploration, and application of other techniques for probing the future.
+* Version 2 adds a requirement that impacts be considered for a predetermined set of areas to try and force more diverse ideas (ie STEEP)
+* Version 3 could distinguish historic forces, current impacts, and future consequences (possibly with a different team for each time period).
+
 
 ## Lecture
 
