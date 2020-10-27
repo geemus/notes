@@ -864,8 +864,25 @@
 * Version 2 adds a requirement that impacts be considered for a predetermined set of areas to try and force more diverse ideas (ie STEEP)
 * Version 3 could distinguish historic forces, current impacts, and future consequences (possibly with a different team for each time period).
 
-
 ## Lecture
+
+* VERGE Framework
+  * Define - the concepts, ideas, and paradigms we use to define the world around us
+  * Connect - the technologies used to connect people, places and things
+  * Consume - the ways in which we acquire and use the goods and services we create
+  * Relate - social structures and relationships which link people and organizations
+  * Create - the processes and technology throug which we create goods and services
+  * Destroy - the ways in which we destroy value and the reasons for doing so
+* VERGE focuses on the area of impact, as opposed to STEEP which focuses on the origin of impact
+* Causal Layered Analysis (CLA)
+  * Litany: official public description of the issue - events; trends; problems; "word on the street" - ie marriage: climbing divorce rate; more single parent & "blended" families; more cross-cultural, cross-church, and alternative marriages; more commuting marriages
+  * Causes: social science and systems analysis - structures; interrelationships; systems; policy analysis, technical explanations, role of the state and interst groups - ie marriage: fragmentation of communities; wedding (party) no longer linked to marriage (commitment); AIDS epidimic >> monogamy = safety
+  * Worldview - culture; values; paradigms/mental models; how language frames / constrains the issue - ie marriage: be fruitful -- and be sanctified; purity, commitment, monogamy, fidelity, childrearing; double standards; "old man/lady", "breadwinner", "home-maker", etc
+  * Myth/Metaphor - collective archetypes; gut/emotional responses; visual images - ie marriage: adam and eve; the great mother; american gothic; someone for everyone -- but only one; cake, dance, ring; security vs fear of commitment
+* CLA Process - work down through layers, consider alternate myth/metaphors and then revist earlier layers until you reach new set of events/behaviors comprising an entirely new litany
+* CLA Timescales - Continuous = Problem/Litany - Years = Causes - Decades = Worldview - Societal/Civilizational = Metaphors/Myths
+* Futures Wheels - see notes above.
+  * be specific, be vivid, be provocative
 
 # W10: Exploring Alternative Futures, 1
 ## Reading: The Four Futures (Dator)
