@@ -885,10 +885,81 @@
   * be specific, be vivid, be provocative
 
 # W10: Exploring Alternative Futures, 1
+
 ## Reading: The Four Futures (Dator)
+
+* continuation, collapse, discipline, transformation
+* components of futures visioning for groups/communities:
+  * Appreciating the past - seek to understand the rationale for something coming into existence and the many different facets of it's past.
+  * Understanding the present - problems and possibilities. Valuable to get this down/out of the way to free people to think about futures.
+  * Forecasting aspects of the futures - possible challenges and opportunities, roughly 20-50 year horizon. Built around shared sense of what is likely to be "new", as well as what to bring forward.
+  * Experiencing alternative futures - an experience in one or more of at least four alternative futures
+  * Envisioning the futures - envision a preferred future for the community or group 20-50 years hence
+  * Creating the futures - what do do now and in what sequence in order to move toward the preferred future
+  * Institutionalizing futures research - establish something to keep this thinking and work going within the community/group
+* Goals of four futures exercise:
+  * have people experience at least one future substantially different from the present to break out of projection thinking
+  * honor and experience images of the future people actually hold today, and consider how we might thrive in them
+  * consider what may be preferable or undesirable about a specific future, and what can be done to move toward or prevent
+  * encourage movement beyond presented alternative futures to develop collectively-preferred alternatives (or adopt and start progressing toward one of the presented options)
+* Four Futures Framing: ideally have four separate rooms, one for each future. Decorated to depict that future, with artifacts/decorations/actors (or at least a written description).
+* Note: only give participants the future they will participate in initially, wait to share the alternatives until after the exercise.
+* Four futures - accept as a given that a particular future is true, and explore how you can best exist in it. Discussion topics:
+  * General discussion - What will people be doing? What STEEP problems will be gone or relatively minor? What new STEEP problems will be present that are absent or unimportant now?
+  * How probable is the described future?
+  * How preferable is the described future?
+  * What are five things your group could do to pursue desirable aspects of the future?
+  * What are five things your group could do to avoid undesirable aspects of the described future?
+* The four futures:
+  * Continuation or continued/renewed growth - "official" view of governments, education systems, and organizations.
+  * Collapse - some cause or another (or their combination) leads to extinction or at least some lower stage of development than present. This might be just the scope of particular community/group also, rather than global.
+  * Discipline - refocus economy and society on survival and fair distribution, rather than continued economic growth.
+  * Transformation - focuses on transformative power of technology
+
 ## Reading: Overview of Current Scenario Techniques (Bishop, Hines, Collins)
+
+* Scenario techniques:
+  * Judgement (genius forecasting, visualization, role playing, Coates and Jarratt) - assert without much if any methodological support.
+  * Baseline/expected (trend extrapolation, Manoa, systems scenarios, trend impact analysis) - project present into future
+  * Elaboration of fixed scenarios (incasting, SRI) - explicit consideration of predeveloped scenarios to produce simplest statement of what the scenario is about.
+  * Event sequences (probability trees, sociovision, divergence mapping) - build a tree where branches depict probabalistic divergence of events in the future
+  * Backcasting (horizon mission methodology, Impact of Future Technologies, future mapping) - envision a future, then work backwards to the present.
+  * Dimensions of Uncertainty (morphological analysis, field anomaly relaxation, GBN, MORPHOL, OS/SE) - identify specific sources of uncertainty and use how they might play out as the basis for alternative futures.
+  * Cross-impact analysis (SMIC PROF-EXPERT, IFS) - a grid of possibilities is built, such that individual and contingent probabilities are shown. Random values between 0 and 1 are assigned many times to determine likely probabality amounts for different possibilities.
+  * Modeling (trend impact analysis, sensitivity analysis, dynamic scenarios) - look at expected value of a target variable at different time horizons. Vary these inputs and/or structure of models to generate predictions.
+
 ## Reading: Roads Less Travelled (Curry, Schultz)
+
+* Seeks to compare outcomes of four scenario approaches: 2x2 deductive, causal layered analysis, the Manoa method, and scenario archetypes. Considers:
+  * degrees of difference and depth of described futures
+  * how clear of a narrative emerges, and how well it describes the path of things leading to this future
+  * how participatory the process is, and what is the quality of engagement
+* 2x2 'double uncertainty' analyze driving forces, identify critical uncertainties, then explore outcomes of combining uncertainties to build scenarios.
+  * Axes should not influence one another, should represent the most important and uncertain drivers. Scenarios should be built by combining uncertainties.
+  * Pros: Does not require as much skilled facilitation, can provide clear audit trail from drivers to axes and scenarios.
+  * Cons: insufficiently problematizes current idealogies and sees them as natural
+  * Insights: heavy reliance on getting axes "right", individual axes tend to repeat in a given domain (though not usually pairs), consistency of tone/perspective across scenarios
+  * Results: coherent, cohesive scenarios with difference enough to provide stragic insight, but not different enough to startle or provoke.
+  * Scenarios: tend to target the same organizational level, more of a 'snapshot' view
+* Causal Layered Analysis (CLA) - analyze across layers of litany, systems, worldviews and metaphor.
+  * Cons: need more prepared/shared context
+  * Pros: can challenge worldviews with different cultural perspectives to break away from baseline
+  * Insights: more likely to draw on historical/philosophical/cultural references, can be hard to get all the way through the layers before getting into scenario development, didn't appear to need to reach 'metaphor' layer at all to succeed, scenarios qualitatively different from 2x2
+  * Results: Dug into and uncovered deep cultural structures, usually more of a snapshot
+  * Scenarios: target a broad spectrum of scales
+* Manoa - choose 3-5 significant emerging issues, mindmap them to potential cascades, consider cross-impacts, doublecheck depth using ethnographic inventory, develop a summary metaphor or title
+  * Cons: requires identifying appropriate weak signals
+  * Insights: scenarios encompass more detail about contradictions and tensions in the future, does not address the topic directly, high energy in early steps
+  * Results: Creative and effective at producing vidid, provocative detail and generating difference, but lacking in depth (perhaps due to time constraints)
+  * Scenarios: target a broad spectrum of scales and sectors, show 'chain' of how future is generated
+* Archetypes (incasting) - participants are presented with general scenarios and asked to add creative, logically consistent details.
+  * general scenarios: continued growth, ideological exclusionism (disciplined), Environmental Sustainability, High Tech Transformation, Spiritual Transcendence, and Collapse
+  * Insights: to use archetypes participants must deepl yunderstand them
+  * Results: potentially useful at generating difference (in more favorable circumstances), but unlikely to be as deep as CLA
+  * Scenarios: predominantly at one scale (national), usually more of a snapshot
+
 ## Lecture
+
 # W11: Exploring Alternative Futures, 2
 ## Reading: Appendix, The Art of the Long View (Ogilvy and Schwartz)
 ## Reading: The Future is Not Binary (Schultz)
