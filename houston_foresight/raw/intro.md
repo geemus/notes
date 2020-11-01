@@ -961,10 +961,38 @@
 ## Lecture
 
 # W11: Exploring Alternative Futures, 2
+
 ## Reading: Appendix, The Art of the Long View (Ogilvy and Schwartz)
+
+* GBN Scenario Building Process
+* Step 1: Identify Focal Issue or Decision - take a few minutes to jot down some critical decisions facing your company or organization, review, discuss, and chose one via straw poll.
+* Step 2: Key Factors in the Local Environment - take 15 minutes to brainstorm components of the situation about which you are making a decision.
+* Step 3: Identify Driving Forces - what macro-environment forces will influence the local forces you just identified. One of:
+  * Identify STEEP trends.
+  * Take  afew minutes and ask what are the forces behind factors identified in step two.
+* Step 4: Rank Driving Forces by Importance and Uncertainty - review driving forces, discuss their degree of importance for the focal issue and their relative uncertainty. You are looking for the most important and the most uncertain. Focus on 3 or fewer main issues.
+* Step 5: Selecting Scenario Logics - After identifying "axes of crucial uncertainties", arrange them as a spectrum/continuum (one axis), a matrix (two axes), or a volume (three axes).
+* Step 6: Fleshing out the Scenarios - Give each key factor and trend some attention in the context of the plot. Reveal connections and implications. Explore how the world gets from here to there.
+* Step 7: Implications - How does the decision look in each scenaria? How would stakeholders change under each scenario? Describe: Opportunities, Allies, Threats, Competitors.
+* Step 8: Selection of Leading Indicators and Signposts - What additional data do you need on the local environment and macro-environment? What variables might make good indicators of the direction of change? Identify a few observable and measurable trends which you can moniter as bellwethers of critical change.
+
 ## Reading: The Future is Not Binary (Schultz)
+
+* seeks to "revel in the opportunity spaces that uncertainties reveal", as opposed to 'managing uncertainty'
+* goals: participatory, firmly based in data, map steps from present, include multiple drivers of change, and depict different surprising outcomes with a time horizon of approximately a generation.
+* Relates to Dator's Second Law of Futures Thinking - "the only useful ideas about the future should appear to be ridiculous"
+* Step 1: Identify three emerging issues of change and state them as mature conditions 20-30 years out (each should be from a different STEEP categories). The more orthogonal the changes are in topic/direction, the more surprising/creative the results.
+* Step 2: Create a futures wheel based on each change, having 5-7 primary impacts, each of which having 3 secondary impacts, and any tertiary impacts that may spring to mind.
+* Step 3: Map the influences and interconnections between the futures wheels. A cross-impact matrix can assist.
+* Step 4: Probe more deeply, considering different aspects of reality, such as: family structure, community, economy, governance, work, arts and leisure, vices and crimes, ecology and the environment, media ad community, transportation, education, subcultures, religion and myths, core values, worldviews, and paradigms.
+* Step 5: Characterize your infant scenario. ie imagine 2-3 headlines, a bumper-sticker, or the title if it were a film/documentary.
+* Step 6: Build the emerging narrative - a 'day in the life' is easiest.
+* Step 7: Doublecheck the imaginative 'stretch'. Have you exagerrated to the point of absurdity? Have you challenged your assumptions? Have you combined changes/imparcts to distort something familiar? Have you reversed constraints/threats or strengths/opportunities?
+* Step 8: Ask the practical questions. ie what are your current activities, plans, missions, vision? How would these play out in the scenarios? Which patterns/themes from the scenarios would most impact mission and vision? Which scenario offers the most opportunities? Which offers the most challenges? How might things need to evolve/transform to thrive in each scenario?
+
 ## Lecture
-# W12: Desiging Experiential Futures
+
+# W12: Designing Experiential Futures
 ## Reading: TBD
 ## Lecture
 # W13: Values and Preferred Futures
