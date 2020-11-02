@@ -765,7 +765,7 @@
   * Make a judgement concerning the original conclusion and any other plausible conclusions that result
   * Synthesize them into one overall conclusion if possible
 
-## Six Rules for Effective Forecasting (Saffo)
+## Reading: Six Rules for Effective Forecasting (Saffo)
 
 * Focus Questions from Class:
   * In using the cone of uncertainty, what makes a good boundary?
@@ -888,6 +888,9 @@
 
 ## Reading: The Four Futures (Dator)
 
+* Focus Questions From Class:
+  * What's useful about the 'four futures' archetypes?
+  * What's the most important thing for people to do asy they begin an 'incasting' exercise with the four futures?
 * continuation, collapse, discipline, transformation
 * components of futures visioning for groups/communities:
   * Appreciating the past - seek to understand the rationale for something coming into existence and the many different facets of it's past.
@@ -918,6 +921,9 @@
 
 ## Reading: Overview of Current Scenario Techniques (Bishop, Hines, Collins)
 
+* Focus Questions From Class:
+  * What are different starting points for scenario building?
+  * What are the various goals / purposes of using scenarios?
 * Scenario techniques:
   * Judgement (genius forecasting, visualization, role playing, Coates and Jarratt) - assert without much if any methodological support.
   * Baseline/expected (trend extrapolation, Manoa, systems scenarios, trend impact analysis) - project present into future
@@ -930,6 +936,8 @@
 
 ## Reading: Roads Less Travelled (Curry, Schultz)
 
+* Focus Questions From Class:
+  * Why are multiple approaches for scenario building useful?
 * Seeks to compare outcomes of four scenario approaches: 2x2 deductive, causal layered analysis, the Manoa method, and scenario archetypes. Considers:
   * degrees of difference and depth of described futures
   * how clear of a narrative emerges, and how well it describes the path of things leading to this future
@@ -959,6 +967,43 @@
   * Scenarios: predominantly at one scale (national), usually more of a snapshot
 
 ## Lecture
+
+* Tools:
+  * Impacts of Change: Three Horizons (Timelines), Gartner Hype Cycle (Timelines), Verge Futures Framework, Futures wheels, Cross-impact matrix, Influence/systems mapping
+  * Awareness of Change: Horizon Scanning, Emerging Issues Analysis, Datamining, Trendspotting, Wild Cards
+  * Alternative Futures: Incasting/Scenario Archetypes, Causal Layered Analysis, 2x2 Scenario Building, Morphological Analysis, Inductive Scenarios, Manoa Scenario Building, Design Futures (Thing)
+  * Preferred Futures: Causal Layered Analysis, Appreciative Inquiry, Future Search, Seeds of Good Anthropocenes
+  * Strategy and Change Management: Backcasting, Early Warning Indicators, Roadmapping, Influence Mapping
+* Ambient images of the future are present throughout religions, political ideologies, art, movies, television, novels, stories, adverstising, and research.
+* Provide irregularity and vigor to understanding and expanding upon possible, plausible/credible, probably, and preferred futures.
+* Incasting: take a generic future and fill in while following rules of logical consistency
+* Causal Layered Analysis:
+  * designed to explore perspectives (empirical, critical, interpretative) across each layer, with none privileged/silenced, and no winners/losers
+  * metaphor isn't necessary for scenarios, but it helps
+  * litany created humour, metaphor makes new connections
+  * resilient to process issues, thoughtful, open, and searching conversation
+* Scenario Archetypes: Continued Growth, Ideological Exclusionism, Environmental Sustainability, High Technology Transformation, Spritual Transcendence, Collapse/Reversal
+  * Capture common 'families' of images of the future to enable 'incasting'; pre-fab worldviews and frameworks provide "just add data" approach
+  * requires nuanced understanding of archetypes, and can cause "not our story" backlash
+  * Useful discussions generated when sorting data across archetypes, identifies ambiguities where drivers fall across or between boundaries
+  * tight focus on the research issue
+* Manoa: designed to maximize evidence-driven difference from present to challenge assumptions, focus on turbulence and dynamics of acceleration and constraint, surface emerging tensions and backlash responses
+  * Needs at least three orthogonal changes to drive each scenaria
+  * does not directly address topic (still need to incast later)
+  * Impact cascades create clear webs of events - aids drafting a 'network' future history; cross-impact step addresses boundary spaces
+* 2x2 'Double Uncertainty' Method: designed for strategic insight, focussing on a decision-making goal or challenge
+  * critical uncertainties frame a futures landscape
+  * almost complete dependency on getting the axes 'right'
+  * consistency of tone and purpose across scenarios, "solving a puzzle" feel creates a strong distancing effect
+* 2x2 'Double Uncertainty' Method
+  * Critical issue: what decision keeps you awake at night?
+  * Local operating environment: what key factors will determine the success or failure of the critical issue?
+  * Macro environment: what are some of the driving forces creating change in the wider world?
+  * Rank those driving forces by importance and uncertainty: MOST important and MOST uncertain
+  * Select the scenario logics and create the scenario matrix
+  * Flesh out the scenarios by referring to the key factors, and suggest plausible events that might create that end state
+  * Implication: how does the decision look in each scenario? -- Strengths/Weaknesses/Opportunities/Threats (SWOT) analysis
+  * What might usefully serve as leading indicators or signposts that you are heading toward one or another of these scenarios?
 
 # W11: Exploring Alternative Futures, 2
 
