@@ -982,15 +982,6 @@
   * metaphor isn't necessary for scenarios, but it helps
   * litany created humour, metaphor makes new connections
   * resilient to process issues, thoughtful, open, and searching conversation
-* Scenario Archetypes: Continued Growth, Ideological Exclusionism, Environmental Sustainability, High Technology Transformation, Spritual Transcendence, Collapse/Reversal
-  * Capture common 'families' of images of the future to enable 'incasting'; pre-fab worldviews and frameworks provide "just add data" approach
-  * requires nuanced understanding of archetypes, and can cause "not our story" backlash
-  * Useful discussions generated when sorting data across archetypes, identifies ambiguities where drivers fall across or between boundaries
-  * tight focus on the research issue
-* Manoa: designed to maximize evidence-driven difference from present to challenge assumptions, focus on turbulence and dynamics of acceleration and constraint, surface emerging tensions and backlash responses
-  * Needs at least three orthogonal changes to drive each scenaria
-  * does not directly address topic (still need to incast later)
-  * Impact cascades create clear webs of events - aids drafting a 'network' future history; cross-impact step addresses boundary spaces
 * 2x2 'Double Uncertainty' Method: designed for strategic insight, focussing on a decision-making goal or challenge
   * critical uncertainties frame a futures landscape
   * almost complete dependency on getting the axes 'right'
@@ -1023,6 +1014,9 @@
 
 ## Reading: The Future is Not Binary (Schultz)
 
+* Lecture Focus Questions:
+  * How does Manoa differ from the 2x2 approach, and why?
+  * What are the basic building blocks for each scenario you build using Manoa?
 * seeks to "revel in the opportunity spaces that uncertainties reveal", as opposed to 'managing uncertainty'
 * goals: participatory, firmly based in data, map steps from present, include multiple drivers of change, and depict different surprising outcomes with a time horizon of approximately a generation.
 * Relates to Dator's Second Law of Futures Thinking - "the only useful ideas about the future should appear to be ridiculous"
@@ -1036,6 +1030,46 @@
 * Step 8: Ask the practical questions. ie what are your current activities, plans, missions, vision? How would these play out in the scenarios? Which patterns/themes from the scenarios would most impact mission and vision? Which scenario offers the most opportunities? Which offers the most challenges? How might things need to evolve/transform to thrive in each scenario?
 
 ## Lecture
+
+* Manoa: designed to maximize evidence-driven difference from present to challenge assumptions, focus on turbulence and dynamics of acceleration and constraint, surface emerging tensions and backlash responses
+  * Needs at least three orthogonal changes to drive each scenaria
+  * does not directly address topic (still need to incast later)
+  * Impact cascades create clear webs of events - aids drafting a 'network' future history; cross-impact step addresses boundary spaces
+  * Cross-impact step addresses boundary spaces where innovations and threats emerge
+  * Energizing: creates a 'playful' mood supporting creativity
+  * Mimicking genius:
+    * identify three or more disparate, orthogonal emerging changes, ie, from three different STEEP categories
+    * take each and imagine it's impacts
+    * chase impact chains
+    * ID cross impacts
+    * ID interconnections that form amplifying / accelerating loops
+    * ID backlashes and contradictions that create balancing / slowing loops & conflict
+* Scenario Archetypes: Continued Growth, Ideological Exclusionism, Environmental Sustainability, High Technology Transformation, Spritual Transcendence, Collapse/Reversal
+  * Capture common 'families' of images of the future to enable 'incasting'; pre-fab worldviews and frameworks provide "just add data" approach
+  * requires nuanced understanding of archetypes, and can cause "not our story" backlash
+  * Useful discussions generated when sorting data across archetypes, identifies ambiguities where drivers fall across or between boundaries
+  * tight focus on the research issue
+  * Scenarios vs Nightmare:
+    * Business as Usual || Continued Growth vs Economic Collapse
+      * capitalist, promotes the material, win-lose, reductionist, mechanistic; tech innovation and progress should be rapid and encouraged as it drives economic growth. Social/political change should be incremental and rule/law based, to promote stability. Environmental change is ignored/not noticed.
+    * Environmental Sustainability vs Ecological Collapse
+      * communitarian, promotes the natural, win-win, holistic, organic; tech change should be incremental and assessed to promote stability. Environmental change should occur unaffected by human activity. Social, political, and economic change should be incremental and driven by goal of increased hormany with nature, with political/economic instracture adapting to, and supporting that goal.
+    * Ideological Exclusionism vs Anarchy (collapse of rule of law)
+      * hierarchic, promotes the rule, win-exclude, limiting, disciplined; distrust change, it should only occur incrementally, well controlled by rule of law, to promote stability of belief.
+    * High Tech Transformation vs Infrastructure/System Collapse
+      * anarchic, promets the outer journey, win-evolve, transformational, invented; thrive-on/addicted-to change in all sectors at all speeds to promote tranformation faster. Innovations will completely transform social, economic, and political structures, and destrys very notion of "natural", while helping to control negative impacts.
+    * Spiritual Trancendence vs Anomic Collapse
+      * collegially selfless, promotes the inner journey, win-enlighten, transcendent, noetic; social change should support social advances and noetic evolution. Tech and economic change should be incremental and slow, to de-emphasize the material. Change in political sphere should be incremental but innovative, retaining stability but promoting trancendent social values and networks.
+  * Distinguishing Characteristics of Archetypes
+    * Politico-economic structure
+    * Aspect of life promoted
+    * Goals of the game
+    * Strategy for exploring reality
+    * Root descriptor for reality
+    * Nightmare: opponent scenario
+    * Concept of change
+
+
 
 # W12: Designing Experiential Futures
 ## Reading: TBD
