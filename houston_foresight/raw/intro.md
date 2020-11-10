@@ -998,7 +998,7 @@
 
 # W11: Exploring Alternative Futures, 2
 
-## Reading: Appendix, The Art of the Long View (Ogilvy and Schwartz)
+## Reading: Appendix, The Art of the Long View (Ogilvy, Schwartz)
 
 * GBN Scenario Building Process
 * Step 1: Identify Focal Issue or Decision - take a few minutes to jot down some critical decisions facing your company or organization, review, discuss, and chose one via straw poll.
@@ -1072,8 +1072,34 @@
 
 
 # W12: Designing Experiential Futures
-## Reading: TBD
+
+## Reading: Experiential Futures: Stepping into OCADU's Time Machine (Candy)
+
+* Goal is "diagetic integrity", that the scenario holds together on it's own terms: no gaps in logic, no clumsy flashing arrows.
+* Part of the trick is putting people into your diegesis - your story-world - as seamlessly as possible.
+* diagetic integrity forces us to imagine the future at hand more concretely, coherently, and compellingly than we otherwise would.
+* seeks to push beyond talk/text to tell provide a more compelling narrative
+
+## Reading: Designing an Experiential Scenario: The People Who Vanished (Candy, Dunagan)
+
+* Experiential futures seek to bring material and emotional reality to scenarios so that they will be more impactful.
+* key challenge of next generation is not generating/broadcasting ideas, but to design circumstances/situations in which collective intelligence and imaginiation of a community can come forth.
+* Experiential futures ladder (from abstract/general to concrete/specific)
+  * Setting - kind of future, top level descriptor
+  * Scenario - specific future history or state
+  * Situation - 1:1 scale, visitable respresentation of time and place
+  * Stuff - artifact or instantiation
+* Ladder uses layers to orient participants to the elements that were fixed (location/setting, broad theme, timing), and why.
+* Ladder helps make apparent which elements are still open and need collective attention and definition.
+* Ladder seeks to bring into being different worlds as our attention comes to them.
+
+## Reading: Experience the Year 2050 Alongside Seven Simulated Siblings at MOD's New Exhibition (DeZilva)
+
+* give experiences of what it might be like to live in a future altered world
+* framed around siblings/family to provide some context and throughline
+
 ## Lecture
+
 # W13: Values and Preferred Futures
 ## Reading: Envisioning the Future (Ziegler)
 ## Lecture
