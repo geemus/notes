@@ -1069,8 +1069,6 @@
     * Nightmare: opponent scenario
     * Concept of change
 
-
-
 # W12: Designing Experiential Futures
 
 ## Reading: Experiential Futures: Stepping into OCADU's Time Machine (Candy)
@@ -1101,8 +1099,39 @@
 ## Lecture
 
 # W13: Values and Preferred Futures
+
 ## Reading: Envisioning the Future (Ziegler)
+
+### Principles
+
+* the future is not the domain of knowledge, but of action - visioning should empower participants to take action in the present to bring about the future
+* the future is a metaphor for the human imagination - if does not objectively exist - it also begs the qusetion of whose imagination we are talking about
+* participants in imagining form a community of learners characterized by:
+  * readiness (and learned competence) to take risks with each other by sharing compelling visions of the future, especially when there are substantial differences among the images
+  * readiness to de-role so that they deep-listen with each other even when they disagree and are in serious conflict
+  * readiness to search for shared vision without losing or giving up the integrity of their own compelling images
+* participtaion is by invitation, envisioners have to want to do it - this makes it quite challenging for heirchical organizations, as the generated images will not be owned and committed to in the same way, and will therefore not lead to changed action or practice
+* the only player in envisioning is the person, not the organization or the community.
+
+### Contextual Protocols
+
+* Dissatisfaction - starting point of envisioning. Something dissatisfying about the present from which a future image can be generated for which the dissatisfaction is well addressed. Possibly the pain behind this dissatisfaction can also be shared. The dissatisfaction should be namable to drive focus and mobilize engergy to imagine how things might be different.
+* Participation - more diverse groups produce a more robust environment of images. The future is full of surprises, and the more diverse the group, the more likely images will also have surprises. Helps move us beyond expected and accepted.
+* Commitment to Action - lacking this will disconnect participants from intention to act upon the present in order to move toward the future. Those leading the envisioning must also be open to the outcome, whether they expect/like it or not, or it will undermine the effectiveness and value of the effort.
+
+### Methods and Practices
+
+* Discerning of Concerns - Deep questioning and deep learning to penetrate to the sources, reasons, meanings, effects of their concerns, dissatisfaction, problems, and pain.
+* Focused Imaging - five levels of focused imaging
+  * first three lay out indicators, positive, and negative consequences of the images as achieved states of affairs. Participants learn to live in the future present moment to subject their images to discerning tests.
+  * fourth layer invites participants to dig out underlying assumptions without which images would make no sense, examine values implicit in living out images, and provide rationales behind images.
+  * fifth layer partipants undertake an inner search to discover one or more compelling images they are prepared to share with the community of learners
+* Creating Shared Vision - split into small groups who share at a minimum a focus of concern, possibley a common theme, and sometimes even an image. This group then builds a comprehensive scenario. Participants learn and practice intentioning, discerning and dialogue to negotiate agreements. Each team lays out as many ramification, implications and meanings as they can. All participants then device a 'future matrix' of all the domains and areas from all the subgroups. Building this matrix often yields elements of a shared vision.
+* Connecting the Future with the Present - working individually and in teams connec tthe future by living their images as achieved and actualized, and remembering how that happened. (futures-history)
+* Strategy Paths and Action - in various kinds of groupings, participants discover strategy paths and actions which will, in their judgement, move them well and truly toward and into their futures
+
 ## Lecture
+
 # W14: Imagination to Action
 ## Reading: Leverage Points (Meadows)
 ## Lecture
