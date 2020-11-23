@@ -1132,6 +1132,94 @@
 
 ## Lecture
 
+* Five Key Activities of Integrated Foresight
+  * Identify & Monitor Change - Identify patterns of change: trends in chosen variables, changes in cycles, and emerging issues of change.
+  * Critique Change - Examine primary, secondary, tertiary impacts; inequities in impacts; differntial access, etc.
+  * Imagine the Possible - Identify, analyze, and build alternative images of the future, or 'scenarios'.
+  * Envision the Preferred - Identify, analyze, and articulate images of preferred futures, or 'visions'.
+  * Plan & Implement - Identify stakeholders, resources; clarify goals; design strategies; organize action; create change.
+* Futures Studies seek to act to enhance the probability of our preferable futures.
+* "Scenarios are futures for the head ... visions are futures for the heart." - Clem Bezold
+* Effective visions inspire action
+  * Vividly, boldly portray hopes, ideals, and values.
+  * Clearly identify the time horizon
+  * Describe a "future history" of actions and projects that created the improved "present"
+  * Are written in the present tense, as if the preferred future were real now
+  * Contain a few transformed elements of the "past" - 2020 - to contrast the "past" with the vision's improved present day
+* Vision + Leadership > Models
+  * (Robert Greenleaf) Servant Leadership - Great leaders serve the group they lead, by creating and maintaining an environment which encourages and supports everyone in maximizing their potential, especially vis-a-vis group goals.
+    * by healing broken spirits and emotional hurts; by listening intently to others and one's own inner voice; by being awake to values, ethics - and the disturbing; by practicing foresight - the intuitive grasp of potential future outcomes; by conceptualizing and articulating a dream; by persuading rather than commanding: convincing; by accepting and recognizing others - empathy; by commitment to the growth of people; by building community; and by practicing stewardship
+  * (James MacGregor Burns) "Leadership over human beings is exercised when persons with certain motives and purposes mobilize, in competition or conflict with others, institutional, political, psychological, and other resources so as to arouse, engage, and satisfy the motive of followers. ... in order to realize goals mutually held by both leaders and followers."
+    * Transactional leadership - occurs when one person takes the initiave in making contact with others for the purpose of an exchange of valued things
+    * Transformational leadership - occurs when one or more persons engage with others in such a way that leaders and followers raise one another to higher levels of motivation and morality
+  * (Warren Bennis and Burt Nanus)
+    * Leaders lead by pulling rather than pushing; by inspiring rather than ordering; by creating achievable, though challenging, expectations and rewarding progress toward them rather than by manipulating; by enabling people to use their own initiative and experience rather than by denying or constraining their experiences and actions.
+    * Four strategies:
+      * attention through vision - creating focus with a mental image of a possible and desirable future
+      * meaning through communication - influencing, organizing, and sharing meaning within the group
+      * trust through positioning - clearly, consistently, and reliably communicate and stick with your position
+      * deployment of self through 1) positive self-regard and 2) the Wallenda factor: 1) know your own worth; continually develop your skills, and 2) keep trying.
+  * (James M. Kouzes and Barry Z Posner) - Five leadership practices and ten commitments:
+    * Challenging the process - Search for opportunities & Experiment and take risks
+    * Inspiring a shared vision - Envision the future & Enlist others
+    * Enabling others to act - Foster collaboration & Strengthen others
+    * Modeling the way - Set the example & Plan small wins
+    * Encouraging the hears - Recognize individual contribution & Celebrate accomplishments
+  * (Kotter)
+    * Eight-Stage Process of Creating Major Change
+      * Establish a sense of urgency
+      * Create the guiding coalition
+      * Develop a vision and strategy
+      * Communicate the change vision
+      * Empower broad-based action
+      * Generate short-term wins
+      * Consolidate gains and produce more change
+      * Archor new approaches in the culture
+    * Leadership means:
+      * establishing direction - developing a vision of the future, and the strategies to create it
+      * aligning people - communicating direction in words and deeds to everyone whose cooperation is needed to create the vision
+      * motivating and inspiring - energizing people to ovecome major political, bureacratic, and resource barries to change by satisfying basic, but often unfulfilled, human needs.
+
+### Visioning Techniques
+
+* meditative visualization
+  * share worst fears - convert to best hopes
+  * indiviual meditative visualization >>> poster
+  * find fellow travellers by 'touring' individual visions
+  * self-identified working groups synthesize from individual to collective by collating shared goals, what they admire
+  * add detail - flesh out the day to day experience
+  * backcast - detail specific events necessary to achieve
+* critique / fantasy / implement
+  * designed to improve squatter's communities, assumes no resources
+  * prepare - all stakeholders, rules of play
+  * solve a present problem, identify via a catharsis
+  * fantasize a visionary solution
+  * implement by accepting design constraints of minimal resources to spur local creativity
+  * commit by signing up to act, with a deadline
+* appreciative inquiry - build on strengths & successes
+  * Definition - frame the intervention
+  * Discovery - What is good? What has worked?
+  * Dream - What might be?
+  * Design - What should be? What is ideal?
+  * Destiny - How to make it happen? (feeds back to discovery and/or definition)
+* past, present, ideal future - ACT
+  * shared history timeline
+  * external trends and current and possible future responses
+  * prouds and sorries re: topic or problem
+  * ideal future described as if it were accomplished
+  * identify and confirm common ground
+  * commit by signing up to act, with a deadline
+* Causal Layered Analysis (CLA)
+* Verge - How should we...? on 6 dimensions
+  * How should we define ourselves and the world around us? What should our values, paradigms encompass?
+  * How should we connect people places and things, and transmit value and meaning?
+  * How should we acquire and use the goods and services we create?
+  * How should we relate to other people, to organizations and communities, and to nature?
+  * How should we create goods, services, and socila roles?
+  * How should we destry value and what should be our reasons for doing so?
+* 3 Horizons
+* Manoa for Visioning
+
 # W14: Imagination to Action
 ## Reading: Leverage Points (Meadows)
 ## Lecture
