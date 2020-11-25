@@ -1221,8 +1221,33 @@
 * Manoa for Visioning
 
 # W14: Imagination to Action
+
 ## Reading: Leverage Points (Meadows)
+
+* leverage point - place within a complex system where a small shift in one thing can produce big changes in everything
+* It seems common that organizations know where the leverage point is, but misinterpret it and are pushing in the wrong direction.
+* Places to intervene in a system (in increasing order of effectiveness)
+  12. Constants, parameters, numbers (subsidies, taxes, standards). Can be important in the short term and to directly impacted people, but rarely change behavior. That said, critical parameters that impact things lower in the list can cause big changes.
+  11. The sizes of buffers and other stabilizing stocks, relative to their flows. Buffers can be very impactful, but are on the low end of the spectrum because they are so costly to change.
+  10. The structure of material stocks and flows (such as transport networks, population age structures). The only way to fix a system that is laid out wring is to rebuild it, but often you can't (too slow/expensive).
+   9. The length of delays, relative to the rate of system change. Feedback and/or response delays are common causes of oscillations. More critical relative to rates of change in system state the feedback loop is trying to control. Can be powerful to change, but this is often difficult or impossible (easier to alter rate of change).
+   8. The strength of negative feedback loops, relative to the impacts they are trying to correct against. Strength of negative feedback loop is critical relative to the impact it is designed to correct.
+   7. The gain around driving positive feedback loops. Usually more powerful than adjusting negative feedback loops.
+   6. The structure of information flows (who does and does not have access to what kinds of information). Missing feedback is a common cause of system malfuction, adding or restoring information can be a powerful intervention. May stem from human tendency to avoid accountability for our own decisions.
+   5. The rules of the system (such as incentives, punishments, constraints). Understand the rules and who has power over them to understand deepest malfunctions of systems.
+   4. The power to add, change, evolve, or self-organize system structure. Ability to change things earlier on the list, known in systems lingo as self-organization. This ability to evolve creates great resilience.
+   3. The goals of the system. Important as it tends to twist everything lower to serve it.
+   2. The mindset or paradigm out of which the system -- its goals, structures, rules, delays, parameters -- arises. Can be very powerful, and fast at individual level, but very slow/hard at largere and societal levels.
+   1. The power to transcend paradigms. If no one paradigm is right, you can choose whatever will help acheive your purpose.
+* terms
+  * state of the system is whatever standing stock is of importance
+  * inflows increase the stock, outflows decrease it
+  * parameters is how much of a discrepancy changes things and how fast.
+  * buffers are large stabilizing stocks (such that changes will be more gradual). Bigger buffers can stabilize systems, but if it is too big the system becomes too slow and inflexible (and can be expensive to maintain).
+* list is tentative and order is slithery, everything has exceptions. Magical leverage points are not easily accessible, even if we know where they are and what direction to push.
+
 ## Lecture
+
 # W15: The Future of Futures
 ## Reading: APF The Future of Futures, pp 25-46
 ## Reading: Futures 2.0 (Pang)
