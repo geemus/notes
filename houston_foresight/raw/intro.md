@@ -1248,6 +1248,53 @@
 
 ## Lecture
 
+* Backcasting (aka Apollo forecasting, horizon mission methodology)
+  * Starts with (usually) a preferred outcome
+  * Works backwards from a realized future to describe the logical sequence of events that created that future, stated as a timeline
+  * Basic steps:
+    * What needs to have happened to create this future? Brainstorm a list of necessary events.
+    * Review events and order by pre-cursor/successor rationale; put in draft order on a timeline.
+    * Fill in blanks with missing required events, adjust order as needed.
+    * Suggest potential dates and timeframes for each event on the timeline, creating a future history.
+* Futurium digital futures content six dimensions: Personal life, Governance, Environment, Economy, Science & Technology, Society
+* Backcasting asks:
+  * What needs to happen to create that preferred outcome?
+  * What are the logical precursor steps?
+  * What changes would need to occur?
+  * Which of the emerging changes can we amplify or build upon to create the desired future?
+* Stakeholder mapping
+  * Who is interested in or affected by your vision, initiative, policy, project, product, or service?
+  * How much influence or power do they have over it? How enthused are they about it? (make a matrix of these from low to high)
+  * Rely on support from high influence, high enthusiasm.
+  * Explain benefits and increase enthusiasm for high influence, low enthusiasm.
+  * Understand, manage, and communicate with lower enthusiasm and/or lower influence (though less work will be needed for high enthusiasm).
+  * Opponents - watch them: high influence, low support
+  * Messengers/Champions - activate them: high influence, high support
+  * Not a priority - minimize engagement: low influence, low support
+  * Fan Club - Inform them: low influence, high support
+* Stakeholder Influence
+  * Where/how do they connect to your issue, product, or policy? Are they close to the core, parter of wider profession/market/discipline, or simply part of the interested public?
+  * Some dichotomies:
+    * Internal/External/Public
+    * Internal: Employees, Manager, Owners; External: Suppliers, Society, Government, Creditors, Shareholders, Customers
+    * Customers, Suppliers, Regulators, Competitors, Investors
+  * Consider creating a scoring matrix that shows for each strategy, whether it would be a win or loss for each considered stakeholder.
+* Windtunnelling
+  * Test robustness of objectives/policies against different scenarios
+  * Explore ways to optimize future success
+  * Help to identify future risks
+  * Challenge 'official view' of the future
+  * Create an environment for open debate on options
+  * Process:
+    * Develop scenarios, or work with suitable existing ones
+    * Identify the objective/policy/desired outcome to be tested
+    * Examine how the external conditions described in each scenario affect delivery of the desired outcome
+    * Identify the implications for strategy implementations
+  * Plot options across different scenarios to find where they are robust, where they need modification, and where they are redundant.
+  * Consider across options which options will succeed/fail/contingent, and whether this implier something to do now/reject/monitor.
+  * Can also consider options degree of impact across different scenarios (ie no impact, low impact, medium impact, high impact)
+
+
 # W15: The Future of Futures
 ## Reading: APF The Future of Futures, pp 25-46
 ## Reading: Futures 2.0 (Pang)
