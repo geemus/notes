@@ -1296,7 +1296,35 @@
 
 
 # W15: The Future of Futures
+
 ## Reading: APF The Future of Futures, pp 25-46
+
+* [class] five notable new qualities:
+  * crowdsourced
+  * integral
+  * design / experiential
+  * anticipation as a discipline
+  * complexity and emergence
+* [class] shape of things to come...
+  * more distributed and more networked
+  * it will 'take the complexity turn...'
+  * rediscover its roots in philosophy
+  * explore different ways of knowing
+  * become better informed about its own history
+  * mature in an age of 'descent' or constraint and scarcity
+
 ## Reading: Futures 2.0 (Pang)
+
+* [class] four notable features of the futures field
+  * designed to deal with problems characterized by complexity, contingency, uncertainty, and urgency - black swans, post-normal science, and wicked problems
+  * draw on experimental psychology and neuro-economics to counter systemic biases in how we explore the future
+  * research incorporates tools like social software, prediction markets, and choice architecture
+  * lengthen the 'shadow of the future' on everyday choices
+* [class] new tool from futures
+  * social scanning - see twitter/paper.li, factr, shaping tomorrow
+  * prediction markets - buy shares in likelihood of events
+  * bayesian networks - track different factors that can influence futures
+  * ethnographic studies - undesrstand how clients use our work
+
 ## Lecture
 
