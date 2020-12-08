@@ -38,6 +38,7 @@
   * more balance multidisciplinary planning with social sciences partnerning with physical and analytical sciences
 
 ## Reading: A Way through the Maze: what futurists do and how they do it (Garrett)
+
 ## Reading: What corporations do with foresight (Hammoud & Nash)
 
 * Foundations:
@@ -624,7 +625,7 @@
   * Systemic Structures - the ways in which parts of a system are organized, which generate the patterns and events we observe. Note that structures can be physical (such as how something is built) or intangible (how individuals are rewarded).
 * Additional levels of perspective:
   * Mental models - beliefs and assumptions about how the world works. Important to understand because they can provide a blueprint for the systemic structures that one finds.
-  * Visian - a picture of what we want for our future. Determines themental models we hold as important as we pursue our goals.
+  * Vision - a picture of what we want for our future. Determines themental models we hold as important as we pursue our goals.
 * We live in an event-oriented world, and our language is largely rooted at this level.
 * A cause and effect view tends to see events as separate and unrelated, even if they repeat. The feedback loop perspective instead says "how do the consequences of my actions feed back to affect the system?"
 * How we describe our actions in the world affects the kinds of actions we take in the world. ie Feedback view draws attention to interrelationships, whereas cause-and-effect looks an event pairs.
@@ -680,7 +681,7 @@
 * Current state of the system via influence map.
   * CATWOE can be a helpful checklist: Customers, Actors, Transformations, Worldviews or values, Owners, and Environment
   * STEEP may also be helpful.
-* Emerging change and impacts - interference: Review trends and emerging changes. Whore do they hit the system? What variables will they affect? How will they affect connections and feedback?
+* Emerging change and impacts - interference: Review trends and emerging changes. Where do they hit the system? What variables will they affect? How will they affect connections and feedback?
 
 # W08: Forecasting
 
