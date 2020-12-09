@@ -1295,7 +1295,6 @@
   * Consider across options which options will succeed/fail/contingent, and whether this implier something to do now/reject/monitor.
   * Can also consider options degree of impact across different scenarios (ie no impact, low impact, medium impact, high impact)
 
-
 # W15: The Future of Futures
 
 ## Reading: APF The Future of Futures, pp 25-46
