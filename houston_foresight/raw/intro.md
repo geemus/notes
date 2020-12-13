@@ -1315,6 +1315,32 @@
 
 ## Reading: Futures 2.0 (Pang)
 
+* Four premises:
+  * Biggest problems of 21st century are quite different than those in the 20th
+    * many techniques developed after WW2 or during cold war
+    * black swans (unpredictable or hard to think about disruptive events) have become more common
+    * "post-normal" science. "conventional expertise and professional competence are unsustainable in a world defined by politics .. [and] fraught choices". Impossible to make "hard decisions with soft numbers" (Ravetz)
+    * "wicked problems" - complex social problems that "cannot be definitely described", cost/benefit of strategies to deal with them are hard to objectively determine.
+  * Range of actors shaping the future has grown dramatically. People shaping the 21st century ... are ordinary people.
+    * mobile/digital tech multiply power of individuals to organize and coordinate to affect the future
+    * forecasting can draw on broader insights
+    * futurists need to work in media that can be broadly consumed
+    * everyone is an influencer (make others aware of this and enable them to act).
+  * Humans are naturally ill-equipped to think rationally about long-term futures. Particularly ordinary people (who are now shaping)
+    * instincts honed in earlier times do not help with the problems we are now creating for ourselves and the generally more complex problems we now face
+    * brains are calibrated to respond to immediate threat, not slow, long-term problems
+    * tend to trust specific futures more than general ones, despite them being less likely
+    * over-reliance on patterns due to starting-point biases, so views of the future are strongly anchored in the present
+    * we fall victim to confirmation biases, and "epistemic arrogance" overestimated our own certainty/breadth of knowledge while underestimating what we do not know
+    * we struggle to imagine our future selves (and to a lesser degree, our past selves) as alien
+    * we struggle with fraught choiceswhich are defined by: being inherently difficult/complex, being unique, providing little feedback, and often having widely seperated costs/benefits.
+  * Expert knowledge is a less reliable guide to understanding the future than we realize
+    * forecasters are not incentivized to make themselves falsifiable and can be over confident
+    * there is also a tendency for people to seek advise from those that appear most confident, regardless of their past accuracy
+    * expertise existing about the future may reduce engagement with individuals shaping their own futures
+  * choice architecture/nudges can help broader masses of people to make better decisions and overcome pervasive biases by assigning incentives/costs to choices, altering defaults, avoiding anchors, etc.
+  * nudges can be used to make wicked problems more manageable, by structuring initial choices to play off people's flawed thinking about the future in a way that helps the reach their goals, and a better future.
+  * ubiquitous computing may allow us to provide realtime insights/feedback into externalities and long term impacts to help guide better decision making
 * [class] four notable features of the futures field
   * designed to deal with problems characterized by complexity, contingency, uncertainty, and urgency - black swans, post-normal science, and wicked problems
   * draw on experimental psychology and neuro-economics to counter systemic biases in how we explore the future
@@ -1323,8 +1349,11 @@
 * [class] new tool from futures
   * social scanning - see twitter/paper.li, factr, shaping tomorrow
   * prediction markets - buy shares in likelihood of events
+    * works best with events that have clear outcomes, so may need to work to figure out how to break down bigger, longer-term things into smaller things, possibly with interim dividends, and find ways to attract lots of well-informed participants
+    * building bigger bets from smaller ones is another challenge, which might be faced with something like conditional derivatives, funds of funds, or other "decision instruments".
   * bayesian networks - track different factors that can influence futures
   * ethnographic studies - undesrstand how clients use our work
+
 
 ## Lecture
 
