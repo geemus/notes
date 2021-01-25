@@ -88,3 +88,29 @@
   * Bet-the-farm selects one option and invests all energy toward pursuing it.
 
 ## Week 03: Values
+
+### [Reading] 2025 Book (Cotes)
+
+### [Reading] Shifting Consumer Values (Hines)
+
+* Interview based on ConsumerShift: How Changing Values Are Reshaping the Consumer Landscape
+* Values are those things peolpe hold as most important in life, which guide decision-making and behavior. They may also be the single best indicator of emerging consumer change.
+* Distinct from virtues, which focus on timeless notions of right and wrong, and attitudes, which are more situation specific.
+* Core values are those values that one has actually acted upon.
+* Among systems related to values, Hines found Ron Ingnlehart's World Values Survey and Don Beck's Spiral Dynamics most useful for providing insights.
+* Four core clusters of values, with individuals containing a mix, but also tending to have a particular center of gravity among them. Clusters:
+  * Traditional - focus on following rules and fulfilling one's predetermined role.
+  * Modern - focus on achievement, economic growth, and progress.
+  * Postmodern - focus on search for meaning in one's life.
+  * Integral - focus on personal growth, with understanding and sensitivity to systemic considerations.
+* In good conditions, people tend to progress through these, whereas in adverse conditions they may regress.
+* The biggest catalyst to changing or reprioritizing values is a change in a person's context. When this occurs values generally don't disappear, but simply become less important.
+* Overall trends seem to be toward later clusters, with more of a focus on quality of quantity.
+* Pay close attention to cases where people's stated values and behavior contradict. This can indicate an unmet need and/or future opportunity.
+* To integrate, consider where you and/or your organization is within the clusters and where you would like to be.
+* Business Implications:
+  * Values change in a predictable pattern, which makes them incredibly useful for studying emerging behavior and understanding long-term trajectories.
+  * Values can provide a humanizing element to research projects, which can otherwise get lost in the quick pace of technology change.
+  * Clusters describe people's center of gravity, not an absolute. Values work should account for this variability.
+  * Brands that enable people to express their values position themselves for loyalty and success. Considering values can help companies fine tune messaging for their customers and/or their customers' customers.
+
