@@ -89,7 +89,21 @@
 
 ## Week 03: Values
 
-### [Reading] 2025 Book (Cotes)
+* Search tips, category + ...: “of the future”  “of tomorrow”  “implications” “emerging” “long term”  “trend”  “by the year”  “vision”  “scenario”  “wildcard” “sea change” “the next * years” “2020”  “2030” “crossroads” “dilemma” “disruption”
+* General Sources
+  * Specialized Search - Lexis-Nexis, Google Scholar
+  * Web/Blogs - Digg, IFTF's Future Now, Technology Review
+  * Portals/Aggregators - Eurekalert!, Technorati, Twitter, LinkedIn, ScoopIt!
+  * Bookmarking - Del.icio.us, Evernote, Diggo, Magnolia
+  * Watches - Google alerts, Feedly
+  * Publications - New York Times, Wired
+* Specific Sources
+  * Social/Demographic - Population Reference Bureau, UN Population Information Network, US  Census
+  * Technology - Boing Boing, Arts & Literature Daily, Variety, brainpickings.org, TechCrunch, Digg, Technorati, Wired, Slashdot, Science and Technology Daily, Fresh Patents, Kurzweil AI.net, Singularity Hub
+  * Economic - Real World Economics Review, OECD Statistics Portal, Innovation Daily, The Economist, IMF World Economic Yearbook, UN Statistics Division, FastCoLabs, Venture Beat
+  * Environmental - The Watchers, Treehugger.com, Greenbiz , Resilience.org, Natl Resource Defense Council, WorldWatch, Green Car Reports, Security & Sustainability Guide
+  * Policital - CIA World Fact book, US Government News, Third Wave, Change.org, Project Censored, DrudgeReport, Zero Hedge, Jacobin
+  * General (weak signals) - FutureSeek, Next Big Future, Reddit, Shaping Tomorrow, Trendwatching.com, FutureEdition, Futurity, World Future Society, FutureAgenda, Future Timeline.net, QuantumRun, Flipboard, Tumblr, Instapaper, Snopes, Google Zeitgeist, Futures Centre
 
 ### [Reading] Shifting Consumer Values (Hines)
 
@@ -113,4 +127,32 @@
   * Values can provide a humanizing element to research projects, which can otherwise get lost in the quick pace of technology change.
   * Clusters describe people's center of gravity, not an absolute. Values work should account for this variability.
   * Brands that enable people to express their values position themselves for loyalty and success. Considering values can help companies fine tune messaging for their customers and/or their customers' customers.
+
+### [Reading] The Never Ending Upward Quest (Roemischer)
+
+* Suggests that in response to adversity humans can adapt by creating greater complexities of thinking.
+* No final state, just upward quest with each stage a prelude to the next.
+* Each stage "trancends but includes", so more complex systems have greater degrees of freedom.
+* Higher-order priorities suddenly vanish in the midst of personal tragedy, extreme suffering, or deprivation.
+* No meme is better than another. Each is a response to life conditions, and each has positive and negative aspects.
+* Each meme can existing within a person, to be expressed in response to life conditions.
+* Boomeritis/Mean-Green-Meme - Green is enabled by orange (which is built on blue), but often will attack blue/orange without understanding implications.
+
+* MEMES
+  * Subsistence
+    * Beige - Instinctive/Survivalistic - ~100,000 years ago - Do what you must to stay alive
+    * Purple - Magical/Animistic - ~50,000 years ago - Keep the spirits happy and the tribe's nest warm and safe
+    * Red - Impulsize/Egocentric - ~10,000 years ago - Be what you are and do what you want, regardless
+    * Blue - Purposeful/Authoritarian - ~5,000 years ago - Life has meaning, direction, and purpose with predetermined outcomes
+    * Orange - Achievist/Strategic - ~300 years ago - Act in your own self-interest by playing the game to win
+    * Green - Communitarian/Egalitarian - ~150 years ago - Seek peace within the inner self and explore, with others, the caring dimensions of community
+  * Being
+    * Yellow - Integrative - ~50 years ago - Live fully and responsibly as what you are and learn to become - left brain with feelings
+    * Turquoise - Holistic - ~30 years ago - Experience the wholeness of existence through mind and spirit - right brain with data
+
+* Some background on the author and why you think they wrote the piece: Having immersed themselves in Spiral Dynamics, they wanted to share how they were making sense of their life with it, and share more about it by interviewing the creator.
+* The key point or conclusion that the author is making: The author is seeking to demonstrate that Spiral Dynamics as a theory of human development provides a major breakthrough in mapping and managing the complexity of people. Each stage "transcends but includes", adding both complexity and greater degrees of freedom. The stages progress in response to challenge, but can also regress among tragedy, suffering, or deprivation.
+* What are a couple of key piece of supporting evidence? How does the author support his/her conclusion? They share many examples of Don Beck, the creator of Spiral Dynamics, having success applying this. Particularly it talks in depth about his work in South Africa to tackle apartheid, including a series of articles he wrote which were influential in the release of Nelson Mandela and the start of the peace process. The author also personalizes the story by speaking about how they have used Spiral Dynamics to make sense of their own life path.
+* What did you find interesting about the piece? Spiral Dynamics itself provides an interesting set of memes and a theory of their interelation that provides support in making sense of complex human interactions. It was interesting to learn about how the levels interrelate and influence one another, and how they are interdependent rather than a strict progression.
+* What did you question or not agree with, if anything? I found the language around this being an unending upward quest to be in opposition to the assertion that no level is better than any other, as it seems to imply that the higher levels are more desirable. Some of the particular suggestions around different levels, such as the notion that beige individuals had remote viewing capabilities to undermine the overall credibility of things. Also, although the levels and memes themselves provide an interesting and potentially helpful framework, I found the assignment of particular colors to seem a bit arbitrary and distracting compared to using the descriptive names specifically.
 
