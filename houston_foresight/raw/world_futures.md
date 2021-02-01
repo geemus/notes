@@ -156,3 +156,15 @@
 * What did you find interesting about the piece? Spiral Dynamics itself provides an interesting set of memes and a theory of their interelation that provides support in making sense of complex human interactions. It was interesting to learn about how the levels interrelate and influence one another, and how they are interdependent rather than a strict progression.
 * What did you question or not agree with, if anything? I found the language around this being an unending upward quest to be in opposition to the assertion that no level is better than any other, as it seems to imply that the higher levels are more desirable. Some of the particular suggestions around different levels, such as the notion that beige individuals had remote viewing capabilities to undermine the overall credibility of things. Also, although the levels and memes themselves provide an interesting and potentially helpful framework, I found the assignment of particular colors to seem a bit arbitrary and distracting compared to using the descriptive names specifically.
 
+## Week 04: Demography
+
+## Week 05: Environment & Resources
+
+### [Reading] 3 key questions on the future of our energy system (Bocca)
+
+* https://www.weforum.org/agenda/2017/04/the-future-of-the-energy-system-a-story-of-3s/
+* Historical Considerations = Energy Triangle: safe/secure/reliable energy, affordable energy, sustainable energy
+* Updated Considerations:
+  * What social impact will accompany changes in the energy sector? ie affordability of energy, job displacement and/or creation, job locations
+  * What differing financial impacts will occur around the globe? ie impact on energy-producing countries
+  * How will this interact with broader advances in fourth industrial revolution? ie closing digital divide, pressures between growing demand and environment/affordability
