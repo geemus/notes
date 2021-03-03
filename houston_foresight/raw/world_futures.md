@@ -2,6 +2,24 @@
 
 ## Week 02: Framework Project, Scanning Review, and Archetype Technique
 
+### Scanning Tips and Sources
+
+* Search tips, category + ...: “of the future”  “of tomorrow”  “implications” “emerging” “long term”  “trend”  “by the year”  “vision”  “scenario”  “wildcard” “sea change” “the next * years” “2020”  “2030” “crossroads” “dilemma” “disruption”
+* General Sources
+  * Specialized Search - Lexis-Nexis, Google Scholar
+  * Web/Blogs - Digg, IFTF's Future Now, Technology Review
+  * Portals/Aggregators - Eurekalert!, Technorati, Twitter, LinkedIn, ScoopIt!
+  * Bookmarking - Del.icio.us, Evernote, Diggo, Magnolia
+  * Watches - Google alerts, Feedly
+  * Publications - New York Times, Wired
+* Specific Sources
+  * Social/Demographic - Population Reference Bureau, UN Population Information Network, US  Census
+  * Technology - Boing Boing, Arts & Literature Daily, Variety, brainpickings.org, TechCrunch, Digg, Technorati, Wired, Slashdot, Science and Technology Daily, Fresh Patents, Kurzweil AI.net, Singularity Hub
+  * Economic - Real World Economics Review, OECD Statistics Portal, Innovation Daily, The Economist, IMF World Economic Yearbook, UN Statistics Division, FastCoLabs, Venture Beat
+  * Environmental - The Watchers, Treehugger.com, Greenbiz , Resilience.org, Natl Resource Defense Council, WorldWatch, Green Car Reports, Security & Sustainability Guide
+  * Policital - CIA World Fact book, US Government News, Third Wave, Change.org, Project Censored, DrudgeReport, Zero Hedge, Jacobin
+  * General (weak signals) - FutureSeek, Next Big Future, Reddit, Shaping Tomorrow, Trendwatching.com, FutureEdition, Futurity, World Future Society, FutureAgenda, Future Timeline.net, QuantumRun, Flipboard, Tumblr, Instapaper, Snopes, Google Zeitgeist, Futures Centre
+
 ### [Reading] Framework Foresight: Exploring futures the Houston Way (Hines, Bishop)
 
 * Framework Foresight is a modular meta-method which support substitution and/or supplementation from other methods and techniques.
@@ -89,22 +107,6 @@
 
 ## Week 03: Values
 
-* Search tips, category + ...: “of the future”  “of tomorrow”  “implications” “emerging” “long term”  “trend”  “by the year”  “vision”  “scenario”  “wildcard” “sea change” “the next * years” “2020”  “2030” “crossroads” “dilemma” “disruption”
-* General Sources
-  * Specialized Search - Lexis-Nexis, Google Scholar
-  * Web/Blogs - Digg, IFTF's Future Now, Technology Review
-  * Portals/Aggregators - Eurekalert!, Technorati, Twitter, LinkedIn, ScoopIt!
-  * Bookmarking - Del.icio.us, Evernote, Diggo, Magnolia
-  * Watches - Google alerts, Feedly
-  * Publications - New York Times, Wired
-* Specific Sources
-  * Social/Demographic - Population Reference Bureau, UN Population Information Network, US  Census
-  * Technology - Boing Boing, Arts & Literature Daily, Variety, brainpickings.org, TechCrunch, Digg, Technorati, Wired, Slashdot, Science and Technology Daily, Fresh Patents, Kurzweil AI.net, Singularity Hub
-  * Economic - Real World Economics Review, OECD Statistics Portal, Innovation Daily, The Economist, IMF World Economic Yearbook, UN Statistics Division, FastCoLabs, Venture Beat
-  * Environmental - The Watchers, Treehugger.com, Greenbiz , Resilience.org, Natl Resource Defense Council, WorldWatch, Green Car Reports, Security & Sustainability Guide
-  * Policital - CIA World Fact book, US Government News, Third Wave, Change.org, Project Censored, DrudgeReport, Zero Hedge, Jacobin
-  * General (weak signals) - FutureSeek, Next Big Future, Reddit, Shaping Tomorrow, Trendwatching.com, FutureEdition, Futurity, World Future Society, FutureAgenda, Future Timeline.net, QuantumRun, Flipboard, Tumblr, Instapaper, Snopes, Google Zeitgeist, Futures Centre
-
 ### [Reading] Shifting Consumer Values (Hines)
 
 * Interview based on ConsumerShift: How Changing Values Are Reshaping the Consumer Landscape
@@ -168,3 +170,7 @@
   * What social impact will accompany changes in the energy sector? ie affordability of energy, job displacement and/or creation, job locations
   * What differing financial impacts will occur around the globe? ie impact on energy-producing countries
   * How will this interact with broader advances in fourth industrial revolution? ie closing digital divide, pressures between growing demand and environment/affordability
+
+### [Reading] There's Much to Celebrate (Coates)
+
+* "Like it or not, we are in charge. Our choices, broadly, are stasis, falling backward, or moving ahead. The last must be the best of our choices. Our primary means of moving ahead is scientific knowledge, forming the basis for manipulation and control of all and every aspect of animate and inanimate nature."
