@@ -73,6 +73,8 @@
 
 ### Growth Strategy Matrix
 
+||||
+|---|---|---|
 | get job done better | differentiated strategy (win underserved only) | dominant strategy (win all customers) |
 | get job done worse | discrete strategy (win customers with limited options | disruptive strategy (win overserved and nonconsumers) |
 | | charge more | charge less |
