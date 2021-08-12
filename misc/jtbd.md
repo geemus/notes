@@ -10,36 +10,36 @@
 ## Outcome-Driven Innovation (ODI) - JTBD Theory in Practice
 
 1. Define the market and "job-to-be-done" broken down as a job map.
-  * Define the Core Functional JTBD - What are you trying to accomplish? What underlying process are you trying to execute?
-    * "When trying to (verb + object), in this situation (contextual clarifier)."
-  * Define outcomes - What makes getting this job done in this situation time consuming, inefficient, unpredictable, inconvenient or difficult?
-    * "People struggle to... (direction + metric + object)"
-  * Define emotional jobs - When getting this job done, how do you want to be perceived by others and how do you want to feel or avoid feeling?
-    * "And want to feel and be perceived as... (emotion + context)"
-  * Build a job map (see 'Job Map' below)
+    * Define the Core Functional JTBD - What are you trying to accomplish? What underlying process are you trying to execute?
+        * "When trying to (verb + object), in this situation (contextual clarifier)."
+    * Define outcomes - What makes getting this job done in this situation time consuming, inefficient, unpredictable, inconvenient or difficult?
+        * "People struggle to... (direction + metric + object)"
+    * Define emotional jobs - When getting this job done, how do you want to be perceived by others and how do you want to feel or avoid feeling?
+        * "And want to feel and be perceived as... (emotion + context)"
+    * Build a job map (see 'Job Map' below)
 2. Uncover the customer's "needs" = customer-defined performance metrics tied to steps in job map making value creation measurable, controllable, and predictable.
-  * Within the job map, you can discover metrics for success for each step, referred to as "desired outcomes".
-  * Desired outcome statements are devoid of solutions, stable over time, measureable, controllable, structured for reliable prioritization in a quantitative customer survey, and are tied to the underlying process (or job) the customer is trying to get done.
-  * Typically there are 50-150 outcomes per core functional job and 10-30 outcomes per relevant consumption chain job.
-  * Desired Outcome = "direction of improvement + performance metric (usually time or likelihood) + object of control (the outcome) + contextual clarifier (describing context in which outcome is desired)"
+    * Within the job map, you can discover metrics for success for each step, referred to as "desired outcomes".
+    * Desired outcome statements are devoid of solutions, stable over time, measureable, controllable, structured for reliable prioritization in a quantitative customer survey, and are tied to the underlying process (or job) the customer is trying to get done.
+    * Typically there are 50-150 outcomes per core functional job and 10-30 outcomes per relevant consumption chain job.
+    * Desired Outcome = "direction of improvement + performance metric (usually time or likelihood) + object of control (the outcome) + contextual clarifier (describing context in which outcome is desired)"
 3. Quantify the degree to which each need is under/overserved: predictive data = discover where it can be done better, discover where it can be done cheaper, quantify degree of over/underserving, and determine strength/weaknesses of competing solutions
 4. Discover hidden segments of opportunity = discover key variables, create clusters/segments, profile segments (from profile data in survey)
-  * Quantify under/overserved with likhert surveys similar to "When [job step], how important is it to you that you are able to: [outcome]" and "When using [solution] how satisfied are you with your ability to: [outcome]", where both questions are asked for each outcome.
+    * Quantify under/overserved with likhert surveys similar to "When [job step], how important is it to you that you are able to: [outcome]" and "When using [solution] how satisfied are you with your ability to: [outcome]", where both questions are asked for each outcome.
 5. Market Strategy = Align existing products with market opportunities (see also 'Growth Strategy Matrix'  below)
-  * Align current offerings with outcome-based segments
-  * Communicate the strengths of those products to customers in the target segment
-  * Include an outcome-based value proposition in those communications
-  * Build AdWords around unmet needs
-  * Assign leads to ODI-based segments
-  * Arm the sales team with effective sales tools
+    * Align current offerings with outcome-based segments
+    * Communicate the strengths of those products to customers in the target segment
+    * Include an outcome-based value proposition in those communications
+    * Build AdWords around unmet needs
+    * Assign leads to ODI-based segments
+    * Arm the sales team with effective sales tools
 6. Product Strategy = Conceptualize new products to address unmet needs
-  * Borrow features from other company offerings
-  * Accelerate offerings in the product pipeline and R&D
-  * Partner with or license from other firms
-  * Acquire another firm to fill a gap
-  * Devise a new feature set
-  * Design new subsystems and/or ancillary services
-  * Conceptualize the ultimate solution which gets the entire job done on a single platform
+    * Borrow features from other company offerings
+    * Accelerate offerings in the product pipeline and R&D
+    * Partner with or license from other firms
+    * Acquire another firm to fill a gap
+    * Devise a new feature set
+    * Design new subsystems and/or ancillary services
+    * Conceptualize the ultimate solution which gets the entire job done on a single platform
 
 ## Job Map
 
