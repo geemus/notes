@@ -24,7 +24,10 @@
     * Desired Outcome = "direction of improvement + performance metric (usually time or likelihood) + object of control (the outcome) + contextual clarifier (describing context in which outcome is desired)"
 3. Quantify the degree to which each need is under/overserved: predictive data = discover where it can be done better, discover where it can be done cheaper, quantify degree of over/underserving, and determine strength/weaknesses of competing solutions
 4. Discover hidden segments of opportunity = discover key variables, create clusters/segments, profile segments (from profile data in survey)
-    * Quantify under/overserved with likhert surveys similar to "When [job step], how important is it to you that you are able to: [outcome]" and "When using [solution] how satisfied are you with your ability to: [outcome]", where both questions are asked for each outcome.
+    * Utilizes likhert surveys for each outcome similar to:
+        * "When [job step], how important is it to you that you are able to: [outcome]"
+        * "When using [solution] how satisfied are you with your ability to: [outcome]"
+        * "How much value is derived from accomplishing [job step]?"
 5. Market Strategy = Align existing products with market opportunities (see also 'Growth Strategy Matrix'  below)
     * Align current offerings with outcome-based segments
     * Communicate the strengths of those products to customers in the target segment
@@ -58,6 +61,14 @@
 | 8: Conclude | finish the job or prepare to repeat it | store, finish, close | simplify the process of concluding |
 | Troubleshoot | how to resolve problems when they arise || make it easier to determine a resolution, limit blast radius, make it easier to know when a problem is fixed, and prevent problems at each step |
 
+## Measure Customer Progress
+
+* Measure whether the customer is:
+    1. Hiring our solution to get their job done.
+    2. Able to complete their job well.
+    3. Deriving value by completing their job using our solution.
+* Formulate improvement hypothesis of the form: "We believe that [type of customers] will be more successful while doing [job to be done] when we enable [outcome] by improving [functionality]. We expect to see [success criteria] as evidence of this improvement."
+
 ## Glossary
 
 ### Statement Syntaxes
@@ -86,3 +97,12 @@
 * Emotional jobs - how the job executor wants to be perceived or feel when executing the core functional job.
 * Consumption chain jobs - jobs that the product lifecycle support team is trying to execute such as installation, set up, storage, transportation, maintenance, repair, cleaning, upgrading, and disposing of the product.
 * Purchase decision job - job the purchase decision maker executes when using a financial lens to decide which product or service to acquire.
+
+### Useful Metrics
+
+* Net Promoter Score (NPS) - measure customer loyalty, calculated for different groups of users.
+* Net Adoption Score (NAS) - measure of product usage patterns, such as license utilization, messages sent, active use, etc. Categorizes customers into adoption cohorts.
+* Time spent using feature - measures engagement
+* Number of clicks on page - measures engagement
+* Monthly or daily active users - measures adoption and engagement
+* Number of minutes spent on a job - measures engagement and efficiency
