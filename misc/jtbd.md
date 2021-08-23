@@ -59,7 +59,7 @@
 | 6: Monitor | assess whether job is being successfully executed | verify, track, check | link monitoring with improved execution |
 | 7: Modify | make alterations to improve execution | update, adjust, maintain | reduce need to make alterations and number of alterations |
 | 8: Conclude | finish the job or prepare to repeat it | store, finish, close | simplify the process of concluding |
-| Troubleshoot | how to resolve problems when they arise || make it easier to determine a resolution, limit blast radius, make it easier to know when a problem is fixed, and prevent problems at each step |
+| Troubleshoot | resolve problems when they arise || make it easier to determine a resolution, limit blast radius, make it easier to know when a problem is fixed, and prevent problems at each step |
 
 ## Measure Customer Progress
 
@@ -106,3 +106,9 @@
 * Number of clicks on page - measures engagement
 * Monthly or daily active users - measures adoption and engagement
 * Number of minutes spent on a job - measures engagement and efficiency
+
+### See Also
+
+* [Outcome-Driven Innovation: JTBD Theory in Practice](https://jobs-to-be-done.com/outcome-driven-innovation-odi-is-jobs-to-be-done-theory-in-practice-2944c6ebc40e)
+* [The Customer-Centered Innovation Map](https://hbr.org/2008/05/the-customer-centered-innovation-map)
+* [Mapping the Job-to-be-Done](https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc)
