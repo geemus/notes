@@ -1,4 +1,4 @@
-# Functional Training and Beyond: Building the Uiltimate Superfunctional Body and Mind
+# Functional Training and Beyond: Building the Ultimate Superfunctional Body and Mind
 
 * SAID - Specific Adaptations to Imposed Demands
 * A(k)TSP(g) (or Ability Tree) - physical Attributes, knowledge, Traits, Skills, technique Proficiencies, and goals. Left is more foundational, and well set you up for further right.
