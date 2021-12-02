@@ -2,6 +2,35 @@
 
 * SAID - Specific Adaptations to Imposed Demands
 * A(k)TSP(g) (or Ability Tree) - physical Attributes, knowledge, Traits, Skills, technique Proficiencies, and goals. Left is more foundational, and well set you up for further right.
+* Central concept is progressive overload, by increasing acceleration, resistence, duration, etc. As far as motor unit recruitment goes, lifting 50-70% of 1RM as fast as possible is like lifting 80-90% at regular speed. Focusing on acceleration is sometimes referred to as the dynamic effort method.
+* Lifting at 90% of 1RM may be optimal for max and explosive starting strength, but this requires a lot of recovery and increases injury risk. So many recommend sticking to around 75-85% of 1RM most of the time.
+* Change your relationship with your environment by maintaining an intent to train and explore your movement.
+
+* Workouts
+  * Start with the traits that appeal to you and your goals, then create blocks of related exercise to use on their own or combine into longer workouts. As long as the overall weekly valume is optimal, the particular clustering doesn't matter.
+  * Focus on moves that give the most "bang for our buck", utilizing the strengths of moves from across many disciplines.
+  * Start with the lower volumes of complex/demanding moves like multi-joint, multi-planar or extremely heavy movements. Finish with higher volumes of simpler moves like closed-chain, light or isolated movements.
+  * Mechanical dropsets allow more endurance work by altering mechanics after failure is reached. ie push-ups to fail, then knee push-ups, etc.
+  * If building endurance is a priority, consider metcon circuits.
+
+* Polarized Training uses roughly 75% low intensity, 20% high intensity, and about 5% threshold training.
+* Low Instensity Steady State cardio or LISS, involves activity at around 70 percent of the maximum heart rate or below.
+  * strengthens the heart and develops Qmax (quantified maximal cardiac output) by allowing the heart to fully relax between beats. Building a stronger heart also leads to a lower resting heart rate as each beat is more effective.
+* High Intensity Interval Training or HIIT
+  * excellent for fat loss because it depletes available energy in muscles and bloodstream.
+  * shorter timeframe
+  * increases density of mitochondria, allowing more efficient energy production
+* Both LISS and HIIT improve V02 max
+
+* Cycles
+  * Total volume of weekly/monthly training may be the most important factor for hypertrophy. Once a week is likely suboptimal.
+  * Minimum volume is 2-5 sets to failure per muscle group per week, optimal is 9-18 sets and varies by muscle group.
+  * A set of workouts combine to create a microcycle. Microcycles combined with deloads (roughly once per 6 weeks) to create a macrocycle.
+  * Deload weeks can focus on mental training and/or mobility.
+  * Splits
+    * Some splits/programs: PPL (push-pull-legs), StrongLifts 5x5.
+    * You can target one muscle group, the entire body with less intensity but with greater frequency, or separate push/pull/leg and use PPL approach.
+    * Author prefers full-body with a focus. Many moves are inherently compound and multi-planar, so focusing could be limiting.
 
 * Three main stimuli for signaling hypertrophy: mechanical tension, muscle damage, and metabolic stress.
   * When muscle contracts strongly, growth factors such as myokines are released.
@@ -11,15 +40,19 @@
 * Myofibrillar hypertrophy is the increase in myofibril volume, whereas sarcoplasmic hypertrophy is "muscle swelling", where muscles appear larger without being stronger, but this may still increase strength endurance by providing a greater supply of energy.
 * Training (catabolism) provides stimulus, but recovery (anabolism) is when growth happens.
 
+* Three body energy systems: ATP creatine system (aka phosphocreatine system), Glycogen Lactic Acid System (aka Lactic Acid System, aka Glycolytic System), and Aerobic System
+* Energy systems are not mutually exclusive, your body is constantly using a combination for power.
+* Anaerobic threshold is where the switch happens from primarily aerobic to primarily anaerobic, and is directly linked to the number and efficiency of mitochondria.
+* Anaerobic threshold is roughly the point at which talking becomes very difficult (can be specifically determined through a grueling test).
+* "Lactate threshold" or "lactate inflection point" is the point at which lactate build-up outpaces the body's ability to take it away, and is distinct from anaerobic threshold.
+* Training at yoru anaerobic threshold increases your ability to generate energy efficiently, and also to deal with fatigue-inducing metabolites.
+
+* To work more on endurance, instead of increasing resistence, increase the number of reps as things get easier.
+* Metabolic conditioning switches between a host of movements while trying to sustain max output for thirty seconds at a time. This provides a way to combine endurance training with movements that provide other benefits. For example combining kettlebell swings, lizard crawls, and offset loaded carries also develops core stability, hip hinge, grip strength, mobility, etc.
+* Metabolic conditioning (metcon) circuits can also be designed to challenge the heart even more via "shunting" by switching between upper and lower body movements to force the body to drive blood up and then down the body.
+
 * Intensity techniques include: drop sets, burns, flush sets, negatives, supersets, assisted reps, partial reps, cheats, and pre-exhaust.
-* Total volume of weekly/monthly training may be the most important factor for hypertrophy. Once a week is likely suboptimal.
-* microcycles are the smallest unit of a training program (other than individual workouts).
-* Lifting at 90% of one-rep max may be optimum for building max strength and explosive starting strength, but this intensity requires a lot of recovery and has increased injury risk. So many recommend sticking to around 75-85% of one-rep max most of the time.
-* Some splits/programs: PPL (push-pull-legs), StrongLifts 5x5.
-* Besides resistance we can also increase acceleration, sometimes called "dynamic effort method". As far as motor unit recruitment goes, lifting 50-70% of one-rep max as fast as possible is like lifting 80-90% at regular speed.
 * Resistance bands or chains can also be used to adjust resistance at different points.
-* Central concept is progressive overload.
-* Strength adaptation works best when done cyclically, periodically backing off before progressing, known as periodization. Taken together, these harder and occasionally easier microcycles combine to for a macrocycle.
 * Addressing plateaus:
   * spend longer at a set weight (even when it is easy), but take a bigger jump once ready
   * take time to address weaknesses and issues in form
@@ -67,6 +100,15 @@
 * cold exposure releases testosterone, raises metabolism, enhances thermoregulation, and provides "discomfort training"
 * "mammalian diving response" dousing the face with cold water lowers heart rate by 10-25 percent and increases blood flow to vital organs.
 * MovNat - physical competency based on locomotive skills of walking, running, balancing, crawling, jumping, climbing and swimming; and manipulative skills of lifting, carrying, throwing and catching, and the defensive skills of striking and grappling. Most important principles are practicality and adaptability.
+* Lungs can be specifically trained by breathing through a straw or using inspiratory muscle training (IMT). Training masks offer similar effects.
+
+* Slowcomotion - Strength at Every Angle - Slow and Mechanically DisAdvantaged Movement SAMDAM
+  * Roughly four categories: Ground, Bipedal, Climbing, and Manipulation
+  * By moving slowly through complex movements and at difficult angles you train weak points and learn to move powerfully from any position.
+  * Manipulation uses an external submaximal load, moved in graceful, controlled patterns while standing, squatting, or even sitting.
+  * Can mix in explosive plyometrics (from stronger more stable positions) to break up the slow cadence or even overcoming isometrics.
+  * Overcoming Gravity Isometrics - move to a position where you can't lift your body. ie one-handed pseudo planche push-up, or attempt to "squeeze" the ground like a pec fly.
+  * Helps train angles and positions many movements can't to round things out.
 
 * Natural human mobility - your freedom of movement (positions your can reach through your own strength and control). Gain comfort by training in different positions. May be best to reach positions as part of more complex movement patterns. Try to focus on stretches that don't incorporate external resistence.
 * passive stretching can be used while working or reading, ie the resting squat
@@ -108,41 +150,6 @@
   * owl eyes or splatter vision: become aware of peripheral vision. Helps us stay calmer and be present. Can also be practiced via hakalau meditation.
 * mental challenge - break challenges into digestible chunks, practice nonreactivity. Train/practice doing things you don't want to do.
 
-* nootropics - somewhat dubious, what even is optimal? That being said, there are some things that are more common and helpful.
-* omega 3 for brain health
-* lutein + zeaxanthin - raising energy levels by increasing efficiency of mitochondria, increase visual processing speeds, and increases plasticity in infant brains. Also positive effects for spatial memory, reasoning, and more.
-* creatine - boost strength endurance and cognitive performance
-* seek a varied and nutritious diet
-
-* Three body energy systems: ATP creatine system (aka phosphocreatine system), Glycogen Lactic Acid System (aka Lactic Acid System, aka Glycolytic System), and Aerobic System
-* Energy systems are not mutually exclusive, your body is constantly using a combination for power.
-* Low Instensity Steady State cardio or LISS, involves activity at around 70 percent of the maximum heart rate or below.
-* High Intensity Interval Training or HIIT is excellent for fat loss because it depletes available energy in muscles and bloodstream.
-* HIIT also has the benefit of occurring in a shorter timeframe and increasing the density of mitochondria, allowing more efficient energy production.
-* Both LISS and HIIT also improve V02 max
-* Lungs can be specifically trained by breathing through a straw or using inspiratory muscle training (IMT). Training masks offer similar effects.
-* LISS is particularly effective at strengthening the heart and developing Qmax (quantified maximal cardiac output), because it allows the heart to fully relax between beats. Buliding a stronger heart also leads to a lower resting heart rate as eat beat is more effective.
-* Polarized Training uses roughly 80% low intensity, 20% high intensity, and a little bit of threshold training.
-* Anaerobic threshold is where the switch happens from primarily aerobic to primarily anaerobic, and is directly linked to the number and efficiency of mitochondria.
-* You can generally presume that the anaerobic threshold is the point at which talking becomes very difficult (or through a grueling test).
-* "Lactate threshold" or "lactate inflection point" is the point at which lactate build-up outpaces the body's ability to take it away, and though sometimes conflated with anaerobic threshold it is distinct.
-* Threshold training increases your ability to generate energy efficiently, and also to deal with fatigue-inducing metabolites.
-* A good target "ratio" for threshold training is suggested to be around 5%.
-* To work more on endurance, instead of increasing the amount of weight, consider increasing the number of reps as things get easier.
-* Metabolic conditioning switches between a host of movements while trying to sustain max output for thirty seconds at a time. This provides a way to combine endurance training with movements that provide other benefits. For example combining kettlebell swings, lizard crawls, and offset loaded carries also develops core stability, hip hinge, grip strength, mobility, etc.
-* Metabolic conditioning (metcon) circuits can also be designed to challenge the heart even more via "shunting" by switching between upper and lower body movements to force the body to drive blood up and then down the body.
-
-* Instead of three bodybuilding moves, maybe use a powerlifting, a movement-oriented, and a bodybuilding move. This could train max power, intramuscular coordination, and strength endurance/hypertrophy.
-* We should aim to select moves that give the most "bang for our buck".
-
-* Slowcomotion - Strength at Every Angle - Slow and Mechanically DisAdvantaged Movement SAMDAM
-  * Roughly four categories: Ground, Bipedal, Climbing, and Manipulation
-  * By moving slowly through complex movements and at difficult angles you train weak points and learn to move powerfully from any position.
-  * Manipulation uses an external submaximal load, moved in graceful, controlled patterns while standing, squatting, or even sitting.
-  * Can mix in explosive plyometrics (from stronger more stable positions) to break up the slow cadence or even overcoming isometrics.
-  * Overcoming Gravity Isometrics - move to a position where you can't lift your body. ie one-handed pseudo planche push-up, or attempt to "squeeze" the ground like a pec fly.
-  * Helps train angles and positions many movements can't to round things out.
-
 * Missing Attributes
   * Lateral rotation of shoulders, such as through face pulls (which don't provide that many other benefits, but few other things help with this area)
   * Thoracic spine mobility, particularly back bends. Can be addressed with back bridges, ponte, and/or Hindu squats.
@@ -151,24 +158,8 @@
   * finger strength. can be addressed through LaLanne and other finger push-ups
   * neck training
 
-* Routine Sequencing
-  * Start with the most complex/demanding movements, finish with simpler.
-  * Multi-join, multi-planar, or extremely heavy at the start. Closed-chain, light, or isolated at the end with higher volume.
-  * Mechanical dropsets alter mechanics mid-way through a set when failure is reached. ie push-ups to fail, then knee push-ups, etc
-  * If building endurance is a priority, consider metcon circuits.
-
-* Splits
-  * You can target one muscle group, the entire body with less intensity but with greater frequency, or separate push/pull/leg and use PPL approach.
-  * Author prefers full-body with a focus. Many moves are inherently compound and multi-planar, so focusing could be limiting.
-  * Deload/off weeks (roughly one per 6 weeks) can focus on mental training and/or mobility.
-
-* For non-athletes it doesn't make sunse to try and be the best at any one thing, and that different training methods can complement each other.
-* You can train with concurrent methods and still be much stronger than the average person and have much higher endurance.
-* To be healthier you need to look at your current routine and make space. Alternatively/additionally, look at how to improve your energy by addressing sleep, stress, etc.
-* Lifestyle changes: barefoot shoes, training outside when possible, cold showers, enhanced sleep.
-* Consider supplementing: Vitamin D, Omega 3, Lutein + Zeaxanthin, Creatine, Magnesium, Vitamin C, Ashwaghanda
-* Try to be either relaxing or training, it doesn't have to be intense (it's better if it isn't). One option is "micro-workouts" throughout the day.
-* Another strategy is to wake up muscles prior to a quick workout with pandiculation.
-
-* Instead of writing workouts, consider the traits that appeal to you, what matters and what are your goals. Then select exercises and techniques that relate to those traits. Take each of these blocks and either use them on their own or combine them into longer workouts. As long as you train each an optimal number of times each week, it doesn't matter how they are clustered.
-* Change your relationship with your environment by maintaining an intent to train and explore your movement.
+* nootropics - somewhat dubious, what even is optimal? That being said, there are some things that are more common and helpful.
+* omega 3 for brain health
+* lutein + zeaxanthin - raising energy levels by increasing efficiency of mitochondria, increase visual processing speeds, and increases plasticity in infant brains. Also positive effects for spatial memory, reasoning, and more.
+* creatine - boost strength endurance and cognitive performance
+* seek a varied and nutritious diet
