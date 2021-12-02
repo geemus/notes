@@ -12,16 +12,15 @@
   * Start with the lower volumes of complex/demanding moves like multi-joint, multi-planar or extremely heavy movements. Finish with higher volumes of simpler moves like closed-chain, light or isolated movements.
   * Mechanical dropsets allow more endurance work by altering mechanics after failure is reached. ie push-ups to fail, then knee push-ups, etc.
   * If building endurance is a priority, consider metcon circuits.
-
-* Polarized Training uses roughly 75% low intensity, 20% high intensity, and about 5% threshold training.
-* Low Instensity Steady State cardio or LISS, involves activity at around 70 percent of the maximum heart rate or below.
-  * strengthens the heart and develops Qmax (quantified maximal cardiac output) by allowing the heart to fully relax between beats. Building a stronger heart also leads to a lower resting heart rate as each beat is more effective.
-* High Intensity Interval Training or HIIT
-  * excellent for fat loss because it depletes available energy in muscles and bloodstream.
-  * shorter timeframe
-  * increases density of mitochondria, allowing more efficient energy production
-* Both LISS and HIIT improve V02 max
-
+* Intensity
+  * Polarized Training uses roughly 75% low intensity, 20% high intensity, and about 5% threshold training.
+  * Low Instensity Steady State cardio or LISS, involves activity at around 70 percent of the maximum heart rate or below.
+    * strengthens the heart and develops Qmax (quantified maximal cardiac output) by allowing the heart to fully relax between beats. Building a stronger heart also leads to a lower resting heart rate as each beat is more effective.
+  * High Intensity Interval Training or HIIT
+    * excellent for fat loss because it depletes available energy in muscles and bloodstream.
+    * shorter timeframe
+    * increases density of mitochondria, allowing more efficient energy production
+  * Both LISS and HIIT improve V02 max
 * Cycles
   * Total volume of weekly/monthly training may be the most important factor for hypertrophy. Once a week is likely suboptimal.
   * Minimum volume is 2-5 sets to failure per muscle group per week, optimal is 9-18 sets and varies by muscle group.
@@ -32,20 +31,21 @@
     * You can target one muscle group, the entire body with less intensity but with greater frequency, or separate push/pull/leg and use PPL approach.
     * Author prefers full-body with a focus. Many moves are inherently compound and multi-planar, so focusing could be limiting.
 
-* Three main stimuli for signaling hypertrophy: mechanical tension, muscle damage, and metabolic stress.
-  * When muscle contracts strongly, growth factors such as myokines are released.
-  * Damage occurs due to microtrauma, which the body often repairs by adding density to compensate and prevent further damage. The greatest amount of damage occurs during the lengthening (eccentric) phase of exercises.
-  * Contracting muscles has an occlusion effect, essentially trapping blood and allowing it to pool. This bathes muscles in growth factors, which increases growth via swelling (and possibly other mechanisms).
-  * Metabolic stress seems to be increased most in the shortening (concentric) phase of exercise. It is accomplished via higher repititions, leading to greater build-up of blood and metabolites.
-* Myofibrillar hypertrophy is the increase in myofibril volume, whereas sarcoplasmic hypertrophy is "muscle swelling", where muscles appear larger without being stronger, but this may still increase strength endurance by providing a greater supply of energy.
-* Training (catabolism) provides stimulus, but recovery (anabolism) is when growth happens.
-
-* Three body energy systems: ATP creatine system (aka phosphocreatine system), Glycogen Lactic Acid System (aka Lactic Acid System, aka Glycolytic System), and Aerobic System
-* Energy systems are not mutually exclusive, your body is constantly using a combination for power.
-* Anaerobic threshold is where the switch happens from primarily aerobic to primarily anaerobic, and is directly linked to the number and efficiency of mitochondria.
-* Anaerobic threshold is roughly the point at which talking becomes very difficult (can be specifically determined through a grueling test).
-* "Lactate threshold" or "lactate inflection point" is the point at which lactate build-up outpaces the body's ability to take it away, and is distinct from anaerobic threshold.
-* Training at yoru anaerobic threshold increases your ability to generate energy efficiently, and also to deal with fatigue-inducing metabolites.
+* Hypertrophy
+  * Three main stimuli for signaling hypertrophy: mechanical tension, muscle damage, and metabolic stress.
+    * When muscle contracts strongly, growth factors such as myokines are released.
+    * Damage occurs due to microtrauma, which the body often repairs by adding density to compensate and prevent further damage. The greatest amount of damage occurs during the lengthening (eccentric) phase of exercises.
+    * Contracting muscles has an occlusion effect, essentially trapping blood and allowing it to pool. This bathes muscles in growth factors, which increases growth via swelling (and possibly other mechanisms).
+    * Metabolic stress seems to be increased most in the shortening (concentric) phase of exercise. It is accomplished via higher repititions, leading to greater build-up of blood and metabolites.
+  * Myofibrillar hypertrophy is the increase in myofibril volume, whereas sarcoplasmic hypertrophy is "muscle swelling", where muscles appear larger without being stronger, but this may still increase strength endurance by providing a greater supply of energy.
+  * Training (catabolism) provides stimulus, but recovery (anabolism) is when growth happens.
+* Energy Systems
+  * Three body energy systems: ATP creatine system (aka phosphocreatine system), Glycogen Lactic Acid System (aka Lactic Acid System, aka Glycolytic System), and Aerobic System
+  * Energy systems are not mutually exclusive, your body is constantly using a combination for power.
+  * Anaerobic threshold is where the switch happens from primarily aerobic to primarily anaerobic, and is directly linked to the number and efficiency of mitochondria.
+  * Anaerobic threshold is roughly the point at which talking becomes very difficult (can be specifically determined through a grueling test).
+  * "Lactate threshold" or "lactate inflection point" is the point at which lactate build-up outpaces the body's ability to take it away, and is distinct from anaerobic threshold.
+  * Training at yoru anaerobic threshold increases your ability to generate energy efficiently, and also to deal with fatigue-inducing metabolites.
 
 * To work more on endurance, instead of increasing resistence, increase the number of reps as things get easier.
 * Metabolic conditioning switches between a host of movements while trying to sustain max output for thirty seconds at a time. This provides a way to combine endurance training with movements that provide other benefits. For example combining kettlebell swings, lizard crawls, and offset loaded carries also develops core stability, hip hinge, grip strength, mobility, etc.
