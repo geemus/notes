@@ -6,6 +6,8 @@
 * Lifting at 90% of 1RM may be optimal for max and explosive starting strength, but this requires a lot of recovery and increases injury risk. So many recommend sticking to around 75-85% of 1RM most of the time.
 * Change your relationship with your environment by maintaining an intent to train and explore your movement.
 
+## Programming
+
 * Workouts
   * Start with the traits that appeal to you and your goals, then create blocks of related exercise to use on their own or combine into longer workouts. As long as the overall weekly valume is optimal, the particular clustering doesn't matter.
   * Focus on moves that give the most "bang for our buck", utilizing the strengths of moves from across many disciplines.
@@ -31,6 +33,8 @@
     * You can target one muscle group, the entire body with less intensity but with greater frequency, or separate push/pull/leg and use PPL approach.
     * Author prefers full-body with a focus. Many moves are inherently compound and multi-planar, so focusing could be limiting.
 
+## Mechanics
+
 * Hypertrophy
   * Three main stimuli for signaling hypertrophy: mechanical tension, muscle damage, and metabolic stress.
     * When muscle contracts strongly, growth factors such as myokines are released.
@@ -46,6 +50,8 @@
   * Anaerobic threshold is roughly the point at which talking becomes very difficult (can be specifically determined through a grueling test).
   * "Lactate threshold" or "lactate inflection point" is the point at which lactate build-up outpaces the body's ability to take it away, and is distinct from anaerobic threshold.
   * Training at yoru anaerobic threshold increases your ability to generate energy efficiently, and also to deal with fatigue-inducing metabolites.
+
+## Ideas and Inspiration
 
 * To work more on endurance, instead of increasing resistence, increase the number of reps as things get easier.
 * Metabolic conditioning switches between a host of movements while trying to sustain max output for thirty seconds at a time. This provides a way to combine endurance training with movements that provide other benefits. For example combining kettlebell swings, lizard crawls, and offset loaded carries also develops core stability, hip hinge, grip strength, mobility, etc.
