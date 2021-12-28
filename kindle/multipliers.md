@@ -17,6 +17,7 @@
   * Look into people and find capability, expect great things, and drive them to extraordinary results.
   * Don't shrink so that others can be big, they play in a way that invites others to play big too.
   * Don't take themselves or situations too seriously.
+  * Get, on average, twice the capability from someone they lead.
 * Diminishers:
   * Intelligence is elite and scarce, and other people will never figure things out without help.
   * See intelligence as something basic/static about people.
@@ -114,9 +115,142 @@
 
 ## Debate Maker
 
-
+* Make decisions by first engaging in debate - not only to achieve sound decisions, but also to develop collective intelligence and to ready their orgs to execute.
+* Focus not on what they know, but on how to know what others know. Operate on an assumption that with enough good minds, we can figure it out.
+* Creating debate is easy, creating rigorous debat requires a deliberate approach. Well-crafted frame has four parts:
+  * The Question: What is the decision to be made? What are we choosing between?
+  * The Why: Why is this an important question to answer? Why does the decision warrant collective input anddeate? What happens if it is not addressed?
+  * The Who: Who will be involved in making the decision? Who will give input?
+  * The How: How will the final decision be made? Will it be made by majority rule? Consensus? Or will you (or someone else) make the final decision after others provide input and recommendations?
+* Framing an issue well lets the team know where to focus. They know what is in and out of bounds.
+* A common mistake is to debate a topic rather than a question. The most productive debates answer well-defined questions with clear, often mutually exclusive options.
+* Teams often come to the soundest decisions when they come in having an established, clear opening position.
+* Great debate is:
+  * Engaging: The question is compelling and important to everyone in attendance.
+  * Comprehensive: The right information is shared to generate a holistic and collective understanding of the issues at hand.
+  * Fact Based: Debate is deeply rooted in fact, not opinion.
+  * Educational: People leave the debate more focused on what they learned than on who won or lost.
+* Two key elements to great debate: Creating safety and demanding rigor.
+* Demand rigor by:
+  * Asking questions that challenge conventional thinking.
+  * Ask qusetions that unearth assumptions that are holding the organization back.
+  * Ask questions that cause the team to think harder and dig deeper.
+  * Ask for evidence.
+* Pursue all sides of the issue. If agreement is moved toward too quickly, step back and ask for the other point of view to be argued.
+* After asking people to come prepared with an opening position, consider having them drop this and argue the opposite.
+* May relish debate, but only in pursuit of a sound decision. Ensure this by:
+  * Reclarifying the decision-making process.
+  * Make the decision or explicitly delegate it to someone to decide.
+  * Communicate the decision and the rationale.
+* Answer questions such as:
+  * Are we making the decision right now, or do we need more information?
+  * Is this a team decision, or will the leader make the final call? If it is a team decision, how will we resolve any differing views?
+  * Has anything that has surfaced in the debate altered the decision-making process?
+* Generate nad leverage collective thinking. May seek full consensus, but equally comfortable making the final decision.
+* As people watch debate, they come to a better understandinfg of the issue. When decisions are reached, people at all levels are ready to execute. Makes communicating decisions and rationale easier because org is already prepared to move forward.
+* Rules of shared inquiry:
+  * Discussion leader only asks questions.
+  * Students must supply evidence to support their theories.
+  * Everyone participates.
+  * (optionally) Ask people to switch positions.
+* Let people weigh in, and they will give you uy-in.
+* Debating issues up front leads to sound decisions that people understand and can execute efficiently.
+* Practices of debate maker:
+  * Frame the issue:
+    * Define the question.
+    * Form the team.
+    * Assemble the data.
+    * Frame the decision.
+  * Spark the debate:
+    * Create safety for best thinking.
+    * Demand rigor.
+  * Drive a sound decision:
+    * Reclarify the decision-making process
+    * Make the decision
+    * Communicate the decision and rationale
+* Ask for deate with four asks: ask the hard questions, ask for evidence, ask everyone, and ask people to switch.
+* Diminishers:
+  * Bring issues/decisions to others' attention, but don't frame it in a way that allows others to contribute. Focus on what of decision, rather than how or why.
+  * Tend to dominate discussion/debate with their own ideas.
+  * Rather than driving sound decisions, tend to force decisions either by relying heavily on their own opinion or by shortcutting rigorous debate.
+  * At first glance, may appear to be making efficient decisions, however it leaves the broader organization in the dark (not understanding assumptions/facts). Lacking clarity, people turn to debating the soundness of a decision rather than executing it.
 
 ## Investor
+
+* Invest is success of others. May jump in to teach and share ideas, but always return to accountability.
+* When leaders fail to return ownership, they create dependent organizations.
+* Enables others to operate independently by giving ownership of results and investing in success. Ensure people on teams are self-sufficient and can operate without direct leader presence.
+* Infuse others with resources and ownership needed to produce results independent of the leader. Not just benevolence, they expect results.
+* "A leader is someone who helps others lead"
+* Give ownership for the end goal. See intelligence and capaility in people and put them in charge. Give someone 51 percent of the vote and full ownership to create certainty and build confidence. Enables them to stop second-guessing and start getting second opinions.
+* When given ownership or only a piece, people tend to optimize that portion, limiting their thinking to this immediate domain. When given ownership for the whole, they stretch their thinking and challenge themselves to go beyond their scope.
+* By stretching a role you create a vacuum that much be filled and stretch the person in it.
+* As soon as ownership is established, step in and start investing. Protect the investment by infusing the knowledge and resources needed to deliver on their accountaility.
+* Teach and Coach.
+* Diminishers tell you what they know; multipliers help you learn what you need to know.
+* Provide backup, ensure a safety net is in place, a planned backup that can be gone to for advice on how to recover gracefully.
+* Hold people accountable. Offer suggestions, ask questions and highlight/escalate critical issues, but ensure accountaility remains with staff
+* Investors get involved in other's work, but continually give back leadership and accountability.
+* "You're smart. You figure it out." Validate ideas and give back onus for solving to them.
+* Expect Complete Work. Offer solutions, not just problems. Never do anything for other people the they can do for themselves.
+* Respect Natural Consequences. When we protect people from the ramifications of their actions, we stunt their learning. Real intelligence gets developed through experimentation and by trial and error. Also allow people to experience the full force of their success.
+* Manage the work, not do the work.
+* Becoming an investor:
+  * Give 51% of the vote
+  * Let nature take it's course:
+    * Let it happen.
+    * Talk about it.
+    * Focus on next time.
+  * Ask for the F-I-X - ask for the complete though process and a fix. Use simple questions like: What solution(s) do you see to this problem? How would you propose we solve this? What would you like to do to fix this?
+  * Give it back - Use statements like: I'm happy to help think this through, but I'm still looking to you to lead this going forward. You are still the lead on this. I'm here to back you up; What do you need from me as you lead this?
+* Diminishers:
+  * Maintain Ownership - dole out piecemeal tasks, but not real responsiility.
+  * Jump In and Out - hand over work, but take it back the moment problems arise.
+  * Take it Back
+
 ## Accidental Diminisher
+
+* Idea Guy:
+  * Believes the more ideas they toss around, the more ideas they will spark in others.
+  * But as soon as progress in made on yesterday's ideas, the next day brings new idea du jour.
+  * As they chase leader's ideas, they will stop coming up with their own.
+* Always On:
+  * Assumes energy is contagious, but enervates rather than energizing.
+  * Often suppresses introverts while allowing action-oriented extroverts to dominate.
+  * If the leader is always on, everyone else is always off.
+* Rescuer:
+  * When managers help too soon and too often, others become dependent and helpless.
+  * Sometimes we are most helpful when we don't help.
+* Pacesetter:
+  * Sometimes the faster we run, the slower others walk. When leaders set the pace, they are more likely to create spectators than followers.
+* Rapid Responder:
+  * tend to generate low-grade apathy instead of agility.
+  * Others will be slow to respond if they think someone else is already "on it".
+  * Not only will the leader be the first and only one to respond, they will be the only one growing.
+* Optimist:
+  * When the leader sees only the upside, others can become preoccupied with the downside.
+  * Sometimes others want acknowledgement of the challeng and recognition of the struggle.
+* Protector:
+  * If people are always protected from danger, they never learn to fend for themselves.
+* Strategist:
+  * People spend time second-guessing what the boss wants rather than finding answers themselves.
+  * If you have a reputation as a big thinker, don't be surprised if people save the big thinking for you.
+* Perfectionist:
+  * May see an A+ in progress, but others see nothing but red marks and blue tape all over.
+* Self-awareness as a leader comes from understanding the perspectives of those we lead and serve, the "customers" of our leadeship. Learning can start with insight, but can't end there.
+* Questions to elicit feedback:
+  * How might I be shutting down the ideas and action of others, despite having the best of intentions?
+  * What am I inadvertently doing that might be having a diminishing impact on others?
+  * How might my intentions be interpreted diferently by others? What messages might my actions actually be conveying?
+  * What could I do differently?
+* Leading with intention starts with understanding how natural tendencies can take us down the wrong path. Great habits and seemingly strong traits can go awry and become vulnerabilities.
+* Holding back doesn't express indifference, but rather a vote of confidence.
+* Even the best leaders have blind spots. After identifying yours, work with your team to develop a set of signals and workarounds.
+* Do less and challenge more. Becoming a multiplier often starts with becoming less of a diminisher. This often means doing less: less talking, less responding, less convincing, and less rescuing of others who need to struggle and learn for themselves.
+* Althought leaders may view their leadership through the lens of positive intentions, staff perceive the same behaviour only by its negative consequences.
+
 ## Dealing with Diminishers
+
+* Don't wait for perfect behavior, celebrate anything in the right direction.
+
 ## Becoming a Multiplier
