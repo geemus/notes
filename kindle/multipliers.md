@@ -252,5 +252,67 @@
 ## Dealing with Diminishers
 
 * Don't wait for perfect behavior, celebrate anything in the right direction.
+* Be wary of doubling down when threatened or when your ideas are not heard.
+* The best way out of diminishing is to lead like a multiplier yourself.
+* Instead of responding with criticism and avoidance, respond with intellectual curiosity.
+* Strategies:
+  * It's not necessarilly about you.
+  * Diminishing isn't inevitable.
+  * You can lead your leader.
+* Level 1: Defenses Against the Dark Arts of Diminishing Managers
+  * Turn Down the Volume - It's easy to assume our contribution isn't being valued; however, in reality, they probably just value their own contribution more.
+  * Strengthen Other Connections
+  * Retreat and Regroup - Instead of attempting to win, just stay in the game.
+  * Send the Rigth Signals - Primary cause of micromanaging is a concern that something won't get completed fully or correctly.
+  * Assert Your Capaility - Sometimes you just need to tell someone that you don't need help.
+  * Ask for Performance Intel - When things get prescriptive, ask to back up and get more context and direction.
+    * What is the target, and why is it important?
+    * Am I actually hitting the target?
+  * Shop for a New Boss - Note, if you keep being surrounded by diminishers, it may partly be you.
+* Level 2: Multiplying Up
+  * Exploit Your Boss's Strengths
+  * Give Them a User's Guide - Broadcast your capabilities to help colleagues understand, or simply tell them what you are good at and how you can best be used. Give your genious a name and outline specific ways it can be put to work. If you want to work at your highest point of contribution, you need to let people know your value.
+  * Listen to Learn - Instead of going into battle, look for common ground.
+  * Admit Your Mistakes - Set the tone by admitting mistakes, sharing learning, and letting the boss know you are smarter each time.
+  * Sign Up for a Stretch - Send signals that you are ready to tackle a challenge that is a size too big.
+  * Invite Them to the Party - When blocked, diminishers work even more aggressively to insert themselves. Transparency signals that all is well and you have nothing to hide. By initiating you maintain more control over how the boss contributes/engages, minimizing bungee-boss dynamics.
+* Level 3: Inspiring Multiplier Leadership in Others
+  * Assume Positive Intent
+  * Address One Issue at a Time - If we unload all our frustrations, diminishers may feel attacked and retreat to what they know best, shutting down ideas that are not their own.
+  * Celebrate Progress - Give yourself permission to be better than your boss, and watch the organization take notice.
+* You can break the spiral by better asserting your capabilities or becoming the leader you wish you had.
 
 ## Becoming a Multiplier
+
+* Near universal three-step reaction to Multipliers: Resonance, realization of accidental diminishing, and resolve to be a multiplier.
+* Accelerators:
+  * Start with the Assumptions
+  * Work the Extremes - Zenger-Folkman study demonstrates leaders don't need to be good at everything. They need mastery of a small number of skills and a lack of showstopping weaknesses. Focus on the extremes of neutralizing weaknesses and topping off strengths.
+  * Run an Experiment
+  * Brace Yourself for Setbacks - Be kind to yourself as you continue to make mistakes and share your strategy with colleagues who are likely to encourage you along the way.
+  * Ask a Colleague - Let a colleague choose your experiment for you. ie If I want to bring out the best in those I lead, which experiment would help me most?
+* Encourage and coach self-assessment and adjustment. New beliefs need reinforcement and validation, focus on celebrating and sharing progress.
+* Strong cultures have these traits:
+  * Common language - Words and phrases that hold common meaning within a community based on opinions, principles and values.
+  * Learned behaviors - A set of learned responses to stimuli.
+  * Shared beliefs - The accetpance of something as true.
+  * Heroes and legends - People who are admired or idealized for their qualities, behavior, and/or achievements and the stories told about their heroic actions.
+  * Rituals and norms - Consistent behavior regularly followed by an individual or a group.
+* When new ideas become new norms, you have cultivated a sustainable culture.
+* Building Deep Culture
+  * Common Language
+    * Hold a book talk.
+    * Discuss accidental diminishers.
+  * Learned Behavior
+    * Introduce Multiplier mindsets.
+    * Teach Multiplier skills.
+    * Fuse Multipliers with daily decisions.
+  * Shared Beliefs - Peaks and perimeters are defined. People know what earns hero status and what gets kicked out. Core beliefs aout leadership should be defined and validated more frequently than violated.
+    * Codify a leadership ethos.
+    * Spotlight Multiplier moments - don't need to wait for an award, spotlight efforts along the way.
+    * Measure managers.
+  * Rituals and Norms
+    * Pilot a Multiplier practice.
+    * Integrate practices with business metrics.
+* Successful implementations typically start in the middle. When execs notice positive outcomes they are quick to join. Start small and build a series of wins.
+* Draw on the power of community to spark and sustain momentum, especially when you encounter setbacks.
