@@ -54,3 +54,20 @@
 
 ## Timing, Strategic Procrastination, and the First-Mover Disadvantage
 
+* Shin proposed that putting off a task buys you time to engage in divergent thinking, rather than foreclosing on one particular idea.
+* Bluma Zeigarnik demonstrated that people have better memory for incomplete than complete tasks. Once finished we stop thinking about it, but when interrupted and left undone, it stays active in our mind.
+* Procrastinating also keeps us open to improvisation. When we plan in advance, we often stick to the structure we've created, closing the door to creative possibilities that  might spring into view.
+* Great originals are great procrastinators, but they don't skip planning altogether. They procrastinate strategically, making gradual progress by testing and refining different possibilities.
+* Lisa Bolton summarizes that first-mover advantage is truly in particular industries but is not supported by the research in the general case. First-mover advantage tends to prevail when patented technology is involved, or when there are strong network effects.
+* Being original doesn't require being first, just being different and better.
+* First, when originals rush to be pioneers, they're prone to overstep. When a market is more defined, settlers enter and can focus on superior quality instead of deliberating what to offer in the first place.
+* Second, people who choose to be late movers may be better suited to succeed as they balance their risk portfolios and wait for the right opportunity before entering.
+* Third, along with being less recklessly ambitious, settlers can improve upon competitors' tech to make products better.
+* Fourth, pioneers tend to get stuck in their early offerings, settlers can observe market changes and shifting consumer tastes and adjust.
+* As Max Planck observed, "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die."
+* When a market is uncertain, unknown, or underdeveloped, benig a pioneer has pronounced disadvantages.
+* Just as procrastinating can give task flexibility, delaying market entry can open us to learning and adaptability, and reduce risks asseciated with originality.
+* Galenson identified two styles of innovation. Conceptual innovators are sprinters, formulating big ideas and setting out to execute them. Experimental innovaters are marathoners, solving problems through trial and error, learning and evolving as they go.
+* To sustain originality as we age and accumulate expertise, our best bet is to adopt an experimental approach. We can make fewer plans in advance and test out tentative ideas and solutions. With enough patience we may stumble upon something novel and useful.
+
+## Creating and Maintaining Coalitions
