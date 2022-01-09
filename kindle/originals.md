@@ -54,11 +54,11 @@
 
 ## Timing, Strategic Procrastination, and the First-Mover Disadvantage
 
-* Shin proposed that putting off a task buys you time to engage in divergent thinking, rather than foreclosing on one particular idea.
-* Bluma Zeigarnik demonstrated that people have better memory for incomplete than complete tasks. Once finished we stop thinking about it, but when interrupted and left undone, it stays active in our mind.
+* Putting off a task buys you time to engage in divergent thinking, rather than foreclosing on one particular idea. (via Shin)
+* People have better memory for incomplete than complete tasks. Once finished we stop thinking about it, but when interrupted and left undone, it stays active in our mind. (via Bluma Zeigarnik)
 * Procrastinating also keeps us open to improvisation. When we plan in advance, we often stick to the structure we've created, closing the door to creative possibilities that  might spring into view.
 * Great originals are great procrastinators, but they don't skip planning altogether. They procrastinate strategically, making gradual progress by testing and refining different possibilities.
-* Lisa Bolton summarizes that first-mover advantage is truly in particular industries but is not supported by the research in the general case. First-mover advantage tends to prevail when patented technology is involved, or when there are strong network effects.
+* The first-mover advantage is truly in particular industries but is not supported by the research in the general case. First-mover advantage tends to prevail when patented technology is involved, or when there are strong network effects. (via Lisa Bolton)
 * Being original doesn't require being first, just being different and better.
 * First, when originals rush to be pioneers, they're prone to overstep. When a market is more defined, settlers enter and can focus on superior quality instead of deliberating what to offer in the first place.
 * Second, people who choose to be late movers may be better suited to succeed as they balance their risk portfolios and wait for the right opportunity before entering.
@@ -67,7 +67,25 @@
 * As Max Planck observed, "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die."
 * When a market is uncertain, unknown, or underdeveloped, benig a pioneer has pronounced disadvantages.
 * Just as procrastinating can give task flexibility, delaying market entry can open us to learning and adaptability, and reduce risks asseciated with originality.
-* Galenson identified two styles of innovation. Conceptual innovators are sprinters, formulating big ideas and setting out to execute them. Experimental innovaters are marathoners, solving problems through trial and error, learning and evolving as they go.
+* Two styles of innovation. Conceptual innovators are sprinters, formulating big ideas and setting out to execute them. Experimental innovaters are marathoners, solving problems through trial and error, learning and evolving as they go. (via Galenson)
 * To sustain originality as we age and accumulate expertise, our best bet is to adopt an experimental approach. We can make fewer plans in advance and test out tentative ideas and solutions. With enough patience we may stumble upon something novel and useful.
 
 ## Creating and Maintaining Coalitions
+
+* Even though they share a fundamental objective, radical groups often disparage more mainstream groups as imposters and sellouts, a concept known as horizontal hostility (via Judith White).
+* In seeking alliances with groups that share our values, we overlook the importance of sharing our strategic tactics. Even if they care about different causes, groups find affinity when they use the same methods of engagement.
+* Simon Sink argues if we want to inspire, we should start with why. If we communicate the vision behind our ideas, and purpose guiding our products, people will flock to us. When you are communicating something that challenges the status quo, though, you have to be careful about how you communicate your why.
+* To succeed, originals often must become tempered radicals (via Debra Meyerson and Maureen Scully). Shifting from why to how can help people become less radical.
+* By opening with moderate asks instead of radical ones, what Robert Cialdini calls the foot-in-the-door technique, you can gain allies.
+* Coalitions often fall apart when people refuse to moderate their radicalism.
+* Movements need to draw in more casual participants if they are to succeed.
+* Insiders and outsiders have distinct ideas about who represents a coalition (via Blake Ashforth and Peter Reingen). For insiders, the key representitive is whomever is most central and connected. For outsiders, the key representative is the person with the most extreme views.
+* Enemies make better allies than frenemies. We need to tease apart how positive and how negative a relationship is. Ambivalent relationships are literally unhealthier than negative relationships (via Bert Uchino). Intuition suggests we should sever bad relationships and salvage ambivalent ones, but evidence suggests the opposite: cut out frenemies and attempt to convert enemies.
+* Experiments suggest that we're often more sensitive to gains and losses in esteem than the level of esteem itself (via Elliot Aronson).
+* If we convert enemies, avoiding cognitive dissonance will motivate them to maint a positive relationship.
+* Our former adversaries are often the most effective a persuading others to join. They can marshall better arguments because they understand the doubts and misgivings, making them a more credible source.
+* Our starting point in generating ideas shapes the path, constraining what we imagine.
+* To come up with something original, we need to begin from a more unfamiliar place. But more novel starting points don't necessarily make them palatable and practical to our audiences. The most promising ideas begin with novelty then add familiarity, capitalizing on the mere exposure effect.
+* Conflicts between two groups are often caused and intensified by conflicts within the group (via Herbert Kelman). To build coalitions you need doves in each group to sit down, listen to each other's perspectives, identify common goals/methods, and engage in join problem solving.
+
+## How Siblings, Parents, and Mentors Nurture Originality
