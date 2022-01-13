@@ -173,3 +173,49 @@
 * Becoming original is not the easiest path to happiness, but it leaves us poised for the happiness of pursuit.
 
 ## Actions for Impact
+
+* Individual Actions:
+  * Generating and Recognizing Original Ideas:
+    * Question the default.
+    * Triple the number of ideas you generate.
+    * Immerse yourself in a new domain.
+    * Procrastinate strategically.
+    * Seek more feedback from peers.
+  * Voicing and Championing Original Ideas:
+    * Balance your risk portfolio.
+    * Highlight the reasons not to support your idea.
+    * Make your ideas more familiar.
+    * Speak to a different audience - Instead of seeking out friendly people who share your values, try approaching disagreeable ones who share your methods.
+    * Be a tempered radical - If your idea is extreme, couch it in a more conventional goal.
+  * Managing Emotions:
+    * Motivate yourself differently when you're commited by focusing on what remains vs uncertain by focusing on progress so far.
+    * Don't try to calm down - It's easier to turn anxiety into intense positive emotions like interest and enthusiasm.
+    * Focus on the victim, not the perpetrator.
+    * Realize you're not alone.
+    * Remember that if you don't take initiative, the status quo will persist. Four responses to dissatisfaction are: exit, voice, persistence, and neglect. Only exit and voice improve your circumstances.
+* Leader Actions:
+  * Sparking Original Ideas:
+    * Run an innovation tournament - instead of a suggestion box, send a call for ideas to solve a particular problem or meet an untapped need.
+    * Picture yourself as the enemy - create urgency by implementing the "kill the company" exercise from Lisa Bodell, CEO of futurethink.
+    * Invite employees from different functions and levels to pitch ideas.
+    * Hold an opposite day - divid into groups and have each choose an assumption, belief, or area of knowledge that is widely taken for granted. Each group asks, "When is the opposite true?" and delivers a presentation.
+    * Ban the words like, love, and hate. Instead insist on an explanation of the reasoning behind it.
+  * Build Cultures of Originality:
+    * Hire not on cultural fit, but on cultural contribution.
+    * Shift from exit interviews to entry interviews - instead of waiting to ask for ideas until employees are on their way out, start seeking their insights when they first arrive. Ask what brought them in the door and what would keep them at the firm, and challenge them to think like cultural detectives. They can use their insider-outsider perspective to investigate what belongs in a musueam and what should be kept, as well as potential inconsistencies between espoused and enacted values.
+    * Ask for problems, not solutions.
+    * Stop assigning devil's advocates and start unearthing them - To identify them, appoint an information manager, someone responsible for seeking out team members individually before meetings to find out what they know.
+    * Welcome criticism.
+* Parent and Teacher Actions:
+  * Ask children what their role models would do.
+  * Link good behaviors to moral character - If you see a child do something good, try saying "You're a good person because you ..." Children are also more ethical when asked to be moral, they want to eran the identity.
+  * Explain how bad behaviors have consequences for others.
+  * Emphasize values over rules.
+  * Create novel niches for children to pursue - ie Jigsaw Classroom brings students together for a group project and assigns each a unique part.
+
+## Index
+
+* When groups are instructed to rank order alternatives, instead of choosing the best one, they're more likely to consider each option, share information about unpopular ones, and make a good decision. (Andrea Hollingshead)
+* Negative thoughts can direct our attention to potential problems, and the absense of those thoughts predicts a failure to take preventative and corrective action.
+* Expressing our thoughts and feelings about stressful or traumatic events is most salutary after we've had some time to process, when we are no longer blinded by anger or consumed by distress. (James Pennebaker)
+
