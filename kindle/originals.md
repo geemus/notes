@@ -142,3 +142,34 @@
 * "Shapers" are independent thinkers: curious, non-conforming, and rebellious. They practice brutal, nonhierarchical honesty. They act in the face of risk, because their fear of not succeeding exceeds their feel of failing. The greatest shapers don't stop at introducing originality to the world. They create cultures that onleash originality in others.
 
 ## Managing Anxiety, Apathy, Ambivalence, and Anger
+
+* Those who aced emotion regulation tests spoke up more often with ideas and suggestions to challenge the status quo--and their managers rated them as more effective in doing so.
+* Two strategies for handling challenges: (Julie Norem)
+  * strategic optimism: anticipate the best, stay calm and set high expectations.
+  * defensive pessimists: expect the worst, feel anxious and imagine what can go wrong. Although more anxious and less confident, perform just as well as strategic optimists, thanks to a realistic appraisal and exhaustive plan.
+* Rather than trying to suppress a strong emotion, it's easier to convert it to a different, equally intense emotion. ie "I am excited" when we feel anxious. (Brooks)
+* Fear is marked by uncertainty and the fear something bad will happen. But because it hasn't occurred, something good could happen too.
+* When we are not yet committed, thinking like a defensive pessimist can be hazardous. But once we have chose a course of action, it's better to confront them directly as a defensive pessimist might.
+* Originality brings more bumps in the road, yet leaves us with more happiness and a greater sense of meaning.
+* The most inspiring way to convey a vision may be to outsource it to the people who are actually affected by it. (Dave Hoffmann and Adam Grant) ie have a leader describe a vision and then invite a customer to bring it to life with a personal story. The leader provides an overarching vision which the user bolters with emotional appeal.
+* Flying solo with an opinion can make even committed originals fearful enough to conform to the majority. The easiest way to encourage non-conformity is to introduce a single dissenter. Merely knowing you are not alone makes it much easier to reject the crowd.
+* Just having one friend is enough to significantly decrease loneliness (Sigal Barsade and Hakan Ozcelik).
+* If you want people to go out on a limb, you need to show them that they're not alone. ie resistance movements help people overcome fear by providing small actions they can do to signal support of a larger group. It's easier to rebel when it feels like an act of conformity. Other people are involved, so we can join, too.
+* Humor is an effective weapon against fear, it's hard to be afraid of speaking up when you're laughing at the target of your rebellion. (Popovic) Effective humor puts oppressors in a lose-lose situation.
+* We tend to be risk averse in the domain of benefits, when we have certain gain, we like to hold and protect it. But if presented with a guaranteed loss, we're willing to do whatever it takes to avoid the loss, even if it means risking an even bigger one.
+* In trying to modify behavior, is it better to highlight benifits of changing or costs of not changing? If they think the behavior is safe, we should emphasize the benefits--they'll want to act to gain. But if they believe it is risky, we need to destabilize the status quo and accentuate the bad things that will happen if they don't change. Taking a risk is more appealing when faced with a guaranteed loss if they don't. (Peter Salovey)
+* The "kill the company" exercise is powerful because it reframes a gain-fraimed activity in terms of losses. When deliberating innovation opportunities, the leaders weren't inclined to take risks. When considering how they could be put out of business instead, they realized it was a risk not to innovate. The urgency of innovation became apparent.
+* If you want people to take risks, you need to show them what's wrong with the present. You have to drive them out of their comfort zones, cultivating dissatisfaction, frustration, or anger at the current state, making it a guaranteed loss.
+* The greatest communicators establish the status quo and then compare it to what could be, making that gap as big as possible. (Nancy Duarte)
+* The audience was only prepared to be moved by MLKs dream of tommorow after he had exposed the nightmare of today.
+* When experiencing doubt on the way toward a goal, our next step depends on our commitment. When commitment is wavering, the best way to stay on track is to look back at the progress already made. Once commitment is fortified, however, it's best to look forward and highlight the work that remains. When determined to reach the objective the gap is what lights a fire under us.
+* Instead of courage, foster a level of fury with the status quo such that one cannot not act. (Tom Peters)
+* Anger counteracts apathy: We feel that we've been wronged, and we're compelled to fight. But it can also go too far.
+* We should seek to be simultaneously hot-headed, fueling action and change, and cool-headed to shape action into legitimate and viable forms. (Debra Meyerson and Maureen Scully)
+* If you are feeling intense emotions like anxiety or anger, there are two ways to manage it: surface acting, where you put on a mask, modifying speech/gestures/expressions to appear unfazed; or deep acting, where you change your inner feelings also, and not just the outer expression (like method acting). Research shows that deep acting is more sustainable, whereas surface acting burns us out. (Arlie Hochschild)
+* Venting doesn't extinguish anger, it feeds it. The better you feel after venting, the more aggresive you get toward your critic, but also bystanders. (Bushman)
+* One of the major problems with venting is that it focuses attention on the perpetrator of injustice. To channel anger productively, we should instead reflect on the victims who have suffered from it. Focusing on victims of injustice spurs us to speak truth to power (Andrew Brodsky, Joshua Margolis, Joel Brockner). Focusing on the viction activates empathetic anger--the desire to right wrongs done unto others. It activates us while also making us thoughtful about respeting the victim's dignity.
+* Research demonstrates that when we are angry at others, we aim for retaliation or revenge. But when we are angry for others, we seek justice and a better system.
+* Becoming original is not the easiest path to happiness, but it leaves us poised for the happiness of pursuit.
+
+## Actions for Impact
