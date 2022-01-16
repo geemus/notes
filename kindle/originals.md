@@ -130,6 +130,7 @@
 * Cultures that focus too heavily on solutions become cultures of advocacy, dampening inquiry. If you are expected to have an answer ready, you'll arrive with diagnosis complete, missing out on the chance to incorporate other perspectives. When members have different information, inquiry needs to preced advocacy. You need to raise problems before pursuing solutions. (via Hofmann)
 * To ensure authentic dissent, Bock created the "Canaries", a group of trusted engineers with diverse viewpoints with a reputation for both being sensitive to adverse conditions and for speaking their minds. They are part advisory board, part focus group, and have become an invaluable safeguard to make sure Googlers' voices are heard.
 * Getting problems noted is half the battle, the other is listening to the right opinions about how to solve them. Bridgewater does this by gathering credible people to diagnose, share reasoning, and explore causes and possible solutions.
+* When groups are instructed to rank order alternatives, instead of choosing the best one, they're more likely to consider each option, share information about unpopular ones, and make a good decision. (Andrea Hollingshead)
 * At Bridgewater every employee has a believability score on a range of dimensions. When you are about to interact you can see their track record on seventy-seven different dimenions of values, skills, and abilities in the areas of higher-level thinking, practical thinking, maintaining high standards, determination, open-mindedness yet assertiveness, organization and reliability.
 * In presenting your views, your are expected to consider your own believability by telling your audience how confident you are. If you have doubts and you're not known as believable in the domain, you shouldn't have opinions in the first place; you're supposed to ask questions so you can learn. If you are expressing a fierce conviction, you should be forthright--but know your colleaguse will probe the quality of your reasoning. Even then, you're supposed to be assertive and open-minded at the same time.
 * Even if your organization doesn't currently embrace critical upward feedback, holding an open season on leaders might be an effective way to begin changing the culture. By role modeling receptivity, employees across the company may become more willing to challenge leaders and one another.
@@ -147,6 +148,7 @@
 * Two strategies for handling challenges: (Julie Norem)
   * strategic optimism: anticipate the best, stay calm and set high expectations.
   * defensive pessimists: expect the worst, feel anxious and imagine what can go wrong. Although more anxious and less confident, perform just as well as strategic optimists, thanks to a realistic appraisal and exhaustive plan.
+* Negative thoughts can direct our attention to potential problems, and the absense of those thoughts predicts a failure to take preventative and corrective action.
 * Rather than trying to suppress a strong emotion, it's easier to convert it to a different, equally intense emotion. ie "I am excited" when we feel anxious. (Brooks)
 * Fear is marked by uncertainty and the fear something bad will happen. But because it hasn't occurred, something good could happen too.
 * When we are not yet committed, thinking like a defensive pessimist can be hazardous. But once we have chose a course of action, it's better to confront them directly as a defensive pessimist might.
@@ -168,6 +170,7 @@
 * We should seek to be simultaneously hot-headed, fueling action and change, and cool-headed to shape action into legitimate and viable forms. (Debra Meyerson and Maureen Scully)
 * If you are feeling intense emotions like anxiety or anger, there are two ways to manage it: surface acting, where you put on a mask, modifying speech/gestures/expressions to appear unfazed; or deep acting, where you change your inner feelings also, and not just the outer expression (like method acting). Research shows that deep acting is more sustainable, whereas surface acting burns us out. (Arlie Hochschild)
 * Venting doesn't extinguish anger, it feeds it. The better you feel after venting, the more aggresive you get toward your critic, but also bystanders. (Bushman)
+* Expressing our thoughts and feelings about stressful or traumatic events is most salutary after we've had some time to process, when we are no longer blinded by anger or consumed by distress. (James Pennebaker)
 * One of the major problems with venting is that it focuses attention on the perpetrator of injustice. To channel anger productively, we should instead reflect on the victims who have suffered from it. Focusing on victims of injustice spurs us to speak truth to power (Andrew Brodsky, Joshua Margolis, Joel Brockner). Focusing on the viction activates empathetic anger--the desire to right wrongs done unto others. It activates us while also making us thoughtful about respeting the victim's dignity.
 * Research demonstrates that when we are angry at others, we aim for retaliation or revenge. But when we are angry for others, we seek justice and a better system.
 * Becoming original is not the easiest path to happiness, but it leaves us poised for the happiness of pursuit.
@@ -212,10 +215,3 @@
   * Explain how bad behaviors have consequences for others.
   * Emphasize values over rules.
   * Create novel niches for children to pursue - ie Jigsaw Classroom brings students together for a group project and assigns each a unique part.
-
-## Index
-
-* When groups are instructed to rank order alternatives, instead of choosing the best one, they're more likely to consider each option, share information about unpopular ones, and make a good decision. (Andrea Hollingshead)
-* Negative thoughts can direct our attention to potential problems, and the absense of those thoughts predicts a failure to take preventative and corrective action.
-* Expressing our thoughts and feelings about stressful or traumatic events is most salutary after we've had some time to process, when we are no longer blinded by anger or consumed by distress. (James Pennebaker)
-
