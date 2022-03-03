@@ -17,6 +17,9 @@
 - The advantage of such shortcut responding lies in its efficiency and economy; by reacting automatically to a normally informative trigger feature, an individual preserves crucial time, energy, and mental capacity. The disadvantage of such responding lies in its vulnerability to silly and costly mistakes; by reacting to only a piece of the available information (even a usually predictive piece), an individual increases the chances of error, especially when responding in an automatic, mindless fashion. [466]
 - Much of the compliance process (wherein one person is spurred to comply with another person’s request) can be understood in terms of a human tendency for automatic, shortcut responding. [471]
 - Perceptual contrast—the tendency to see two things that are different from one another as being more different than they actually are—is a lever of influence used by some compliance practitioners. [475]
+
+## Reciprocation
+
 - the rule of reciprocation. The rule says that we should try to repay what another person has provided us. [489]
 - By virtue of the reciprocity rule, then, we are obligated to the future repayment of favors, gifts, invitations, friendly actions, and the like. [497]
 - Although obligations extend into the future, their span is not unlimited. Especially for relatively small favors, the desire to repay seems to fade with time. But when gifts are of the truly notable and memorable sort, they can be remarkably long-lived. [516]
@@ -48,7 +51,9 @@
 - Another solution holds more promise. It advises us to accept the offers of others but to accept the offers only for what they fundamentally are, not for what they are represented to be. If a person offers us a nice favor, we might well accept, recognizing that we have obligated ourselves to a return favor sometime in the future. [1166]
 - However, if the initial favor turns out to be a device, a trick, an artifice designed specifically to stimulate our compliance with a larger return favor, that is a different story. [1170]
 - Once we have determined the initial offer was not a favor but a compliance tactic, we need only react to it accordingly to be free of its influence. [1172]
-- SUMMARY [1213]
+
+## Liking
+
 - The British writer Jonathan Swift saw it three hundred years ago and declared, “It is useless to attempt to reason a man out of a thing he was never reasoned into”—and thereby provided a tactical lesson science communicators have nevertheless failed to learn. [1258]
 - For would-be persuaders, the message is plain: to change feelings, counteract them with other feelings; and liking for a communicator offers a useful source of such feelings. [1268]
 - In fact, we find that such professionals seek to benefit from the rule even when already formed friendships are not present for them to employ. Under these circumstances, the professionals make use of the liking bond by employing a compliance strategy that is quite direct: they first get us to like them. [1355]
@@ -86,6 +91,9 @@
 - Instead, we have to be sensitive to only one thing related to liking in our contacts with compliance practitioners: the feeling that we have come to like the practitioner more quickly or more deeply than we would have expected. Once we notice this feeling, we will have been tipped off that there is probably some tactic being used, and we can start taking the necessary countermeasures. [1993]
 - Once we discover we have come to like Dan more than we would have expected, we don’t have to know why. The simple recognition of unwarranted liking should be enough to get us to react against it. [2005]
 - If our answer to the crucial question is “Yes, under the circumstances, I like this guy peculiarly well,” this should signal that the time has come for a quick counter-maneuver: Mentally separate Dan from that Chevy or Toyota he’s trying to sell. [2011]
+
+## Social Proof
+
 - the principle of social proof. This principle states that we determine what is correct by finding out what other people think is correct. [2084]
 - We view an action as correct in a given situation to the degree that we see others performing it. [2085]
 - The problem comes when we begin responding to social proof in such a mindless and reflexive fashion we can be fooled by partial or fake evidence. [2093]
@@ -159,6 +167,9 @@
 - The social-proof BIG MISTAKE many communicators make is to decry the frequency with which an unwanted behavior (drinking and driving, teen suicide, etc.) is performed, as a way to stop it. [3135]
 - When communicators are not able to use existing social proof because their idea, cause, or product does not have widespread support, they may be able to harness the power of future social proof by honestly describing trending support, which audiences expect to continue. [3138]
 - Recommendations to reduce our susceptibility to faulty social proof include cultivating a sensitivity to counterfeit evidence of what similar others are doing and recognizing that the actions of similar others should not form the sole basis for our decisions. [3140]
+
+## Authority
+
 - The Allures and Dangers of Blind Obedience [3286]
 - Because their positions speak of greater access to information and power, it makes sense to comply with the wishes of properly constituted authorities. It makes so much sense that we often do so when it makes no sense at all. [3308]
 - Connotation, Not Content [3367]
@@ -194,6 +205,9 @@
 - In addition, it is adaptive to obey the dictates of genuine authorities because such individuals usually possess high levels of knowledge, wisdom, and power. [3757]
 - To establish their trustworthiness, communicators may admit to a (usually minor) shortcoming of their case, which can be swept aside later by the presentation of outweighing strengths. [3768]
 - It is possible to defend ourselves against the detrimental effects of authority influence by asking two questions: Is this authority truly an expert? and How truthful can we expect this expert to be? [3770]
+
+## Scarcity
+
 - long-standing research showing that especially under conditions of risk and uncertainty, people are intensely motivated to make choices designed to avoid losing something of value—to a much greater extent than choices designed to obtain that thing. [3820]
 - The general idea of “loss aversion”—that people are more driven by the prospect of losing an item of value than by the prospect of gaining it—is the centerpiece of Nobel laureate Daniel Kahneman’s prospect theory, [3823]
 - Author’s note: It is worth asking what it is about the idea of loss that makes it so potent in human functioning. One prominent theory accounts for the primacy of loss over gain in evolutionary terms. If one has enough to survive, an increase in resources will be helpful but a decrease in those same resources could be fatal. Consequently, it would be adaptive to be especially sensitive to the possibility of loss (Haselton & Nettle, 2006). [3843]
@@ -261,6 +275,9 @@
 - First, scarce items are heightened in value when they are newly scarce. [4536]
 - Second, we are most attracted to scarce resources when we compete with others for them. [4538]
 - In defense, we might try to be alert to a rush of arousal in situations involving scarcity. Once alerted, we can take steps to calm the arousal and assess the merits of the opportunity in terms of why we want it. [4539]
+
+## Commitment and Consistency
+
 - employee commitment is highly related to employee productivity. [4580]
 - Once we make a choice or take a stand, we encounter personal and interpersonal pressures to think and behave consistently with that commitment. Moreover, those pressures will cause us to respond in ways that justify our decision. [4591]
 - To understand why consistency is so powerful a motive, we should recognize that in most circumstances, it is valued and adaptive. [4606]
@@ -310,6 +327,9 @@
 - Another advantage of commitment-based tactics is that simple reminders of an earlier commitment can regenerate its ability to guide behavior, even in novel situations. [5651]
 - To recognize and resist the undue influence of consistency pressures on our compliance decisions, we should listen for signals coming from two places within us: our stomachs and our heart of hearts. [5653]
 - “Knowing what I now know, if I could go back in time, would I make the same commitment?” One informative answer may come as the first flash of feeling registered. [5658]
+
+## Unity
+
 - Automatically and incessantly, everyone divides people into those to whom the pronoun we does and does not apply. [5677]
 - Those within the boundaries of “we” get more agreement, trust, help, liking, cooperation, emotional support, and forgiveness and are even judged as being more creative, moral, and humane. [5678]
 - “We” relationships are not those that allow people to say, “Oh, that person is like us.” They are the ones that allow people to say, “Oh, that person is one of us.” The unity rule of influence can thus be worded: People are inclined to say yes to someone they consider one of them. [5683]
@@ -389,6 +409,9 @@
 - The experience of acting together in unison or coordination is a second fundamental factor leading to a sense of unity with others. [6797]
 - It may be possible to use the unifying effects of belonging together and acting together to increase the odds of getting together as a species. It would require choosing to share, with out-group members, family experiences in our homes, neighbor experiences in our communities, and friendship experiences in our social interactions. [6799]
 - Other kinds of connections involving national identity, mutual enemies, joint emotional experience, and shared perspective can also lead to feelings of unity with out-group members; unfortunately, they are often short-lived. However, focusing concentrated, repeated attention on such connections may make them more enduring by increasing their perceived importance. [6802]
+
+## Instant Influence
+
 - Primitive Automaticity [6822]
 - despite the susceptibility to stupid decisions that accompanies reliance on a single feature of the available data, the pace of modern life demands that we frequently use this shortcut. [6827]
 - That’s why we employ the factors of reciprocation, liking, social proof, authority, scarcity, commitment and consistency, and unity so often and so automatically in making our compliance decisions. Each, by itself, provides a highly reliable cue as to when we will be better off saying yes instead of no. [6843]
