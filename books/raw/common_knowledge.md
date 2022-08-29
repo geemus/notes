@@ -115,6 +115,25 @@ When a team is transferring tacit knowledge about a nonroutine task. Allows leve
 ## Strategic Transfer
 
 When transferring very complex knowledge from one team to another when the teams may be separated by both time and space. Unlike Far Transfer, the impact is to large parts of the system, rather than one team or unit.
+- Receiving team does a task that impacts the whole organization in a context different from that of the source team.
+- Task is infrequent and nonroutine.
+- Knowledge is tacit and explicit.
+
+- When a team is taking on a one-off project and wants to benefit from others in the organization who have done similar tasks.
+- Strategic transfer is what people are wishing for when they say they don't want to "keep reinventing the wheel."
+- Requires translation, similar to far transfer, but for tasks that have a much broader impact across the organization.
+- Makes organizational knowledge available that otherwise would be lost or forgotten, extending it's shelf life. [Milton. Knowledge with Shelf Life]
+- Examples: British Petroleum - Knowledge Assets, U.S. Army - Center for Army Lessons Learned, Learning Histories
+- Business Driver: need to reduce costs and time involved in reinventing solutions to strategic issues.
+- Strategic Transfer Design Guidelines:
+  - Knowledge needed is identified by senior-level managers. Used when knowledge is presumed to exist somewhere, although it may be widely dispersed. Managers also need to identify where it exists.
+  - Knowledge specialists collect and interpret knowledge. These specialists need to formulate questions that get at the reasoning of interviewees, recognize inferences others make, and ask questions to test those inferences. These require considerable training and preparation. It is also often helpful for the collector to come from outside the team to bring perspective and avoid bias.
+  - Collection occurs in real time rather than retrospectively. In fact the collectors actions may actually influence and improve the situation while they are collecting.
+  - Focus is on the end user. Need to uncover not just the knowledge, but to frame it based on what the end user will need.
+  - Multiple voices are synthesized. Not just multiple collectors, but also multiple analysts and multiple people providing feedback on their interpretations. Inputs synthesize knowledge but also illustrate, amplify, verify, and continually challenge it.
+- Barriers and Problems:
+  - It's too expensive to have a group of knowledge specialists. You can borrow people on a temporary basis, as U.S. Army CALL does. Partly the problem is actual cost vs perceived cost as well, still it really only makes sense to incur this cost for things critical to the organizations future, otherwise less costly methods should be used.
+  - If the company identifies a "way to do something" we will all have to conform. Strategic Transfer should inform without dictating. Two safeguards are making principles on which knowledge sharing is based conspicuous and to build into knowledge products multiple voices representing multiple options.
 
 ## Expert Transfer
 
