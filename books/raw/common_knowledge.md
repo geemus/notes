@@ -37,6 +37,9 @@ By looking at the intended receiver, kind of task, and type of knowledge a trans
 ## Serial Transfer
 
 When a team does a task and then the same team repeats the task in a new context.
+- Receiving team does a similar task in a new context.
+- Task is frequent and nonroutine.
+- Knowledge is tacit and explicit.
 
 - Knowledge from previous attempts helps in future attempts, but only if knowledge is transfered from individuals to the team as a whole.
 - Serial transfer moves unique knowledge from each individual into a group or public space so that it can be integrated and made sense of by the whole team.
@@ -47,6 +50,8 @@ When a team does a task and then the same team repeats the task in a new context
 - Examples: U.S. Army - After Action Review, British Petroleum - After Action Reviews, Bechtel - Lessons Learned Meetings
 - Business Driver: Get a team to improve it's outcome measures by carufelly examining the relationship between the actions of members and the outcomes they have achieved.
 - Those who generate the knowledge must also be those who can act upon it. Team members must also be interdependent and working together toward an agreed-upon goal.
+- Teams have often met to reflect on what has happened, but meeting with the purpose of constructing knowledge out of their experience is relatively new.
+- Focuses on collective knowledge, rather than individual knowledge. Allows for complex relationship between action and outcome and assumes team members add valuable perspective that helps make the relationship more accurate.
 - Serial Transfer Design Guidelines:
   - Meetings are held regularly. Either at a scheduled time (ie weekly) or at the end of a defined action. They should not be in response to a success or failure, but just a routine part of how the work gets done. The regularity can also reduce fear of blame.
   - Meetings are brief. Thanks to their regularity and having a consistent format. For example the U.S. Army always reviews just three questions: What was supposed to happen? What happened? What accounts for the difference?
@@ -59,12 +64,33 @@ When a team does a task and then the same team repeats the task in a new context
   - Team members lack the skills to have knowledge-producing conversations. More explicit knowledge needs little more than 1) standardized questions 2) a team member to facilitate who is familiar with the process 3) basic norms of truth telling and 4) a no-recrimination policy. For more tacit knowledge greater skill may be needed, such as advocacy and inquiry, what Chris Argyris calls Model II. [Argyris. Knowledge for Action: A Guide to Overcoming Barriers to Organizational Change]
   - Team members disperse before the end of the project. Even in this context there can be value, as if the team holds regular meetings while they are together, each dispersing member will take more knowledge with them to wherever they end up.
   - The team is virtual. Serial transfer can still work as long as the design guidelines are held to.
-- Teams have often met to reflect on what has happened, but meeting with the purpose of constructing knowledge out of their experience is relatively new.
-- Focuses on collective knowledge, rather than individual knowledge. Allows for complex relationship between action and outcome and assumes team members add valuable perspective that helps make the relationship more accurate.
 
 ## Near Transfer
 
 When a team is transferring knowledge to a different team doing a similar task in a similar context, but in a different location.
+- Receiving team does a task similar to that of the source team and in a similar context.
+- Task is frequent and routine.
+- Knowledge is explicit.
+
+- When a team has learned something that the organization would like to replicate to other teams doing similar work.
+- Learning theorists know that the more a learning experience resembles the place and situation where the knowledge will be used, the more effective the transfer, which they call near transfer. [Gagne. The Conditions of Learning and Theory of Instruction]
+- In many organizations this sort of improvement is thought of as "best practice."
+- Examples: Ford - Best Practice Replication, Texas Instrument - Alert Notification System, Ernst & Young - PowerPacks.
+- Business Driver: Not about sharing knowledge, but about meeting specific business goals, ie increasing efficiency. Leadership must construct the connection and recipients must clearly undestand it to drive impact.
+- Near Transfer Design Guidelines:
+  - Knowledge is disseminated electronically. Facilitated by most knowledge to transfer being explicit.
+  - Electronic dissemination is supplemented by personal interaction. Face-to-face meetinsg reinforce relationships and show the knowledge/experience of the originators, this makes it more likely the knowledge will be put into action.
+  - Users specify the content and format. People receiving the knowledge can best identify 1) process to support transfer, 2) what should be included, and 3) the format. This also demonstrates that control is at the edges, rather than centrally located.
+  - Knowledge is pushed. Pushing is seen as a time saving, rather than a control device. Recipients don't have to know to search, and don't have to spend time doing so and sorting through large amounts of unrelated data.
+  - A limited number of items are pushed. Both the number must be low and the quality must be high.
+  - There is compliance with choice. Teams are expected to participate, both by contributing and by acknowledging receipt, but they are not required to implement any particular shared practice.
+  - Usage and business goals are monitored. Using something like a scorecard to show how many items have been contributed, acknowledged, and implemented for each team.
+  - Brief descriptions are adequate. Because of the similarity of contexts from originator to recipient, the reports can generally be standardized and minimized to make both submission and review faster.
+  - The database is targeted. Rather than a repository for everything, focus on databases targeted to a specific topic or community of practice.
+- Barriers and Problems:
+  - We tried a best practice database but company members didn't use it. The database is only one small part of the puzzle, you also need 1) well designed business driver, 2) identified knowledge related to the driver, 3) face-to-face knowledge to "warrant" the knowledge, 4) a way to publicly monitor usage and goals, and 5) designated people responsible for input and retreival. Near transfer nedes all of these pieces in place.
+  - If it's not invented here we won't use it. Find out who is sharing information, what they are sharing, and why others need it. Then construct a system that fits that culture.
+  - People don't have time to share. If it isn't possible to transfer with brevity, it's probably not explicit knowledge, and one of the other methods may be better suited.
 
 ## Far Transfer
 
