@@ -95,6 +95,22 @@ When a team is transferring knowledge to a different team doing a similar task i
 ## Far Transfer
 
 When a team is transferring tacit knowledge about a nonroutine task. Allows leveraging very specialized and critical knowledge to support costly decisions and problems.
+- Receiving team does a task similar to that of the source team, but in a different context.
+- Task is frequent and nonroutine.
+- Knowledge is tacit.
+
+- When a team has learned something that the the organizaiton would like to make available to other teams doing similar work.
+- Most knowledge that makes an organization competitive is tacit, rather than explicit. This is why companies compete so aggressively around employees. Writing it off as "difficult to transfer" is ignoring a company's most valuable knowledge asset.
+- Examples: British Petroleum - Peer Assist, Chevron - Capital Project Management, Lockheed Martin - LM21 Best Practices.
+- Business Driver: high-level, visible and determined at the corporate level.
+- Far Transfer Design Guidelines: (many ways to do this, but largely situation dependent, so less easy to replicate)
+  - Exchange is reciprocal. Originators know they will also come away from the experience with more knowledge.
+  - Source team knowledge is translated. Because team contexts are so different, knowledge has to be translated by one of the teams to the new context.
+  - People carry the tacit knowledge across the organization. Databases are not able to translate things to new contexts readily because they are explicit knowledge. People carry with them tacit knowledge that makes translation possible.
+  - Process is given a regonizable name. Provides a way to reference the process and takes it from an individual asking for help to a sanctioned organizational activity. This can remove concerns about being a pest/bother for instance. Names with a business ring can further help distance from "asking for help"
+- Barriers and Problems:
+  - We don't know how to get knowledge out of people's heads. You don't get tacit knowledge out of a person, you just move the person to where the knowledge is needed.
+  - Our people won't ask for help. In any organization there will already be a few people asking for and giving help, start there and scale. Even just 10-15% participation can build a knowledge-sharing culture. [Macy. Learning Theory and the Logic of Critical Mass]
 
 ## Strategic Transfer
 
