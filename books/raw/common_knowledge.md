@@ -6,6 +6,28 @@
 - Names matter. For some "lessons learned" meant mistakes and this created friction. Even the "management" in knowledge management feels loaded. Focus on a term that signifies what is to be accomplished, rather than the kind/type/quality of knowledge to be shared. Better yet, focus on the outcome rather than the process. ie "Lessons Learned Database" vs "Peer Assist".
 - Common knowledge is the knowledge employees learn from doing the organization's tasks. The "know how" rather than "know what" which is often unique to a particular organization which can provide competitive advantage because it is not equally available to competitors. It is also common because across the organization, many people have similar know how. Distinct from information, knowledge always links information to it's application in action in a specific setting.
 - The book seeks to gather lessons learned about doing lessons learned.
+- It is critical to develop multiple approaches for transfer, even if one is very successful.
+- Three major shifts in how we think about knowledge:
+  - Shift from thinking that experts are the primary source to thinking that everyone has useful knowledge. There may not be authoritative sources, so ground truth may need to be relied upon.
+  - Shift from thinking of knowledge as residing with individuals to embedded in a group or community. This can be problematic at organizations that focus reward/incentive at the individual level.
+  - Shift from thinking of knowledge as a stable commodity to thinking of it as dynamic and ever changing. Dynamic view conceives of knowledge as a temporary explanation used to guide action. This moves from something like a warehouse metaphor to one of flowing water.
+- Critical Elements for Integrating Systems:
+  - The relationship between the knowledge to be transferred and the larger goals of the unit or organization.
+  - The specific population the system targets.
+  - The specific benefit the target population receives from participating.
+  - How the system is monitored.
+  - Who has specific responsibilities for knowledge transfer.
+  - The control of the system.
+- Getting Started Building an Integrated System:
+  - Select a unit that has an interest in knowledge sharing.
+  - Establish a steering committee. Not about the nitty-gritty of operating the system, but instead making policy, articulating objectives and gathering resources.
+  - Conduct a knowledge assessment. Include internal and external participants to gain perspective. Should provide information to steering committee to help guide their decisions.
+  - Establish the framework for knowledge transfer. Should guide steering committee planning while being tailored to specifics of the organization.
+  - Identify an organizational goal and corresponding knowledge component.
+  - Identify the appropriate transfer process for each type of knowledge.
+  - Locate current informal systems that can be enhanced.
+  - Identify resources.
+  - Develop an integrated system for knowledge transfer.
 
 ## Myths
 
@@ -138,3 +160,26 @@ When transferring very complex knowledge from one team to another when the teams
 ## Expert Transfer
 
 When transferring explicit knowledge about a task that may be done infrequently. Because the needed expertise can be made explicit, the problem does not need interpreted, only clearly stated.
+- teams facing an unusual technical problem beyond the scope of their own knowledge seek the expertise of others in the organization to help them.
+- Receiving team does a different task from the source team, but in a similar context.
+- Task is infrequent and routine.
+- Knowledge is explicit.
+
+- Even when the knowledge is obscure in expert transfer, there is a known, explicit answer. It is not a matter of interpretation (such as far tranfer) or development (such as strategic transfer).
+- Electronic systems facilitate the transfer of explicit knowledge as messages can be brief and to the point, requesting very specific information.
+- Two ways to get answers: 1) broadcast the question to colleagues who are likely to have the answer or 2) use yellow pages functionality to identify a specific individual whose expertise makes it likely they will have the answer.
+- Examples: Buckman labs - Techforums, Tandem - Second-Class Mail, Chevron - Best Practices Resource Map.
+- Business Driver: Reduces time it takes teams to resolve nonroutine technical issues that they come across.
+- Expert Transfer Design Guidelines:
+  - Electronic forums are segmented by topic. Important to 1) reduce number of requests received and 2) send requests between people who have the same general knowledge, allowing brevity. Forums are seldom stand-alone, often accompanied by networked groups, communities of practice, meetings, trainings, announcements, etc.
+  - Electronic forums are monitored and supported.
+    - One or more persons are appointed to monitor and support each forum.
+    - Make sure questions are answered. Monitor checks to see if responses have been made, usually in a set time period, and otherwise forwards directly to a source who can answer.
+    - Archive responses. When responses have stopped or after a set time, the monitor summarizes, assigns keywords, and places summary where others can find it. Others can then first search the archive before asking new questions.
+    - Establish general guidelines.
+    - Attend to cultural differences. Adjust usage and other things to support particular user needs.
+    - Differing levels of participation are encouraged. The perception of sharing may be as important as the reality. People need to feel they can get help from others.
+    - Knowledge in pulled. Unlike some systems, users do not have to search, but instead make very specific requests and/or find very specific answers.
+- Barriers and Problems:
+  - Our technology is not sophisticated enough to connect people. Different people may be at different places in technology adoption, most opt to set up a system for those who can get in and let others catch up.
+  - Our people aren't computer literate. Less and less of an issue these days.
