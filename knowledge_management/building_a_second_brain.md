@@ -29,7 +29,7 @@
 - Eventually, the third and final way that people use their Second Brain is for creating new things. They realize that they have a lot of knowledge on a subject and decide to turn it into something concrete and shareable. (548)
 - Introducing The CODE Method: The Four Steps to Remembering What Matters (559) - To guide you in the process of creating your own Second Brain, I’ve developed a simple, intuitive four-part method called “CODE”—Capture; Organize; Distill; Express. (560)
 
-### - Capture: Keep What Resonates (573)
+### Capture: Keep What Resonates (573)
 
 - We need to adopt the perspective of a curator, stepping back from the raging river and starting to make intentional decisions about what information we want to fill our minds. (577)
 - The solution is to keep only what resonates in a trusted place that you control, and to leave the rest aside. (583)
