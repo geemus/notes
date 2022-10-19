@@ -1,5 +1,7 @@
 # The Meaning of Employee Engagement
 
+[source](https://www.researchgate.net/publication/255593558_The_Meaning_of_Employee_Engagement)
+
 ## What is Engagement?
 
 - In folk usage "engagement" is used in a manner implying the opposite of dis-engagement.
